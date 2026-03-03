@@ -31,9 +31,9 @@
         },
         {
           "id": "1_4",
-          "title": "Google AdSense",
-          "href": "https://www.google.com/adsense/",
-          "description": "Google AdSense广告服务。",
+          "title": "淘宝",
+          "href": "https://www.taobao.com/",
+          "description": "淘宝购物。",
           "icon": "/assets/images/logos/gads.webp",
           "enabled": true
         },
