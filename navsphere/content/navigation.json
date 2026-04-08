@@ -1679,7 +1679,7 @@
     },
     {
       "id": "8",
-      "title": "素材资源",
+      "title": "素材 · 资源",
       "icon": "linecons-thumbs-up",
       "items": [],
       "subCategories": [
@@ -1854,7 +1854,9 @@
             }
           ]
         }
-      ]
+      ],
+      "description": "",
+      "enabled": true
     },
     {
       "id": "1760512235168",
