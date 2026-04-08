@@ -1299,6 +1299,14 @@
           "description": "访问 dim.pttl.com",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=dim.pttl.com",
           "enabled": true
+        },
+        {
+          "id": "site_1775628708269_2a20d7pff",
+          "title": "禅道",
+          "href": "http://zentao.pttl.com/user-login-L215Lmh0bWw=.html",
+          "description": "访问 zentao.pttl.com",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=zentao.pttl.com",
+          "enabled": true
         }
       ],
       "subCategories": [
