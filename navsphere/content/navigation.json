@@ -1169,6 +1169,14 @@
               "description": "BTSCHOOL小乐园",
               "icon": "/assets/favicon_1775650557844.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1775650727408_v32kwoy3z",
+              "title": "WinterSakura",
+              "href": "https://wintersakura.net/login.php",
+              "description": "",
+              "icon": "/assets/favicon_1775650715942.ico",
+              "enabled": true
             }
           ]
         },
