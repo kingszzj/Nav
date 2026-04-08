@@ -1324,6 +1324,14 @@
           "description": "",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=wmsuat.pttl.com",
           "enabled": true
+        },
+        {
+          "id": "site_1775628926129_fqrrowa4r",
+          "title": "测试OMS",
+          "href": "http://omsuat.pttl.com/#/login",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=omsuat.pttl.com",
+          "enabled": true
         }
       ],
       "subCategories": [
