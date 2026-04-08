@@ -224,6 +224,14 @@
           "description": "访问 gitee.com",
           "icon": "/assets/favicon_1775631135064.png",
           "enabled": true
+        },
+        {
+          "id": "site_1775633771377_ut8s44rfw",
+          "title": "码农",
+          "href": "https://www.coder100.com/",
+          "description": "访问 www.coder100.com",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.coder100.com",
+          "enabled": true
         }
       ],
       "subCategories": []
