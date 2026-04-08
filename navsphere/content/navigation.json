@@ -1133,14 +1133,6 @@
               "description": "访问 wsdx.ccps.gov.cn",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=wsdx.ccps.gov.cn",
               "enabled": true
-            },
-            {
-              "id": "site_1775652075521_zqf57nt18",
-              "title": "学科网",
-              "href": "https://www.zxxk.com/",
-              "description": "访问 www.zxxk.com",
-              "icon": "/assets/favicon_1775652057703.png",
-              "enabled": true
             }
           ]
         }
@@ -1400,7 +1392,16 @@
       "icon": "FolderOpen",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1775652075521_zqf57nt18",
+          "title": "学科网",
+          "href": "https://www.zxxk.com/",
+          "description": "访问 www.zxxk.com",
+          "icon": "/assets/favicon_1775652057703.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
