@@ -1168,6 +1168,14 @@
               "description": "小红书创作中心",
               "icon": "/assets/img_1736912766835.webp",
               "enabled": true
+            },
+            {
+              "id": "site_1775663412646_sqa2s1rav",
+              "title": "抖音",
+              "href": "https://www.douyin.com/jingxuan",
+              "description": "访问 www.douyin.com",
+              "icon": "/assets/favicon_1775663386382.png",
+              "enabled": true
             }
           ]
         },
