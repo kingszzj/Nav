@@ -394,6 +394,14 @@
               "description": "认识 NotebookLM：给力的 AI 研究工具与思考伙伴，可以帮助您分析来源、理清复杂的资料及转换内容。",
               "icon": "/assets/favicon_1764162265139.svg",
               "enabled": true
+            },
+            {
+              "id": "site_1775663353522_vuh5wpak3",
+              "title": "微信网页版",
+              "href": "https://wx.qq.com/",
+              "description": "",
+              "icon": "/assets/favicon_1775663335951.ico",
+              "enabled": true
             }
           ]
         },
