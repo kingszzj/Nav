@@ -1512,6 +1512,14 @@
           "description": "访问 www.xuezhu.net",
           "icon": "/assets/favicon_1775662922914.png",
           "enabled": true
+        },
+        {
+          "id": "site_1775663028800_grsydkgr0",
+          "title": "广东省疾病预防控制中心网",
+          "href": "https://cdcp.gd.gov.cn/jkjy/jkzt/crbyfykz/crbkpyd/content/post_4751183.html",
+          "description": "广东省疾病预防控制中心网站由广东省疾病预防控制中心主办。",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=cdcp.gd.gov.cn",
+          "enabled": true
         }
       ],
       "subCategories": []
