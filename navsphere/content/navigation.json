@@ -934,14 +934,6 @@
               "description": "Developers and Open Source authors now have a massive amount of services offering free tiers, but it can be hard to find them all to make informed decisions.",
               "icon": "/assets/favicon_1760507315276.webp",
               "enabled": true
-            },
-            {
-              "id": "site_1775651744361_atyt966k7",
-              "title": "教习网",
-              "href": "https://www.51jiaoxi.com/yw/tb_c92831/",
-              "description": "访问 www.51jiaoxi.com",
-              "icon": "/assets/favicon_1775651686948.png",
-              "enabled": true
             }
           ]
         },
@@ -1399,6 +1391,14 @@
           "href": "https://www.yunxiao.com/",
           "description": "访问 www.yunxiao.com",
           "icon": "/assets/favicon_1775650768201.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1775651744361_atyt966k7",
+          "title": "教习网",
+          "href": "https://www.51jiaoxi.com/yw/tb_c92831/",
+          "description": "访问 www.51jiaoxi.com",
+          "icon": "/assets/favicon_1775651686948.png",
           "enabled": true
         }
       ],
