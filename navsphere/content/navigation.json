@@ -662,6 +662,14 @@
               "description": "奈云最新官网地址：",
               "icon": "/assets/favicon_1775650841155.png",
               "enabled": true
+            },
+            {
+              "id": "site_1775663080019_svwomu0f4",
+              "title": "AtomGit | GitCode - 全球开发者的开源社区,开源代码托管平台",
+              "href": "https://gitcode.com/GitHub_Trending/gi/GitHub520?utm_source=highlight_word_gitcode&word=github520&from_link=98ba1d8fe45be5450707d985fd6bbb75",
+              "description": "AtomGit | GitCode是面向全球开发者的开源社区,包括原创博客,开源代码托管,代码协作,项目管理等。与开发者社区互动,提升您的研发效率和质量。",
+              "icon": "/assets/favicon_1775663060479.png",
+              "enabled": true
             }
           ]
         },
