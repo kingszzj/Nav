@@ -1440,6 +1440,14 @@
           "description": "访问 ntce.neea.edu.cn",
           "icon": "/assets/favicon_1775661652692.png",
           "enabled": true
+        },
+        {
+          "id": "site_1775662297436_ejh4l4cio",
+          "title": "会计学堂",
+          "href": "https://www.acc5.com/",
+          "description": "访问 www.acc5.com",
+          "icon": "/assets/favicon_1775662274947.png",
+          "enabled": true
         }
       ],
       "subCategories": []
