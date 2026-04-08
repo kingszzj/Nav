@@ -232,6 +232,14 @@
           "description": "访问 www.zhihu.com",
           "icon": "/assets/favicon_1775622955864.png",
           "enabled": true
+        },
+        {
+          "id": "site_1775631166440_gkb0qpnrz",
+          "title": "Gitee（狐狸 Nomad）",
+          "href": "https://gitee.com/callmer",
+          "description": "访问 gitee.com",
+          "icon": "/assets/favicon_1775631135064.png",
+          "enabled": true
         }
       ],
       "subCategories": []
