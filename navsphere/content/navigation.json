@@ -6,6 +6,14 @@
       "icon": "Star",
       "items": [
         {
+          "id": "site_1775622842333_i866z2boa",
+          "title": "百度",
+          "href": "https://www.baidu.com",
+          "description": "访问 www.baidu.com",
+          "icon": "/assets/favicon_1775622830879.png",
+          "enabled": true
+        },
+        {
           "id": "1_2",
           "title": "京东",
           "href": "https://www.jd.com/",
@@ -171,14 +179,6 @@
           "href": "https://www.vmall.com/?cid=125903",
           "description": "华为商城是华为公司旗下官方电商平台，提供华为手机、PC、平板、穿戴、音频、智慧屏、IoT等智能终端产品，持续打造便捷、暖心的购物体验，力争将全场景智慧生活带给每一位消费者。",
           "icon": "/assets/favicon_1775630325502.ico",
-          "enabled": true
-        },
-        {
-          "id": "site_1775622842333_i866z2boa",
-          "title": "百度",
-          "href": "https://www.baidu.com",
-          "description": "访问 www.baidu.com",
-          "icon": "/assets/favicon_1775622830879.png",
           "enabled": true
         }
       ],
