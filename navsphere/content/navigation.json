@@ -442,7 +442,16 @@
       "icon": "Box",
       "description": "开发者工具，工具包",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1775622754777_y9yjpmslv",
+          "title": " 南宁住房公积金",
+          "href": "http://www.nngjj.org.cn/",
+          "description": "访问 www.nngjj.org.cn",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.nngjj.org.cn",
+          "enabled": true
+        }
+      ],
       "subCategories": [
         {
           "id": "85e2f8e6-8b32-4452-9022-2ff45065ecf9",
@@ -1188,14 +1197,6 @@
       "title": "牛马工具",
       "icon": "Laptop",
       "items": [
-        {
-          "id": "site_1775622754777_y9yjpmslv",
-          "title": " 南宁住房公积金",
-          "href": "http://www.nngjj.org.cn/",
-          "description": "访问 www.nngjj.org.cn",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.nngjj.org.cn",
-          "enabled": true
-        },
         {
           "id": "site_1775622805423_hemht70lq",
           "title": "高德地图",
