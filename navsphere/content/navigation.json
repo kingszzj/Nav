@@ -1220,16 +1220,7 @@
       "id": "2",
       "title": "牛马工具",
       "icon": "Laptop",
-      "items": [
-        {
-          "id": "site_1775628475685_l8nz491co",
-          "title": "Bpm",
-          "href": "http://bpm.pttl.com/coframe/auth/login/login.jsp",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=bpm.pttl.com",
-          "enabled": true
-        }
-      ],
+      "items": [],
       "subCategories": [
         {
           "id": "3",
@@ -1414,6 +1405,14 @@
               "href": "https://i.g7e6.com.cn/uc/login?dst_system_code=e6yun",
               "description": "访问 i.g7e6.com.cn",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=i.g7e6.com.cn",
+              "enabled": true
+            },
+            {
+              "id": "site_1775628475685_l8nz491co",
+              "title": "Bpm",
+              "href": "http://bpm.pttl.com/coframe/auth/login/login.jsp",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=bpm.pttl.com",
               "enabled": true
             }
           ],
