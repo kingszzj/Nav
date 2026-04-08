@@ -1430,6 +1430,14 @@
               "description": "访问 www.cetconline.com",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.cetconline.com",
               "enabled": true
+            },
+            {
+              "id": "site_1775630733111_i7vysgifw",
+              "title": "苏宁预约",
+              "href": "https://mpassport.suning.com/ids/login?service=https%3A%2F%2Fscpc.suning.com%2Fscpc%2Fauth%3FtargetUrl%3Dhttps%253A%252F%252Fscpc.suning.com%252Fscpc%252FpurchaseOrderNew%252FqueryPurchaseOrderPendDelivery.action&loginTheme=sop",
+              "description": "访问 mpassport.suning.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=mpassport.suning.com",
+              "enabled": true
             }
           ],
           "enabled": true
