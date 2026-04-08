@@ -1291,6 +1291,14 @@
           "description": "访问 vpn1.cetctaili.com",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=vpn1.cetctaili.com",
           "enabled": true
+        },
+        {
+          "id": "site_1775628675672_hej4j8xxj",
+          "title": "数智监管系统",
+          "href": "http://dim.pttl.com/login",
+          "description": "访问 dim.pttl.com",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=dim.pttl.com",
+          "enabled": true
         }
       ],
       "subCategories": [
