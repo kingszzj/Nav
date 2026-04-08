@@ -1267,6 +1267,14 @@
           "description": "访问 report.pttl.com",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=report.pttl.com",
           "enabled": true
+        },
+        {
+          "id": "site_1775628549346_5zqk0xatd",
+          "title": "Vcrm",
+          "href": "http://vcrm.pttl.com/crm/login.html",
+          "description": "访问 vcrm.pttl.com",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=vcrm.pttl.com",
+          "enabled": true
         }
       ],
       "subCategories": [
