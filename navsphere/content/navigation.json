@@ -1552,6 +1552,14 @@
           "description": "广东省疾病预防控制中心网站由广东省疾病预防控制中心主办。",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=cdcp.gd.gov.cn",
           "enabled": true
+        },
+        {
+          "id": "site_1775663786796_ztrxbqnu1",
+          "title": "263展示互动",
+          "href": "https://bjpep.gensee.com/webcast/site/vod/play-8c2c70eb37234d86a6293052d8640ac4?nickName=%E6%98%93%E7%90%BC%E7%91%B6&uid=1025443982",
+          "description": "访问 bjpep.gensee.com",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=bjpep.gensee.com",
+          "enabled": true
         }
       ],
       "subCategories": []
