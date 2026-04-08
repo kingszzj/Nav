@@ -1231,6 +1231,104 @@
       "items": [],
       "subCategories": [
         {
+          "id": "3",
+          "title": "生产工具",
+          "href": "#在线工具",
+          "icon": "Home",
+          "description": "日常操作",
+          "items": [
+            {
+              "id": "3_1",
+              "title": "TableConvert",
+              "href": "https://tableconvert.com/",
+              "description": "Excel转sql在线工具。将你的Excel数据转换成一个网络友好格式,包括HTML、JSON和XML,还可以把Excel 转换成Sql,excel 表格转成 Markdown",
+              "icon": "/assets/images/logos/tableconvert.webp",
+              "enabled": true
+            },
+            {
+              "id": "3_2",
+              "title": "JSON Editor Online",
+              "href": "https://jsoneditoronline.org/",
+              "description": "在线的JSON编辑器，包括格式化，可视化，对比，显示行号功能。",
+              "icon": "/assets/images/logos/json.webp",
+              "enabled": true
+            },
+            {
+              "id": "3_3",
+              "title": "Beautifier",
+              "href": "https://beautifier.io/",
+              "description": "Beautify JavaScript, JSON, React.js, HTML, CSS, SCSS, and SASS",
+              "icon": "/assets/images/logos/beautifier.webp",
+              "enabled": true
+            },
+            {
+              "id": "3_4",
+              "title": "SQL格式化",
+              "href": "https://www.dpriver.com/pp/sqlformat.htm",
+              "description": "在线美化SQL语句的工具，格式化方便阅读",
+              "icon": "/assets/images/logos/sqlformat.webp",
+              "enabled": true
+            },
+            {
+              "id": "3_5",
+              "title": "TinyPNG",
+              "href": "https://tinypng.com/",
+              "description": "在线图片压缩工具",
+              "icon": "/assets/images/logos/tinypng.webp",
+              "enabled": true
+            },
+            {
+              "id": "1735256523960",
+              "title": "ScreenShots.pro",
+              "href": "https://screenshots.pro/",
+              "description": "App Screenshot Generator for App Store&Google Play,Create panoramic screenshots for iOS and Android apps. No account needed.",
+              "icon": "/assets/img_1735258064656.webp",
+              "enabled": true
+            },
+            {
+              "id": "site_1775628343430_bxlstv5bq",
+              "title": "Tloms",
+              "href": "https://tloms.pttl.com:8000/#/login",
+              "description": "访问 tloms.pttl.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=tloms.pttl.com",
+              "enabled": true
+            },
+            {
+              "id": "site_1775628372477_3jcwd5kk4",
+              "title": "Tlwms",
+              "href": "https://tlwms.pttl.com:8200/#/login",
+              "description": "访问 tlwms.pttl.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=tlwms.pttl.com",
+              "enabled": true
+            },
+            {
+              "id": "site_1775628412264_795ni6d8l",
+              "title": "56linked",
+              "href": "https://www.56linked.com/login.html?to=/66yBofWn.html",
+              "description": "访问 www.56linked.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.56linked.com",
+              "enabled": true
+            },
+            {
+              "id": "site_1775628632794_xnrgdae0w",
+              "title": "Vpn",
+              "href": "https://vpn1.cetctaili.com/portal/#!/login",
+              "description": "访问 vpn1.cetctaili.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=vpn1.cetctaili.com",
+              "enabled": true
+            },
+            {
+              "id": "site_1775628549346_5zqk0xatd",
+              "title": "Vcrm",
+              "href": "http://vcrm.pttl.com/crm/login.html",
+              "description": "访问 vcrm.pttl.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=vcrm.pttl.com",
+              "enabled": true
+            }
+          ],
+          "enabled": true
+        },
+        {
           "id": "4",
           "title": "数据工具",
           "href": "#图形创意",
@@ -1331,104 +1429,6 @@
               "href": "https://www.cetconline.com/cps/login/index.html",
               "description": "访问 www.cetconline.com",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.cetconline.com",
-              "enabled": true
-            }
-          ],
-          "enabled": true
-        },
-        {
-          "id": "3",
-          "title": "生产工具",
-          "href": "#在线工具",
-          "icon": "Home",
-          "description": "日常操作",
-          "items": [
-            {
-              "id": "3_1",
-              "title": "TableConvert",
-              "href": "https://tableconvert.com/",
-              "description": "Excel转sql在线工具。将你的Excel数据转换成一个网络友好格式,包括HTML、JSON和XML,还可以把Excel 转换成Sql,excel 表格转成 Markdown",
-              "icon": "/assets/images/logos/tableconvert.webp",
-              "enabled": true
-            },
-            {
-              "id": "3_2",
-              "title": "JSON Editor Online",
-              "href": "https://jsoneditoronline.org/",
-              "description": "在线的JSON编辑器，包括格式化，可视化，对比，显示行号功能。",
-              "icon": "/assets/images/logos/json.webp",
-              "enabled": true
-            },
-            {
-              "id": "3_3",
-              "title": "Beautifier",
-              "href": "https://beautifier.io/",
-              "description": "Beautify JavaScript, JSON, React.js, HTML, CSS, SCSS, and SASS",
-              "icon": "/assets/images/logos/beautifier.webp",
-              "enabled": true
-            },
-            {
-              "id": "3_4",
-              "title": "SQL格式化",
-              "href": "https://www.dpriver.com/pp/sqlformat.htm",
-              "description": "在线美化SQL语句的工具，格式化方便阅读",
-              "icon": "/assets/images/logos/sqlformat.webp",
-              "enabled": true
-            },
-            {
-              "id": "3_5",
-              "title": "TinyPNG",
-              "href": "https://tinypng.com/",
-              "description": "在线图片压缩工具",
-              "icon": "/assets/images/logos/tinypng.webp",
-              "enabled": true
-            },
-            {
-              "id": "1735256523960",
-              "title": "ScreenShots.pro",
-              "href": "https://screenshots.pro/",
-              "description": "App Screenshot Generator for App Store&Google Play,Create panoramic screenshots for iOS and Android apps. No account needed.",
-              "icon": "/assets/img_1735258064656.webp",
-              "enabled": true
-            },
-            {
-              "id": "site_1775628343430_bxlstv5bq",
-              "title": "Tloms",
-              "href": "https://tloms.pttl.com:8000/#/login",
-              "description": "访问 tloms.pttl.com",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=tloms.pttl.com",
-              "enabled": true
-            },
-            {
-              "id": "site_1775628372477_3jcwd5kk4",
-              "title": "Tlwms",
-              "href": "https://tlwms.pttl.com:8200/#/login",
-              "description": "访问 tlwms.pttl.com",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=tlwms.pttl.com",
-              "enabled": true
-            },
-            {
-              "id": "site_1775628412264_795ni6d8l",
-              "title": "56linked",
-              "href": "https://www.56linked.com/login.html?to=/66yBofWn.html",
-              "description": "访问 www.56linked.com",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.56linked.com",
-              "enabled": true
-            },
-            {
-              "id": "site_1775628632794_xnrgdae0w",
-              "title": "Vpn",
-              "href": "https://vpn1.cetctaili.com/portal/#!/login",
-              "description": "访问 vpn1.cetctaili.com",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=vpn1.cetctaili.com",
-              "enabled": true
-            },
-            {
-              "id": "site_1775628549346_5zqk0xatd",
-              "title": "Vcrm",
-              "href": "http://vcrm.pttl.com/crm/login.html",
-              "description": "访问 vcrm.pttl.com",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=vcrm.pttl.com",
               "enabled": true
             }
           ],
