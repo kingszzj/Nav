@@ -1320,6 +1320,14 @@
               "description": "访问 www.miguvideo.com",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.miguvideo.com",
               "enabled": true
+            },
+            {
+              "id": "site_1775664976176_cqfvgtl5j",
+              "title": "歌曲宝-找歌就用歌曲宝-MP3音乐高品质在线免费下载",
+              "href": "https://www.gequbao.com/",
+              "description": "歌曲宝在线音乐搜索官网，可以在线免费下载MP3歌曲、流行音乐、经典老歌等。曲库完整，更新迅速，试听流畅，支持高品质|无损音质~",
+              "icon": "/assets/favicon_1775664962872.ico",
+              "enabled": true
             }
           ]
         },
