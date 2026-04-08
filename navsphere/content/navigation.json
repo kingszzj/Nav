@@ -1480,6 +1480,14 @@
               "description": "",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=omsuat.pttl.com",
               "enabled": true
+            },
+            {
+              "id": "site_1775630409570_edtgneeaf",
+              "title": "数据中台（测试）",
+              "href": "https://report-uat.pttl.com/login",
+              "description": "访问 report-uat.pttl.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=report-uat.pttl.com",
+              "enabled": true
             }
           ],
           "enabled": true
