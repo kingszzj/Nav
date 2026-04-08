@@ -1488,6 +1488,14 @@
           "description": "访问 jiaoshi.gdedu.gov.cn",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=jiaoshi.gdedu.gov.cn",
           "enabled": true
+        },
+        {
+          "id": "site_1775662778748_jsh6zc5g1",
+          "title": "中小学网络党校",
+          "href": "http://www.zxxdx.com.cn/",
+          "description": "访问 www.zxxdx.com.cn",
+          "icon": "/assets/favicon_1775662765595.png",
+          "enabled": true
         }
       ],
       "subCategories": []
