@@ -450,6 +450,14 @@
           "description": "访问 www.nngjj.org.cn",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.nngjj.org.cn",
           "enabled": true
+        },
+        {
+          "id": "site_1775622805423_hemht70lq",
+          "title": "高德地图",
+          "href": "https://www.amap.com/",
+          "description": "访问 www.amap.com",
+          "icon": "/assets/favicon_1775622784797.png",
+          "enabled": true
         }
       ],
       "subCategories": [
@@ -1197,14 +1205,6 @@
       "title": "牛马工具",
       "icon": "Laptop",
       "items": [
-        {
-          "id": "site_1775622805423_hemht70lq",
-          "title": "高德地图",
-          "href": "https://www.amap.com/",
-          "description": "访问 www.amap.com",
-          "icon": "/assets/favicon_1775622784797.png",
-          "enabled": true
-        },
         {
           "id": "site_1775622842333_i866z2boa",
           "title": "Baidu",
