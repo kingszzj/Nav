@@ -1400,6 +1400,14 @@
           "description": "访问 www.51jiaoxi.com",
           "icon": "/assets/favicon_1775651686948.png",
           "enabled": true
+        },
+        {
+          "id": "site_1775661511931_xq1iwh6dr",
+          "title": "广东省资助管理平台",
+          "href": "https://zzzh.gdedu.gov.cn/login",
+          "description": "访问 zzzh.gdedu.gov.cn",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=zzzh.gdedu.gov.cn",
+          "enabled": true
         }
       ],
       "subCategories": []
