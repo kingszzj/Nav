@@ -148,6 +148,14 @@
           "description": "edge 插件上传地址",
           "icon": "/assets/favicon_1768145646425.png",
           "enabled": true
+        },
+        {
+          "id": "1775622600493",
+          "title": "Chinadsl",
+          "href": "https://www.chinadsl.net/",
+          "description": "访问 www.chinadsl.net",
+          "icon": "/assets/favicon_1775622608520.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
