@@ -1495,6 +1495,14 @@
               "description": "",
               "icon": "https://uniportal.huawei.com/images/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1775631509460_7eu6f0w75",
+              "title": "太力业财一体化穿透式管理平台",
+              "href": "https://bfm.f.pttl.com/oauth/login",
+              "description": "访问 bfm.f.pttl.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=bfm.f.pttl.com",
+              "enabled": true
             }
           ],
           "enabled": true
