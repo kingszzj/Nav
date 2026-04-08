@@ -1472,6 +1472,14 @@
           "description": "访问 zp.cpta.com.cn",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=zp.cpta.com.cn",
           "enabled": true
+        },
+        {
+          "id": "site_1775662641848_qgf6efgek",
+          "title": "编辑校对网",
+          "href": "http://www.chinabianjiao.com/info-100190.html",
+          "description": "访问 www.chinabianjiao.com",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.chinabianjiao.com",
+          "enabled": true
         }
       ],
       "subCategories": []
