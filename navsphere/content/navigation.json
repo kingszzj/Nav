@@ -1236,14 +1236,6 @@
           "description": "",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=omsuat.pttl.com",
           "enabled": true
-        },
-        {
-          "id": "site_1775628973842_ikjvblzvi",
-          "title": "测试56linked",
-          "href": "https://test.56linked.com/login.html?to=/zPViO4B8.html",
-          "description": "访问 test.56linked.com",
-          "icon": "/assets/favicon_1775628958078.png",
-          "enabled": true
         }
       ],
       "subCategories": [
@@ -1464,6 +1456,14 @@
               "href": "http://tlmall-uat.pttl.com/login.html",
               "description": "",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=tlmall-uat.pttl.com",
+              "enabled": true
+            },
+            {
+              "id": "site_1775628973842_ikjvblzvi",
+              "title": "测试56linked",
+              "href": "https://test.56linked.com/login.html?to=/zPViO4B8.html",
+              "description": "访问 test.56linked.com",
+              "icon": "/assets/favicon_1775628958078.png",
               "enabled": true
             }
           ],
