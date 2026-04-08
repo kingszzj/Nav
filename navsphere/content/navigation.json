@@ -1496,6 +1496,14 @@
           "description": "访问 www.zxxdx.com.cn",
           "icon": "/assets/favicon_1775662765595.png",
           "enabled": true
+        },
+        {
+          "id": "site_1775662900397_53j8tlqfz",
+          "title": "好期刊",
+          "href": "https://www.haoqikan.com/fanwen/22582.html",
+          "description": "访问 www.haoqikan.com",
+          "icon": "/assets/favicon_1775662846643.png",
+          "enabled": true
         }
       ],
       "subCategories": []
