@@ -1231,6 +1231,112 @@
       "items": [],
       "subCategories": [
         {
+          "id": "4",
+          "title": "数据工具",
+          "href": "#图形创意",
+          "icon": "Book",
+          "description": "",
+          "items": [
+            {
+              "id": "4_1",
+              "title": "photoshop",
+              "href": "https://www.adobe.com/cn/products/photoshop.html",
+              "description": "Photoshop不需要解释",
+              "icon": "/assets/images/logos/photoshop.webp",
+              "enabled": true
+            },
+            {
+              "id": "4_2",
+              "title": "Affinity Designer",
+              "href": "https://affinity.serif.com/",
+              "description": "专业创意软件",
+              "icon": "/assets/images/logos/AffinityDesigner.webp",
+              "enabled": true
+            },
+            {
+              "id": "4_3",
+              "title": "Illustrator",
+              "href": "https://www.adobe.com/cn/products/illustrator/",
+              "description": "矢量图形和插图。",
+              "icon": "/assets/images/logos/Illustrator.webp",
+              "enabled": true
+            },
+            {
+              "id": "site_1775628442935_3u93cu8kg",
+              "title": "Tlihr",
+              "href": "https://tlihr.pttl.com/psp/ps/?cmd=login&languageCd=ZHS&",
+              "description": "访问 tlihr.pttl.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=tlihr.pttl.com",
+              "enabled": true
+            },
+            {
+              "id": "site_1775628504411_u12yiq58v",
+              "title": "数据中台",
+              "href": "https://report.pttl.com/login",
+              "description": "访问 report.pttl.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=report.pttl.com",
+              "enabled": true
+            },
+            {
+              "id": "site_1775628675672_hej4j8xxj",
+              "title": "数智监管系统",
+              "href": "http://dim.pttl.com/login",
+              "description": "访问 dim.pttl.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=dim.pttl.com",
+              "enabled": true
+            },
+            {
+              "id": "site_1775628708269_2a20d7pff",
+              "title": "禅道",
+              "href": "http://zentao.pttl.com/user-login-L215Lmh0bWw=.html",
+              "description": "访问 zentao.pttl.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=zentao.pttl.com",
+              "enabled": true
+            },
+            {
+              "id": "site_1775628759651_4cwugm2a6",
+              "title": "Csc",
+              "href": "https://csc.pttl.com/login.html",
+              "description": "访问 csc.pttl.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=csc.pttl.com",
+              "enabled": true
+            },
+            {
+              "id": "site_1775628593780_gzqx8bmxp",
+              "title": "太力学习平台",
+              "href": "https://el.yidianzhishi.com/personal.html#!/",
+              "description": "访问 el.yidianzhishi.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=el.yidianzhishi.com",
+              "enabled": true
+            },
+            {
+              "id": "site_1775629186891_x49ds5zjm",
+              "title": "易流",
+              "href": "https://i.g7e6.com.cn/uc/login?dst_system_code=e6yun",
+              "description": "访问 i.g7e6.com.cn",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=i.g7e6.com.cn",
+              "enabled": true
+            },
+            {
+              "id": "site_1775628475685_l8nz491co",
+              "title": "Bpm",
+              "href": "http://bpm.pttl.com/coframe/auth/login/login.jsp",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=bpm.pttl.com",
+              "enabled": true
+            },
+            {
+              "id": "site_1775630220718_sxjgt3qrp",
+              "title": "电科商城",
+              "href": "https://www.cetconline.com/cps/login/index.html",
+              "description": "访问 www.cetconline.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.cetconline.com",
+              "enabled": true
+            }
+          ],
+          "enabled": true
+        },
+        {
           "id": "3",
           "title": "生产工具",
           "href": "#在线工具",
@@ -1441,112 +1547,6 @@
               "href": "https://colorhunt.co/",
               "description": "色彩搭配",
               "icon": "/assets/images/logos/colorhunt.webp",
-              "enabled": true
-            }
-          ],
-          "enabled": true
-        },
-        {
-          "id": "4",
-          "title": "数据工具",
-          "href": "#图形创意",
-          "icon": "Book",
-          "description": "",
-          "items": [
-            {
-              "id": "4_1",
-              "title": "photoshop",
-              "href": "https://www.adobe.com/cn/products/photoshop.html",
-              "description": "Photoshop不需要解释",
-              "icon": "/assets/images/logos/photoshop.webp",
-              "enabled": true
-            },
-            {
-              "id": "4_2",
-              "title": "Affinity Designer",
-              "href": "https://affinity.serif.com/",
-              "description": "专业创意软件",
-              "icon": "/assets/images/logos/AffinityDesigner.webp",
-              "enabled": true
-            },
-            {
-              "id": "4_3",
-              "title": "Illustrator",
-              "href": "https://www.adobe.com/cn/products/illustrator/",
-              "description": "矢量图形和插图。",
-              "icon": "/assets/images/logos/Illustrator.webp",
-              "enabled": true
-            },
-            {
-              "id": "site_1775628442935_3u93cu8kg",
-              "title": "Tlihr",
-              "href": "https://tlihr.pttl.com/psp/ps/?cmd=login&languageCd=ZHS&",
-              "description": "访问 tlihr.pttl.com",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=tlihr.pttl.com",
-              "enabled": true
-            },
-            {
-              "id": "site_1775628504411_u12yiq58v",
-              "title": "数据中台",
-              "href": "https://report.pttl.com/login",
-              "description": "访问 report.pttl.com",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=report.pttl.com",
-              "enabled": true
-            },
-            {
-              "id": "site_1775628675672_hej4j8xxj",
-              "title": "数智监管系统",
-              "href": "http://dim.pttl.com/login",
-              "description": "访问 dim.pttl.com",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=dim.pttl.com",
-              "enabled": true
-            },
-            {
-              "id": "site_1775628708269_2a20d7pff",
-              "title": "禅道",
-              "href": "http://zentao.pttl.com/user-login-L215Lmh0bWw=.html",
-              "description": "访问 zentao.pttl.com",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=zentao.pttl.com",
-              "enabled": true
-            },
-            {
-              "id": "site_1775628759651_4cwugm2a6",
-              "title": "Csc",
-              "href": "https://csc.pttl.com/login.html",
-              "description": "访问 csc.pttl.com",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=csc.pttl.com",
-              "enabled": true
-            },
-            {
-              "id": "site_1775628593780_gzqx8bmxp",
-              "title": "太力学习平台",
-              "href": "https://el.yidianzhishi.com/personal.html#!/",
-              "description": "访问 el.yidianzhishi.com",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=el.yidianzhishi.com",
-              "enabled": true
-            },
-            {
-              "id": "site_1775629186891_x49ds5zjm",
-              "title": "易流",
-              "href": "https://i.g7e6.com.cn/uc/login?dst_system_code=e6yun",
-              "description": "访问 i.g7e6.com.cn",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=i.g7e6.com.cn",
-              "enabled": true
-            },
-            {
-              "id": "site_1775628475685_l8nz491co",
-              "title": "Bpm",
-              "href": "http://bpm.pttl.com/coframe/auth/login/login.jsp",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=bpm.pttl.com",
-              "enabled": true
-            },
-            {
-              "id": "site_1775630220718_sxjgt3qrp",
-              "title": "电科商城",
-              "href": "https://www.cetconline.com/cps/login/index.html",
-              "description": "访问 www.cetconline.com",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.cetconline.com",
               "enabled": true
             }
           ],
