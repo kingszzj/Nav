@@ -1480,6 +1480,14 @@
           "description": "访问 www.chinabianjiao.com",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.chinabianjiao.com",
           "enabled": true
+        },
+        {
+          "id": "site_1775662712896_5zqztgyin",
+          "title": "全国教师管理信息系统",
+          "href": "https://jiaoshi.gdedu.gov.cn/",
+          "description": "访问 jiaoshi.gdedu.gov.cn",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=jiaoshi.gdedu.gov.cn",
+          "enabled": true
         }
       ],
       "subCategories": []
