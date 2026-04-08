@@ -1275,6 +1275,14 @@
           "description": "访问 vcrm.pttl.com",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=vcrm.pttl.com",
           "enabled": true
+        },
+        {
+          "id": "site_1775628593780_gzqx8bmxp",
+          "title": "太力学习平台",
+          "href": "https://el.yidianzhishi.com/personal.html#!/",
+          "description": "访问 el.yidianzhishi.com",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=el.yidianzhishi.com",
+          "enabled": true
         }
       ],
       "subCategories": [
