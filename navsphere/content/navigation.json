@@ -232,6 +232,14 @@
           "description": "访问 www.coder100.com",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.coder100.com",
           "enabled": true
+        },
+        {
+          "id": "site_1775650153360_dfqr4s4zt",
+          "title": "无线技术网",
+          "href": "https://www.right.com.cn",
+          "description": "访问 www.right.com.cn",
+          "icon": "/assets/favicon_1775650087788.png",
+          "enabled": true
         }
       ],
       "subCategories": []
