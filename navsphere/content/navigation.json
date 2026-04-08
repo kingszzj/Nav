@@ -304,6 +304,14 @@
           "description": "提供图书、电影、音乐唱片的推荐、评论和价格比较，以及城市独特的文化生活。",
           "icon": "/assets/favicon_1775665215569.png",
           "enabled": true
+        },
+        {
+          "id": "site_1775665274797_w83zudq8r",
+          "title": "虎扑体育-虎扑网",
+          "href": "https://www.hupu.com/",
+          "description": "虎扑是以体育赛事和男性兴趣生活为主的社区网站。专注于NBA赛程、NBA录像、NBA直播、NBA资讯、球员交易、足球、英超、电竞、LPL等全部篮球足球电竞赛事，并提供虎扑步行街社区服务。",
+          "icon": "/assets/favicon_1775665263060.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
