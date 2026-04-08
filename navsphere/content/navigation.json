@@ -320,6 +320,14 @@
           "description": "访问 tieba.baidu.com",
           "icon": "/assets/favicon_1775665294834.png",
           "enabled": true
+        },
+        {
+          "id": "site_1775665353869_bdocl7kna",
+          "title": "微博",
+          "href": "https://weibo.com/newlogin?tabtype=weibo&gid=102803&openLoginLayer=0&url=https://weibo.com/",
+          "description": "",
+          "icon": "/assets/favicon_1775665342850.png",
+          "enabled": true
         }
       ],
       "subCategories": []
