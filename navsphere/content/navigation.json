@@ -777,6 +777,14 @@
               "description": "访问 test.ustc.edu.cn",
               "icon": "/assets/favicon_1775631727623.png",
               "enabled": true
+            },
+            {
+              "id": "site_1775650399801_fonijunlt",
+              "title": "华为云",
+              "href": "https://auth.huaweicloud.com/authui/login.html?service=https%3A%2F%2Fdeveloper.huaweicloud.com%2Fspace%2Flogin-forword.html%3FforwardUrl%3Dhttps%253A%252F%252Fdeveloper.huaweicloud.com%252Fspace%252Fdevportal%252Fdesktop%253Flocale%253Dzh-cn%26module%3Dhuaweideveloper&locale=zh-ch#/login",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=auth.huaweicloud.com",
+              "enabled": true
             }
           ]
         },
