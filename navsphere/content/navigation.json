@@ -1228,14 +1228,6 @@
           "description": "",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=bpm.pttl.com",
           "enabled": true
-        },
-        {
-          "id": "site_1775628926129_fqrrowa4r",
-          "title": "测试OMS",
-          "href": "http://omsuat.pttl.com/#/login",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=omsuat.pttl.com",
-          "enabled": true
         }
       ],
       "subCategories": [
@@ -1464,6 +1456,14 @@
               "href": "https://test.56linked.com/login.html?to=/zPViO4B8.html",
               "description": "访问 test.56linked.com",
               "icon": "/assets/favicon_1775628958078.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1775628926129_fqrrowa4r",
+              "title": "测试OMS",
+              "href": "http://omsuat.pttl.com/#/login",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=omsuat.pttl.com",
               "enabled": true
             }
           ],
