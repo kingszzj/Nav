@@ -1006,6 +1006,14 @@
               "description": "Convertio - 在线转换文件的简单工具。支持超过309种不同的文档、图像、电子表格、电子书、文档、演示文稿、音频和视频格式。",
               "icon": "/assets/favicon_1775664687983.png",
               "enabled": true
+            },
+            {
+              "id": "site_1775664772570_s4oni5jcp",
+              "title": "Wormhole - 简单、私密的文件共享",
+              "href": "https://wormhole.app/",
+              "description": "Wormhole 让你能以端到端加密和自动过期链接的方式分享文件。",
+              "icon": "/assets/favicon_1775664756426.png",
+              "enabled": true
             }
           ]
         },
