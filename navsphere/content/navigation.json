@@ -256,6 +256,14 @@
           "description": "访问 blog.csdn.net",
           "icon": "/assets/favicon_1775651571133.png",
           "enabled": true
+        },
+        {
+          "id": "site_1775654083421_vyajf86ls",
+          "title": "什么值得买",
+          "href": "https://www.smzdm.com/",
+          "description": "",
+          "icon": "/assets/favicon_1775654067006.png",
+          "enabled": true
         }
       ],
       "subCategories": []
