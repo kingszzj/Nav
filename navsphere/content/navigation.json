@@ -943,6 +943,14 @@
               "description": "Self-hosting platform with superpowers. Deploy apps, databases &#38; 280+ services to your server. Open-source alternative to Heroku.",
               "icon": "/assets/favicon_1761279686786.webp",
               "enabled": true
+            },
+            {
+              "id": "site_1775650454640_jpz5zhz0p",
+              "title": "Tailscale",
+              "href": "https://login.tailscale.com/login?next_url=%2Fadmin%2Fmachines",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=login.tailscale.com",
+              "enabled": true
             }
           ]
         },
