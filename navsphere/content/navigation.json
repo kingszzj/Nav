@@ -1434,14 +1434,6 @@
               "enabled": true
             },
             {
-              "id": "site_1775628442935_3u93cu8kg",
-              "title": "Tlihr",
-              "href": "https://tlihr.pttl.com/psp/ps/?cmd=login&languageCd=ZHS&",
-              "description": "访问 tlihr.pttl.com",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=tlihr.pttl.com",
-              "enabled": true
-            },
-            {
               "id": "site_1775628504411_u12yiq58v",
               "title": "数据中台",
               "href": "https://report.pttl.com/login",
@@ -1677,6 +1669,14 @@
               "href": "https://colorhunt.co/",
               "description": "色彩搭配",
               "icon": "/assets/images/logos/colorhunt.webp",
+              "enabled": true
+            },
+            {
+              "id": "site_1775628442935_3u93cu8kg",
+              "title": "Tlihr",
+              "href": "https://tlihr.pttl.com/psp/ps/?cmd=login&languageCd=ZHS&",
+              "description": "访问 tlihr.pttl.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=tlihr.pttl.com",
               "enabled": true
             }
           ],
