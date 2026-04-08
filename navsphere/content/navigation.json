@@ -1626,6 +1626,14 @@
               "description": "访问 zayxyhn.zayxy.com",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=zayxyhn.zayxy.com",
               "enabled": true
+            },
+            {
+              "id": "site_1775650650871_b0pj6sx6k",
+              "title": "腾讯企业邮箱",
+              "href": "https://exmail.qq.com/cgi-bin/loginpage?s=session_timeout&from=&r=6e108bef2f36d83f5a89647c742f3089",
+              "description": "��¼��Ѷ��ҵ����,����д�����ʼ���ַ,�����Ա�˺�,֧��΢��ɨһɨ��¼�����°�Foxmail,��������,�����շ�",
+              "icon": "/assets/favicon_1775650618388.ico",
+              "enabled": true
             }
           ],
           "enabled": true
