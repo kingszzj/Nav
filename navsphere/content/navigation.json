@@ -1209,6 +1209,14 @@
               "description": "",
               "icon": "/assets/favicon_1775650715942.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1775662205072_h9uyv07he",
+              "title": "M-Team",
+              "href": "https://kp.m-team.cc/login.php?returnto=%2Fmovie.php",
+              "description": "M-Team",
+              "icon": "/assets/favicon_1775662194325.ico",
+              "enabled": true
             }
           ]
         },
