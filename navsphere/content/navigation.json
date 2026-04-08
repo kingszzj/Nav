@@ -1395,6 +1395,15 @@
       ]
     },
     {
+      "id": "1775654552316",
+      "title": "教育·咨询",
+      "icon": "FolderOpen",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "2",
       "title": "牛马 · 工具",
       "icon": "Laptop",
@@ -2054,15 +2063,6 @@
           "enabled": true
         }
       ],
-      "subCategories": []
-    },
-    {
-      "id": "1775654552316",
-      "title": "教育·咨询",
-      "icon": "FolderOpen",
-      "description": "",
-      "enabled": true,
-      "items": [],
       "subCategories": []
     }
   ]
