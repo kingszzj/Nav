@@ -1438,6 +1438,14 @@
               "description": "访问 mpassport.suning.com",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=mpassport.suning.com",
               "enabled": true
+            },
+            {
+              "id": "site_1775630784113_oe5kva5j5",
+              "title": "PMail",
+              "href": "https://uniportal.huawei.com/uniportal1/login-pc.html?v=1.0&redirect=http%3A%2F%2Fpmall.huawei.com%2F%23%2F#/passwordLogin",
+              "description": "",
+              "icon": "https://uniportal.huawei.com/images/favicon.ico",
+              "enabled": true
             }
           ],
           "enabled": true
