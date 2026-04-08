@@ -312,6 +312,14 @@
           "description": "虎扑是以体育赛事和男性兴趣生活为主的社区网站。专注于NBA赛程、NBA录像、NBA直播、NBA资讯、球员交易、足球、英超、电竞、LPL等全部篮球足球电竞赛事，并提供虎扑步行街社区服务。",
           "icon": "/assets/favicon_1775665263060.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1775665305592_ti513fdtf",
+          "title": "贴吧",
+          "href": "https://tieba.baidu.com/",
+          "description": "访问 tieba.baidu.com",
+          "icon": "/assets/favicon_1775665294834.png",
+          "enabled": true
         }
       ],
       "subCategories": []
