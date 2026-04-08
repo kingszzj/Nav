@@ -1416,6 +1416,14 @@
           "description": "访问 v3.lt-edu.net",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=v3.lt-edu.net",
           "enabled": true
+        },
+        {
+          "id": "site_1775661690021_bsntmcj5m",
+          "title": "中国教育考试网",
+          "href": "https://ntce.neea.edu.cn/html1/folder/1507/1077-1.htm",
+          "description": "访问 ntce.neea.edu.cn",
+          "icon": "/assets/favicon_1775661652692.png",
+          "enabled": true
         }
       ],
       "subCategories": []
