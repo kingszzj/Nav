@@ -1414,6 +1414,14 @@
               "description": "",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=bpm.pttl.com",
               "enabled": true
+            },
+            {
+              "id": "site_1775630220718_sxjgt3qrp",
+              "title": "电科商城",
+              "href": "https://www.cetconline.com/cps/login/index.html",
+              "description": "访问 www.cetconline.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.cetconline.com",
+              "enabled": true
             }
           ],
           "enabled": true
