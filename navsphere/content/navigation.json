@@ -1203,6 +1203,14 @@
           "description": "访问 www.baidu.com",
           "icon": "/assets/favicon_1775622830879.png",
           "enabled": true
+        },
+        {
+          "id": "site_1775622910479_qrkp9rpb1",
+          "title": "广西人才网",
+          "href": "https://www.gxrc.com",
+          "description": "访问 www.gxrc.com",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.gxrc.com",
+          "enabled": true
         }
       ],
       "subCategories": [
