@@ -1619,6 +1619,14 @@
               "description": "",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=vcrm-uat.pttl.com",
               "enabled": true
+            },
+            {
+              "id": "site_1775631637658_qlc1fymwf",
+              "title": "BMC（测试）",
+              "href": "https://bmc-uat.pttl.com/pttlmp-frontend/login.html",
+              "description": "访问 bmc-uat.pttl.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=bmc-uat.pttl.com",
+              "enabled": true
             }
           ],
           "enabled": true
