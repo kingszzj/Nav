@@ -248,6 +248,14 @@
           "description": "访问 wp.gxnas.com",
           "icon": "/assets/favicon_1775650264078.png",
           "enabled": true
+        },
+        {
+          "id": "site_1775651589124_ec6dkl9lh",
+          "title": "csdn",
+          "href": "https://blog.csdn.net/",
+          "description": "访问 blog.csdn.net",
+          "icon": "/assets/favicon_1775651571133.png",
+          "enabled": true
         }
       ],
       "subCategories": []
