@@ -204,6 +204,14 @@
           "description": "访问 www.vip.com",
           "icon": "/assets/favicon_1775664279272.png",
           "enabled": true
+        },
+        {
+          "id": "site_1775664346409_vnymr6sa6",
+          "title": "DeepSeek",
+          "href": "https://chat.deepseek.com/sign_in",
+          "description": "",
+          "icon": "/assets/favicon_1775664320872.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
