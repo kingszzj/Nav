@@ -744,6 +744,14 @@
               "description": "Register domain names at Namecheap. Buy cheap domain names and enjoy 24/7 support. With over 18 million domains under management, you know you’re in good hands.",
               "icon": "/assets/favicon_1754295511938.webp",
               "enabled": true
+            },
+            {
+              "id": "site_1775631759054_bp93f9nsz",
+              "title": "中国科学技术大学测速网",
+              "href": "https://test.ustc.edu.cn/",
+              "description": "访问 test.ustc.edu.cn",
+              "icon": "/assets/favicon_1775631727623.png",
+              "enabled": true
             }
           ]
         },
