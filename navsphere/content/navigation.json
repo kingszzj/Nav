@@ -1230,14 +1230,6 @@
           "enabled": true
         },
         {
-          "id": "site_1775628900755_y3y7jt8sx",
-          "title": "测试WMS",
-          "href": "http://wmsuat.pttl.com/#/login",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=wmsuat.pttl.com",
-          "enabled": true
-        },
-        {
           "id": "site_1775628926129_fqrrowa4r",
           "title": "测试OMS",
           "href": "http://omsuat.pttl.com/#/login",
@@ -1464,6 +1456,14 @@
               "href": "https://www.figma.com/",
               "description": "在线UI设计工具",
               "icon": "/assets/images/logos/figma.webp",
+              "enabled": true
+            },
+            {
+              "id": "site_1775628900755_y3y7jt8sx",
+              "title": "测试WMS",
+              "href": "http://wmsuat.pttl.com/#/login",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=wmsuat.pttl.com",
               "enabled": true
             }
           ],
