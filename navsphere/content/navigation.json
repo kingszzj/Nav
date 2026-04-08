@@ -296,6 +296,14 @@
           "description": "",
           "icon": "/assets/favicon_1775654067006.png",
           "enabled": true
+        },
+        {
+          "id": "site_1775665234711_mpzipme50",
+          "title": "豆瓣",
+          "href": "https://www.douban.com/",
+          "description": "提供图书、电影、音乐唱片的推荐、评论和价格比较，以及城市独特的文化生活。",
+          "icon": "/assets/favicon_1775665215569.png",
+          "enabled": true
         }
       ],
       "subCategories": []
