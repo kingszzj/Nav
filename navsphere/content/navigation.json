@@ -1222,14 +1222,6 @@
       "icon": "Laptop",
       "items": [
         {
-          "id": "site_1775628372477_3jcwd5kk4",
-          "title": "Tlwms",
-          "href": "https://tlwms.pttl.com:8200/#/login",
-          "description": "访问 tlwms.pttl.com",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=tlwms.pttl.com",
-          "enabled": true
-        },
-        {
           "id": "site_1775628412264_795ni6d8l",
           "title": "56linked",
           "href": "https://www.56linked.com/login.html?to=/66yBofWn.html",
@@ -1412,6 +1404,14 @@
               "href": "https://tloms.pttl.com:8000/#/login",
               "description": "访问 tloms.pttl.com",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=tloms.pttl.com",
+              "enabled": true
+            },
+            {
+              "id": "site_1775628372477_3jcwd5kk4",
+              "title": "Tlwms",
+              "href": "https://tlwms.pttl.com:8200/#/login",
+              "description": "访问 tlwms.pttl.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=tlwms.pttl.com",
               "enabled": true
             }
           ],
