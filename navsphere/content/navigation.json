@@ -1553,6 +1553,14 @@
               "description": "访问 www.gx12333.net",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.gx12333.net",
               "enabled": true
+            },
+            {
+              "id": "site_1775631699443_eyyfillt3",
+              "title": "中安云教育安全生产网络培训平台",
+              "href": "http://zayxyhn.zayxy.com/user/security/login?su=%2FlearnCenter%2Findex",
+              "description": "访问 zayxyhn.zayxy.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=zayxyhn.zayxy.com",
+              "enabled": true
             }
           ],
           "enabled": true
