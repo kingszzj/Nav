@@ -2055,6 +2055,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1775654552316",
+      "title": "教育·咨询",
+      "icon": "FolderOpen",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
