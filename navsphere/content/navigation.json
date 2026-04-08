@@ -1332,6 +1332,14 @@
               "description": "访问 vcrm.pttl.com",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=vcrm.pttl.com",
               "enabled": true
+            },
+            {
+              "id": "site_1775630974232_0k1wkccj9",
+              "title": "顺丰太白",
+              "href": "https://buac.sf-express.com/login?redirect_uri=https%3A%2F%2Fwine.sf-laas.com%2F#/bLogin",
+              "description": "访问 buac.sf-express.com",
+              "icon": "/assets/favicon_1775630961282.png",
+              "enabled": true
             }
           ],
           "enabled": true
