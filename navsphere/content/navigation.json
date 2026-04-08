@@ -482,6 +482,14 @@
           "description": "访问 www.gxrc.com",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.gxrc.com",
           "enabled": true
+        },
+        {
+          "id": "site_1775630937485_ljidfu626",
+          "title": "423Down",
+          "href": "https://www.423down.com/",
+          "description": "知名软件达人|423DOWN.COM,更新快、专注去广告类软件输出10年、个人IP品牌软件分享站",
+          "icon": "/assets/favicon_1775630928810.ico",
+          "enabled": true
         }
       ],
       "subCategories": [
