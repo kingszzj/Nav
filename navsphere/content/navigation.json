@@ -240,6 +240,14 @@
           "description": "访问 www.right.com.cn",
           "icon": "/assets/favicon_1775650087788.png",
           "enabled": true
+        },
+        {
+          "id": "site_1775650302301_0z0fswnre",
+          "title": "gxnas博客",
+          "href": "https://wp.gxnas.com/",
+          "description": "访问 wp.gxnas.com",
+          "icon": "/assets/favicon_1775650264078.png",
+          "enabled": true
         }
       ],
       "subCategories": []
