@@ -1219,6 +1219,14 @@
           "description": "访问 www.gxrc.com",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.gxrc.com",
           "enabled": true
+        },
+        {
+          "id": "site_1775628343430_bxlstv5bq",
+          "title": "Tloms",
+          "href": "https://tloms.pttl.com:8000/#/login",
+          "description": "访问 tloms.pttl.com",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=tloms.pttl.com",
+          "enabled": true
         }
       ],
       "subCategories": [
