@@ -1244,14 +1244,6 @@
           "description": "访问 test.56linked.com",
           "icon": "/assets/favicon_1775628958078.png",
           "enabled": true
-        },
-        {
-          "id": "site_1775629132619_ygdbbkvoq",
-          "title": "测试太力商城",
-          "href": "http://tlmall-uat.pttl.com/login.html",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=tlmall-uat.pttl.com",
-          "enabled": true
         }
       ],
       "subCategories": [
@@ -1464,6 +1456,14 @@
               "href": "http://wmsuat.pttl.com/#/login",
               "description": "",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=wmsuat.pttl.com",
+              "enabled": true
+            },
+            {
+              "id": "site_1775629132619_ygdbbkvoq",
+              "title": "测试太力商城",
+              "href": "http://tlmall-uat.pttl.com/login.html",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=tlmall-uat.pttl.com",
               "enabled": true
             }
           ],
