@@ -1117,14 +1117,6 @@
               "description": "A股商品等基金净值计算工具",
               "icon": "/assets/favicon_1760611626932.webp",
               "enabled": true
-            },
-            {
-              "id": "site_1775650814168_38waiaemj",
-              "title": "云校",
-              "href": "https://www.yunxiao.com/",
-              "description": "访问 www.yunxiao.com",
-              "icon": "/assets/favicon_1775650768201.png",
-              "enabled": true
             }
           ]
         }
@@ -1399,6 +1391,14 @@
           "href": "https://wsdx.ccps.gov.cn/",
           "description": "访问 wsdx.ccps.gov.cn",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=wsdx.ccps.gov.cn",
+          "enabled": true
+        },
+        {
+          "id": "site_1775650814168_38waiaemj",
+          "title": "云校",
+          "href": "https://www.yunxiao.com/",
+          "description": "访问 www.yunxiao.com",
+          "icon": "/assets/favicon_1775650768201.png",
           "enabled": true
         }
       ],
