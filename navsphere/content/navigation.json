@@ -1195,6 +1195,14 @@
           "description": "访问 www.amap.com",
           "icon": "/assets/favicon_1775622784797.png",
           "enabled": true
+        },
+        {
+          "id": "site_1775622842333_i866z2boa",
+          "title": "Baidu",
+          "href": "https://www.baidu.com",
+          "description": "访问 www.baidu.com",
+          "icon": "/assets/favicon_1775622830879.png",
+          "enabled": true
         }
       ],
       "subCategories": [
