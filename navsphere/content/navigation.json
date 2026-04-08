@@ -1157,6 +1157,14 @@
               "description": "A股商品等基金净值计算工具",
               "icon": "/assets/favicon_1760611626932.webp",
               "enabled": true
+            },
+            {
+              "id": "site_1775664390321_3lsiiad59",
+              "title": "思谋学术_谷歌学术搜索和文献资源",
+              "href": "https://ac.scmor.com/",
+              "description": "思谋学术是提升科研效率的常用工具，自动检测和更新可访问的Google学术镜像网址，并提供学术资源导航，包括论文、电子书等文献的免费下载通道。",
+              "icon": "/assets/favicon_1775664373279.ico",
+              "enabled": true
             }
           ]
         }
