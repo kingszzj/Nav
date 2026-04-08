@@ -1260,14 +1260,6 @@
           "description": "",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=tlmall-uat.pttl.com",
           "enabled": true
-        },
-        {
-          "id": "site_1775629186891_x49ds5zjm",
-          "title": "易流",
-          "href": "https://i.g7e6.com.cn/uc/login?dst_system_code=e6yun",
-          "description": "访问 i.g7e6.com.cn",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=i.g7e6.com.cn",
-          "enabled": true
         }
       ],
       "subCategories": [
@@ -1446,6 +1438,14 @@
               "href": "https://el.yidianzhishi.com/personal.html#!/",
               "description": "访问 el.yidianzhishi.com",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=el.yidianzhishi.com",
+              "enabled": true
+            },
+            {
+              "id": "site_1775629186891_x49ds5zjm",
+              "title": "易流",
+              "href": "https://i.g7e6.com.cn/uc/login?dst_system_code=e6yun",
+              "description": "访问 i.g7e6.com.cn",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=i.g7e6.com.cn",
               "enabled": true
             }
           ],
