@@ -801,6 +801,14 @@
               "description": "",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=auth.huaweicloud.com",
               "enabled": true
+            },
+            {
+              "id": "site_1775651652057_007670gl9",
+              "title": "腾讯云",
+              "href": "https://cloud.tencent.com/login?s_url=https%3A%2F%2Fcloud.tencent.com%2Flogin%2Fthirdparty-login%3Fs_url%3Dhttps%253A%252F%252Fwww.dnspod.cn%252Flogin_proxy%252Ftencentcloud%253Fs_url%253Dhttps%25253A%25252F%25252Fconsole.dnspod.cn%25252Fdns%25252Flist%2526login_jump%253Dyes%26auth_type%3D1",
+              "description": "访问 cloud.tencent.com",
+              "icon": "/assets/favicon_1775651631839.png",
+              "enabled": true
             }
           ]
         },
