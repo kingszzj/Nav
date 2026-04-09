@@ -2456,6 +2456,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "31e98026-4b2e-4ad2-93a1-36b1a5fc50fc",
+          "title": "Tailscale",
+          "icon": "Folder",
+          "description": "Tailscale平台",
+          "enabled": true,
+          "items": []
         }
       ]
     }
