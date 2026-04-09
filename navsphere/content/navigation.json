@@ -2496,6 +2496,14 @@
               "description": "访问 lucky.usercn.fnos.net",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=lucky.usercn.fnos.net",
               "enabled": true
+            },
+            {
+              "id": "site_1775749909750_oignfwv3r",
+              "title": "Gitea",
+              "href": "https://gitea.usercn.fnos.net/",
+              "description": "访问 gitea.usercn.fnos.net",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=gitea.usercn.fnos.net",
+              "enabled": true
             }
           ]
         }
