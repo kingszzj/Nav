@@ -2448,7 +2448,16 @@
           "enabled": true
         }
       ],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "5ec75623-7028-4d62-8126-22dbaef491d3",
+          "title": "Cloudflare",
+          "icon": "BookOpen",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     }
   ]
 }
