@@ -2480,7 +2480,16 @@
           "icon": "Folder",
           "description": "飞牛 FN",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1775749621836_ez2qn6yzz",
+              "title": "Userc-NAS",
+              "href": "https://usercn.fnos.net/",
+              "description": "访问 usercn.fnos.net",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=usercn.fnos.net",
+              "enabled": true
+            }
+          ]
         }
       ]
     }
