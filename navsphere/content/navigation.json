@@ -2504,6 +2504,14 @@
               "description": "访问 gitea.usercn.fnos.net",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=gitea.usercn.fnos.net",
               "enabled": true
+            },
+            {
+              "id": "site_1775749961418_ttze3qc0l",
+              "title": "Transmission",
+              "href": "https://transmission-app.usercn.fnos.net",
+              "description": "访问 transmission-app.usercn.fnos.net",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=transmission-app.usercn.fnos.net",
+              "enabled": true
             }
           ]
         }
