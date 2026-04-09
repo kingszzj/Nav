@@ -2488,6 +2488,14 @@
               "description": "访问 usercn.fnos.net",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=usercn.fnos.net",
               "enabled": true
+            },
+            {
+              "id": "site_1775749762615_sdmgbod8b",
+              "title": "Lucky",
+              "href": "https://lucky.usercn.fnos.net/#/login",
+              "description": "访问 lucky.usercn.fnos.net",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=lucky.usercn.fnos.net",
+              "enabled": true
             }
           ]
         }
