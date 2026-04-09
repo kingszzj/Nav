@@ -2438,16 +2438,7 @@
       "icon": "Home",
       "description": "",
       "enabled": true,
-      "items": [
-        {
-          "id": "site_1775650944458_ukkanwswh",
-          "title": "飞牛nas（T）",
-          "href": "http://100.69.202.16:2112/login",
-          "description": "访问 100.69.202.16",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=100.69.202.16",
-          "enabled": true
-        }
-      ],
+      "items": [],
       "subCategories": [
         {
           "id": "5ec75623-7028-4d62-8126-22dbaef491d3",
@@ -2472,7 +2463,16 @@
           "icon": "Folder",
           "description": "Tailscale平台",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1775650944458_ukkanwswh",
+              "title": "飞牛NAS",
+              "href": "http://100.69.202.16:2112/login",
+              "description": "访问 100.69.202.16",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=100.69.202.16",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "8926b39e-015c-4da6-99b4-dee66ec376d6",
