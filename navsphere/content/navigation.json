@@ -2528,6 +2528,14 @@
               "description": "访问 usercn.fnos.net",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=usercn.fnos.net",
               "enabled": true
+            },
+            {
+              "id": "site_1775750260117_whwtaga9h",
+              "title": "Minipaint",
+              "href": "https://minipaint.usercn.fnos.net/",
+              "description": "访问 minipaint.usercn.fnos.net",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=minipaint.usercn.fnos.net",
+              "enabled": true
             }
           ]
         }
