@@ -2455,7 +2455,16 @@
           "icon": "Folder",
           "description": "Cloudflare 隧道",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1775749451125_dtsisdpqb",
+              "title": "飞牛 fnOS",
+              "href": "https://fnos.userc.org",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=fnos.userc.org",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "31e98026-4b2e-4ad2-93a1-36b1a5fc50fc",
