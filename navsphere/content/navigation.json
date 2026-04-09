@@ -2520,6 +2520,14 @@
               "description": "访问 usercn.fnos.net",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=usercn.fnos.net",
               "enabled": true
+            },
+            {
+              "id": "site_1775750055048_igye8031u",
+              "title": "飞牛影视",
+              "href": "https://usercn.fnos.net/v",
+              "description": "访问 usercn.fnos.net",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=usercn.fnos.net",
+              "enabled": true
             }
           ]
         }
