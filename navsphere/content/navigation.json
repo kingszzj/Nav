@@ -2536,6 +2536,14 @@
               "description": "访问 minipaint.usercn.fnos.net",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=minipaint.usercn.fnos.net",
               "enabled": true
+            },
+            {
+              "id": "site_1775750283397_g40pkr6lb",
+              "title": "Omni-tools",
+              "href": "https://omni-tools.usercn.fnos.net/",
+              "description": "访问 omni-tools.usercn.fnos.net",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=omni-tools.usercn.fnos.net",
+              "enabled": true
             }
           ]
         }
