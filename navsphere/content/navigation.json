@@ -2512,6 +2512,14 @@
               "description": "访问 transmission-app.usercn.fnos.net",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=transmission-app.usercn.fnos.net",
               "enabled": true
+            },
+            {
+              "id": "site_1775750013642_hq1io3iuj",
+              "title": "相册",
+              "href": "https://usercn.fnos.net/p",
+              "description": "访问 usercn.fnos.net",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=usercn.fnos.net",
+              "enabled": true
             }
           ]
         }
