@@ -2546,6 +2546,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "8a89bf0c-a8a9-401d-8e9a-3022d9bf7e7e",
+          "title": "内网",
+          "icon": "Link",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     }
