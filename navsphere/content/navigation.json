@@ -2561,6 +2561,14 @@
               "description": "访问 10.1.1.2",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.1.1.2",
               "enabled": true
+            },
+            {
+              "id": "site_1775816781583_76kzxzwd3",
+              "title": "lucky",
+              "href": "http://10.1.1.2:16601/#/login",
+              "description": "访问 10.1.1.2",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.1.1.2",
+              "enabled": true
             }
           ]
         }
