@@ -2721,6 +2721,14 @@
               "description": "访问 10.1.1.251",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.1.1.251",
               "enabled": true
+            },
+            {
+              "id": "site_1775956187394_1ojactw0e",
+              "title": "Jellyfin",
+              "href": "http://10.1.1.251:8097/web/#/login.html?serverid=598c856f815d49399c23cb8f6e0ac100&url=%2Fhome.html",
+              "description": "访问 10.1.1.251",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.1.1.251",
+              "enabled": true
             }
           ]
         }
