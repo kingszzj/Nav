@@ -2609,6 +2609,14 @@
               "description": "访问 10.1.1.251",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.1.1.251",
               "enabled": true
+            },
+            {
+              "id": "site_1775955012506_ewa13026j",
+              "title": "qBittorrent ",
+              "href": "http://10.1.1.251:8085/",
+              "description": "访问 10.1.1.251",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.1.1.251",
+              "enabled": true
             }
           ]
         }
