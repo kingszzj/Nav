@@ -2641,6 +2641,14 @@
               "description": "访问 10.1.1.251",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.1.1.251",
               "enabled": true
+            },
+            {
+              "id": "site_1775955336041_o09uvgb1t",
+              "title": "UPSnap",
+              "href": "http://10.1.1.251:8090/login/",
+              "description": "访问 10.1.1.251",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.1.1.251",
+              "enabled": true
             }
           ]
         }
