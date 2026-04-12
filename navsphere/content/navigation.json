@@ -2673,6 +2673,14 @@
               "description": "访问 10.1.1.251",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.1.1.251",
               "enabled": true
+            },
+            {
+              "id": "site_1775955708632_i6mh8risb",
+              "title": "iptv-checker",
+              "href": "http://10.1.1.251:7791/",
+              "description": "访问 10.1.1.251",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.1.1.251",
+              "enabled": true
             }
           ]
         }
