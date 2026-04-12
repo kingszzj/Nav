@@ -2689,6 +2689,14 @@
               "description": "访问 10.1.1.251",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.1.1.251",
               "enabled": true
+            },
+            {
+              "id": "site_1775955849894_lni3c1lro",
+              "title": "vocechat",
+              "href": "http://10.1.1.251:3456/#/login",
+              "description": "访问 10.1.1.251",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.1.1.251",
+              "enabled": true
             }
           ]
         }
