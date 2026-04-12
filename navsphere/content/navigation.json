@@ -2681,6 +2681,14 @@
               "description": "访问 10.1.1.251",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.1.1.251",
               "enabled": true
+            },
+            {
+              "id": "site_1775955809882_je4xliaqk",
+              "title": "Tugtainer",
+              "href": "http://10.1.1.251:2080/auth",
+              "description": "访问 10.1.1.251",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.1.1.251",
+              "enabled": true
             }
           ]
         }
