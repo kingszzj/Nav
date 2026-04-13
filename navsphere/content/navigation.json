@@ -2415,6 +2415,14 @@
               "description": "访问 100.75.12.42",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=100.75.12.42",
               "enabled": true
+            },
+            {
+              "id": "site_1776093520932_fyq6c731e",
+              "title": " MoviePilot",
+              "href": "http://100.75.12.42:55055/#/login",
+              "description": "访问 100.75.12.42",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=100.75.12.42",
+              "enabled": true
             }
           ]
         },
