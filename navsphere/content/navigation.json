@@ -2427,7 +2427,7 @@
             {
               "id": "site_1776093603200_jifkljpvf",
               "title": "Emby",
-              "href": "http://100.75.12.42:8096/web/index.html",
+              "href": "http://100.75.12.42:8096/web/index.html#!/startup/manuallogin.html?serverId=f9e90db553e943d9a9b57aaf6e6cbb59",
               "description": "访问 100.75.12.42",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=100.75.12.42",
               "enabled": true
