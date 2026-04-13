@@ -2431,6 +2431,14 @@
               "description": "访问 100.75.12.42",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=100.75.12.42",
               "enabled": true
+            },
+            {
+              "id": "site_1776094149175_bl62441nb",
+              "title": "Jellyfin",
+              "href": "http://100.75.12.42:8097/web/#/login.html?serverid=598c856f815d49399c23cb8f6e0ac100&url=%2Fhome.html",
+              "description": "访问 100.75.12.42",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=100.75.12.42",
+              "enabled": true
             }
           ]
         },
