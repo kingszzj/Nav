@@ -1844,14 +1844,6 @@
               "enabled": true
             },
             {
-              "id": "4_3",
-              "title": "Illustrator",
-              "href": "https://www.adobe.com/cn/products/illustrator/",
-              "description": "矢量图形和插图。",
-              "icon": "/assets/images/logos/Illustrator.webp",
-              "enabled": true
-            },
-            {
               "id": "site_1775628504411_u12yiq58v",
               "title": "数据中台",
               "href": "https://report.pttl.com/login",
