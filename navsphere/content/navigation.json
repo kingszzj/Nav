@@ -1172,6 +1172,14 @@
               "description": "访问 www.ruancang.net",
               "icon": "/assets/favicon_1776183656913.png",
               "enabled": true
+            },
+            {
+              "id": "site_1776184230052_qvssee102",
+              "title": "字体天下",
+              "href": "https://www.fonts.net.cn/",
+              "description": "访问 www.fonts.net.cn",
+              "icon": "/assets/favicon_1776184196986.png",
+              "enabled": true
             }
           ]
         }
