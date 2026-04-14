@@ -304,6 +304,14 @@
           "description": "访问 www.people.com.cn",
           "icon": "/assets/favicon_1776183060943.png",
           "enabled": true
+        },
+        {
+          "id": "site_1776183723585_gjd6nmirq",
+          "title": "滂湃",
+          "href": "https://www.thepaper.cn/",
+          "description": "访问 www.thepaper.cn",
+          "icon": "/assets/favicon_1776183704750.png",
+          "enabled": true
         }
       ],
       "subCategories": [
