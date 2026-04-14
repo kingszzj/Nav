@@ -1030,6 +1030,14 @@
               "description": "",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=login.tailscale.com",
               "enabled": true
+            },
+            {
+              "id": "site_1776184096210_hjbqdi3gn",
+              "title": "测速网",
+              "href": "https://www.speedtest.cn/",
+              "description": "访问 www.speedtest.cn",
+              "icon": "/assets/favicon_1776184033221.png",
+              "enabled": true
             }
           ]
         },
