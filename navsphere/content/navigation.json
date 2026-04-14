@@ -1151,7 +1151,16 @@
       "icon": "Video",
       "description": "自媒体工具包",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1776183178992_0fkgl8x0j",
+          "title": "芒果TV-天生青春",
+          "href": "https://www.mgtv.com/",
+          "description": "芒果TV-大家都在看的在线视频网站-热门综艺最新电影电视剧在线观看",
+          "icon": "/assets/favicon_1776183169355.ico",
+          "enabled": true
+        }
+      ],
       "subCategories": [
         {
           "id": "2fe4e538-79bf-4f73-b65c-63e00f94c42c",
