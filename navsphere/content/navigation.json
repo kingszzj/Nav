@@ -2247,14 +2247,6 @@
               "enabled": true
             },
             {
-              "id": "8_2_2",
-              "title": "iOS Icon Gallery",
-              "href": "http://iosicongallery.com/",
-              "description": "Showcasing beautiful icon designs from the iOS App Store",
-              "icon": "/assets/images/logos/iosicongallery.webp",
-              "enabled": true
-            },
-            {
               "id": "8_2_3",
               "title": "World Vector Logo",
               "href": "https://worldvectorlogo.com/",
