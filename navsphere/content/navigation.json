@@ -1345,6 +1345,14 @@
               "description": "The Movie Database (TMDB) is a popular, user editable database for movies and TV shows.",
               "icon": "/assets/favicon_1775662459267.png",
               "enabled": true
+            },
+            {
+              "id": "site_1776181626602_hll02j1gk",
+              "title": "YouTube",
+              "href": "https://www.youtube.com/",
+              "description": "在 YouTube 上畅享你喜爱的视频和音乐，上传原创内容并与亲朋好友和全世界观众分享你的视频。",
+              "icon": "/assets/favicon_1776181616895.png",
+              "enabled": true
             }
           ]
         },
