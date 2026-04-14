@@ -1304,6 +1304,14 @@
               "description": "访问 www.douyin.com",
               "icon": "/assets/favicon_1776183440587.png",
               "enabled": true
+            },
+            {
+              "id": "site_1776183762409_im9cu1je4",
+              "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+              "href": "https://www.bilibili.com/",
+              "description": "哔哩哔哩（bilibili.com)是国内知名的视频弹幕网站，这里有及时的动漫新番，活跃的ACG氛围，有创意的Up主。大家可以在这里找到许多欢乐。",
+              "icon": "/assets/favicon_1776183753680.ico",
+              "enabled": true
             }
           ]
         },
