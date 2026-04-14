@@ -280,6 +280,14 @@
           "description": "访问 www.zhihu.com",
           "icon": "/assets/favicon_1775622955864.png",
           "enabled": true
+        },
+        {
+          "id": "site_1776181299279_jc6zpp914",
+          "title": "网易",
+          "href": "https://www.163.com/",
+          "description": "网易是中国领先的互联网技术公司，为用户提供免费邮箱、游戏、搜索引擎服务，开设新闻、娱乐、体育等30多个内容频道，及博客、视频、论坛等互动交流，网聚人的力量。",
+          "icon": "/assets/favicon_1776181277498.png",
+          "enabled": true
         }
       ],
       "subCategories": [
