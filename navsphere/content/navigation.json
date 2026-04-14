@@ -1256,6 +1256,14 @@
               "description": "歌曲宝在线音乐搜索官网，可以在线免费下载MP3歌曲、流行音乐、经典老歌等。曲库完整，更新迅速，试听流畅，支持高品质|无损音质~",
               "icon": "/assets/favicon_1775664962872.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1776183223711_zz53w7eky",
+              "title": "56视频首页",
+              "href": "https://www.56.com/",
+              "description": "56网是中国原创视频网站,免费上传搞笑逗趣生活视频，观看优质丰富的特色节目，关注感兴趣的原创导演和美女解说，快速分享及评论互动。&quot;",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.56.com",
+              "enabled": true
             }
           ]
         },
