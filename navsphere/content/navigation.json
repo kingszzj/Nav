@@ -248,14 +248,6 @@
           "description": "",
           "icon": "/assets/favicon_1775665342850.png",
           "enabled": true
-        },
-        {
-          "id": "site_1775665412220_ojrwgeonx",
-          "title": "TapTap",
-          "href": "https://www.taptap.cn/",
-          "description": "",
-          "icon": "/assets/favicon_1775665386136.png",
-          "enabled": true
         }
       ],
       "subCategories": []
