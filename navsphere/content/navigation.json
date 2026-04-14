@@ -86,14 +86,6 @@
           "enabled": true
         },
         {
-          "id": "item-1765687115114",
-          "enabled": true,
-          "title": "PageSpeed Insights",
-          "href": "https://pagespeed.web.dev/",
-          "description": "",
-          "icon": "/assets/favicon_1765687105275.webp"
-        },
-        {
           "id": "1775622600493",
           "title": "宽带技术网",
           "href": "https://www.chinadsl.net/",
