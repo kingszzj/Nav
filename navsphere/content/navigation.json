@@ -824,6 +824,14 @@
               "enabled": true
             },
             {
+              "id": "site_1775664038907_h3aqlxvsy",
+              "title": "QQ音乐",
+              "href": "https://y.qq.com/",
+              "description": "访问 y.qq.com",
+              "icon": "/assets/favicon_1775664009296.png",
+              "enabled": true
+            },
+            {
               "id": "1736913194873",
               "title": "公众号助手",
               "href": "https://mp.weixin.qq.com/",
@@ -845,14 +853,6 @@
               "href": "https://creator.xiaohongshu.com/",
               "description": "小红书创作中心",
               "icon": "/assets/img_1736912766835.webp",
-              "enabled": true
-            },
-            {
-              "id": "site_1775664038907_h3aqlxvsy",
-              "title": "QQ音乐",
-              "href": "https://y.qq.com/",
-              "description": "访问 y.qq.com",
-              "icon": "/assets/favicon_1775664009296.png",
               "enabled": true
             },
             {
