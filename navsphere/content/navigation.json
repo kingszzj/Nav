@@ -567,6 +567,14 @@
           "enabled": true,
           "items": [
             {
+              "id": "1776267491364",
+              "title": "ZeroTier",
+              "href": "https://www.zerotier.com/",
+              "description": "Connect everything, from cloud to IoT, with the next-generation global network solution. Simple, resilient, and secure networking in minutes.",
+              "icon": "/assets/favicon_1776267494363.svg",
+              "enabled": true
+            },
+            {
               "id": "1765279305478",
               "title": "在线效率工具箱",
               "href": "https://www.newkit.site/",
@@ -620,14 +628,6 @@
               "href": "https://coolify.io/",
               "description": "Self-hosting platform with superpowers. Deploy apps, databases &#38; 280+ services to your server. Open-source alternative to Heroku.",
               "icon": "/assets/favicon_1761279686786.webp",
-              "enabled": true
-            },
-            {
-              "id": "1776267491364",
-              "title": "ZeroTier",
-              "href": "https://www.zerotier.com/",
-              "description": "Connect everything, from cloud to IoT, with the next-generation global network solution. Simple, resilient, and secure networking in minutes.",
-              "icon": "/assets/favicon_1776267494363.svg",
               "enabled": true
             }
           ]
