@@ -1509,6 +1509,14 @@
           "description": "测试验证系统",
           "items": [
             {
+              "id": "site_1775628926129_fqrrowa4r",
+              "title": "TLOMS（测试）",
+              "href": "http://omsuat.pttl.com/#/login",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=omsuat.pttl.com",
+              "enabled": true
+            },
+            {
               "id": "5_1",
               "title": "Figma",
               "href": "https://www.figma.com/",
@@ -1538,14 +1546,6 @@
               "href": "https://test.56linked.com/login.html?to=/zPViO4B8.html",
               "description": "访问 test.56linked.com",
               "icon": "/assets/favicon_1775628958078.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1775628926129_fqrrowa4r",
-              "title": "TLOMS（测试）",
-              "href": "http://omsuat.pttl.com/#/login",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=omsuat.pttl.com",
               "enabled": true
             },
             {
