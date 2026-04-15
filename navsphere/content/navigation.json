@@ -1557,19 +1557,19 @@
               "enabled": true
             },
             {
-              "id": "5_1",
-              "title": "Figma",
-              "href": "https://www.figma.com/",
-              "description": "在线UI设计工具",
-              "icon": "/assets/images/logos/figma.webp",
-              "enabled": true
-            },
-            {
               "id": "site_1775631564613_9uwjsgl4p",
               "title": "vcrm（测试）",
               "href": "http://vcrm-uat.pttl.com/crm/login.html",
               "description": "",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=vcrm-uat.pttl.com",
+              "enabled": true
+            },
+            {
+              "id": "5_1",
+              "title": "Figma",
+              "href": "https://www.figma.com/",
+              "description": "在线UI设计工具",
+              "icon": "/assets/images/logos/figma.webp",
               "enabled": true
             },
             {
