@@ -824,6 +824,14 @@
               "enabled": true
             },
             {
+              "id": "site_1776183927875_y1w30cb15",
+              "title": "虎牙直播",
+              "href": "https://www.huya.com/",
+              "description": "虎牙直播是以游戏直播为主的弹幕式互动直播平台，累计注册用户2亿，提供热门游戏直播、电竞赛事直播与游戏赛事直播，手游直播等。包含英雄联盟lol，王者荣耀，绝地求生，和平精英等游戏直播，lol、dota2、dnf等热门游戏直播以及单机游戏、手游等游戏直播。",
+              "icon": "/assets/favicon_1776183915479.png",
+              "enabled": true
+            },
+            {
               "id": "site_1776183840584_0ned84oo8",
               "title": " 网易云音乐",
               "href": "https://music.163.com/",
@@ -917,14 +925,6 @@
               "href": "https://www.douyin.com/jingxuan",
               "description": "访问 www.douyin.com",
               "icon": "/assets/favicon_1776183440587.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1776183927875_y1w30cb15",
-              "title": "虎牙直播",
-              "href": "https://www.huya.com/",
-              "description": "虎牙直播是以游戏直播为主的弹幕式互动直播平台，累计注册用户2亿，提供热门游戏直播、电竞赛事直播与游戏赛事直播，手游直播等。包含英雄联盟lol，王者荣耀，绝地求生，和平精英等游戏直播，lol、dota2、dnf等热门游戏直播以及单机游戏、手游等游戏直播。",
-              "icon": "/assets/favicon_1776183915479.png",
               "enabled": true
             },
             {
