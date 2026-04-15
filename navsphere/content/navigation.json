@@ -508,6 +508,14 @@
               "description": "Make videos programmatically.Create real MP4 videos with React.\nParametrize content, render server-side and build applications.",
               "icon": "/assets/favicon_1759282148802.webp",
               "enabled": true
+            },
+            {
+              "id": "1776266842035",
+              "title": "即梦AI",
+              "href": "https://jimeng.jianying.com/ai-tool/generate",
+              "description": "即梦AI是一个AI创作平台，可激发艺术创意、提升绘画和视频创作体验。您可以利用AI智能，将想象变为现实。即梦AI支持文字绘图、文字生成视频和图片生成视频，并提供创作灵感。让即梦AI开启您的AI生成艺术之旅，探索创造的无限可能！",
+              "icon": "/assets/favicon_1776266846331.ico",
+              "enabled": true
             }
           ]
         },
