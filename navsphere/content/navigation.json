@@ -144,16 +144,16 @@
       ],
       "subCategories": [
         {
-          "id": "93eb85f3-f1ec-4b10-86e6-54435e7b3d17",
-          "title": "购物",
+          "id": "18a172fe-d628-4062-8e78-075bc2c2e4b5",
+          "title": "搜索",
           "icon": "BookOpen",
           "description": "",
           "enabled": true,
           "items": []
         },
         {
-          "id": "18a172fe-d628-4062-8e78-075bc2c2e4b5",
-          "title": "搜索",
+          "id": "93eb85f3-f1ec-4b10-86e6-54435e7b3d17",
+          "title": "购物",
           "icon": "BookOpen",
           "description": "",
           "enabled": true,
