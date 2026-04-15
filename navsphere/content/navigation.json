@@ -76,6 +76,14 @@
           "description": "访问 www.vip.com",
           "icon": "/assets/favicon_1776269122660.png",
           "enabled": true
+        },
+        {
+          "id": "site_1775630937485_ljidfu626",
+          "title": "下载",
+          "href": "https://www.423down.com/",
+          "description": "知名软件达人|423DOWN.COM,更新快、专注去广告类软件输出10年、个人IP品牌软件分享站",
+          "icon": "/assets/favicon_1775630928810.ico",
+          "enabled": true
         }
       ],
       "subCategories": [],
@@ -714,14 +722,6 @@
           "description": "",
           "enabled": true,
           "items": [
-            {
-              "id": "site_1775630937485_ljidfu626",
-              "title": "423Down",
-              "href": "https://www.423down.com/",
-              "description": "知名软件达人|423DOWN.COM,更新快、专注去广告类软件输出10年、个人IP品牌软件分享站",
-              "icon": "/assets/favicon_1775630928810.ico",
-              "enabled": true
-            },
             {
               "id": "site_1776183674494_5m32c5iwx",
               "title": "软仓",
