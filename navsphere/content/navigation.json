@@ -46,14 +46,6 @@
           "enabled": true
         },
         {
-          "id": "1735119857233",
-          "title": "截图美化工具",
-          "href": "https://shots.so/",
-          "description": "截图美化，套上不同设备的壳，浏览器、iPhone、iPad、MacBook，Apple Watch",
-          "icon": "/assets/images/logos/shots.webp",
-          "enabled": true
-        },
-        {
           "id": "1754229699374",
           "title": "Lucide",
           "href": "https://lucide.dev/",
@@ -628,6 +620,14 @@
               "href": "https://www.gaoding.com/ps-landing#/",
               "description": "稿定设计PS是一款专业精简的在线ps图片处理软件，免下载、免安装，直接在浏览器打开网页版就可随时随地用它修正，调整和美化您的图片。",
               "icon": "/assets/favicon_1775665434784.ico",
+              "enabled": true
+            },
+            {
+              "id": "1735119857233",
+              "title": "截图美化工具",
+              "href": "https://shots.so/",
+              "description": "截图美化，套上不同设备的壳，浏览器、iPhone、iPad、MacBook，Apple Watch",
+              "icon": "/assets/images/logos/shots.webp",
               "enabled": true
             }
           ]
