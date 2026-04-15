@@ -6,14 +6,6 @@
       "icon": "Star",
       "items": [
         {
-          "id": "site_1775622842333_i866z2boa",
-          "title": "百度",
-          "href": "https://www.baidu.com",
-          "description": "访问 www.baidu.com",
-          "icon": "/assets/favicon_1775622830879.png",
-          "enabled": true
-        },
-        {
           "id": "1_1",
           "title": "GitHub",
           "href": "https://github.com/",
@@ -85,7 +77,16 @@
           "icon": "BookOpen",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1775622842333_i866z2boa",
+              "title": "百度",
+              "href": "https://www.baidu.com",
+              "description": "访问 www.baidu.com",
+              "icon": "/assets/favicon_1775622830879.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "93eb85f3-f1ec-4b10-86e6-54435e7b3d17",
