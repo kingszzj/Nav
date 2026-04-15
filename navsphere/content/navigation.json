@@ -1385,6 +1385,14 @@
           "description": "",
           "items": [
             {
+              "id": "site_1775628593780_gzqx8bmxp",
+              "title": "太力学习平台",
+              "href": "https://el.yidianzhishi.com/personal.html#!/",
+              "description": "访问 el.yidianzhishi.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=el.yidianzhishi.com",
+              "enabled": true
+            },
+            {
               "id": "site_1775628675672_hej4j8xxj",
               "title": "数智监管系统",
               "href": "http://dim.pttl.com/login",
@@ -1414,14 +1422,6 @@
               "href": "https://csc.pttl.com/login.html",
               "description": "访问 csc.pttl.com",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=csc.pttl.com",
-              "enabled": true
-            },
-            {
-              "id": "site_1775628593780_gzqx8bmxp",
-              "title": "太力学习平台",
-              "href": "https://el.yidianzhishi.com/personal.html#!/",
-              "description": "访问 el.yidianzhishi.com",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=el.yidianzhishi.com",
               "enabled": true
             },
             {
