@@ -691,19 +691,19 @@
               "enabled": true
             },
             {
-              "id": "1760611357060",
-              "title": "集思录",
-              "href": "https://www.jisilu.cn/",
-              "description": "集思录，一个以数据为本的投资社区",
-              "icon": "/assets/favicon_1760611378684.webp",
-              "enabled": true
-            },
-            {
               "id": "1760611134039",
               "title": "巨潮资讯网",
               "href": "https://www.cninfo.com.cn/",
               "description": "巨潮资讯网",
               "icon": "/assets/favicon_1760611181157.webp",
+              "enabled": true
+            },
+            {
+              "id": "1760611357060",
+              "title": "集思录",
+              "href": "https://www.jisilu.cn/",
+              "description": "集思录，一个以数据为本的投资社区",
+              "icon": "/assets/favicon_1760611378684.webp",
               "enabled": true
             },
             {
