@@ -904,14 +904,6 @@
               "enabled": true
             },
             {
-              "id": "site_1776183454844_lyjhpv5b9",
-              "title": "抖音",
-              "href": "https://www.douyin.com/jingxuan",
-              "description": "访问 www.douyin.com",
-              "icon": "/assets/favicon_1776183440587.png",
-              "enabled": true
-            },
-            {
               "id": "1736913194873",
               "title": "公众号助手",
               "href": "https://mp.weixin.qq.com/",
