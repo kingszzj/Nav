@@ -575,19 +575,19 @@
               "enabled": true
             },
             {
-              "id": "1765279305478",
-              "title": "在线效率工具箱",
-              "href": "https://www.newkit.site/",
-              "description": "NewKit 提供精选的在线实用工具，JSON格式化、SQL美化、加密解密等，简洁高效，数据本地处理",
-              "icon": "/assets/favicon_1765279307988.svg",
-              "enabled": true
-            },
-            {
               "id": "site_1775650454640_jpz5zhz0p",
               "title": "Tailscale",
               "href": "https://login.tailscale.com/login?next_url=%2Fadmin%2Fmachines",
               "description": "",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=login.tailscale.com",
+              "enabled": true
+            },
+            {
+              "id": "1765279305478",
+              "title": "在线效率工具箱",
+              "href": "https://www.newkit.site/",
+              "description": "NewKit 提供精选的在线实用工具，JSON格式化、SQL美化、加密解密等，简洁高效，数据本地处理",
+              "icon": "/assets/favicon_1765279307988.svg",
               "enabled": true
             },
             {
