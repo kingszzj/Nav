@@ -1565,19 +1565,19 @@
               "enabled": true
             },
             {
-              "id": "5_1",
-              "title": "Figma",
-              "href": "https://www.figma.com/",
-              "description": "在线UI设计工具",
-              "icon": "/assets/images/logos/figma.webp",
-              "enabled": true
-            },
-            {
               "id": "site_1775631637658_qlc1fymwf",
               "title": "BMC（测试）",
               "href": "https://bmc-uat.pttl.com/pttlmp-frontend/login.html",
               "description": "访问 bmc-uat.pttl.com",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=bmc-uat.pttl.com",
+              "enabled": true
+            },
+            {
+              "id": "5_1",
+              "title": "Figma",
+              "href": "https://www.figma.com/",
+              "description": "在线UI设计工具",
+              "icon": "/assets/images/logos/figma.webp",
               "enabled": true
             },
             {
