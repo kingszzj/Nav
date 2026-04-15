@@ -1533,19 +1533,19 @@
               "enabled": true
             },
             {
-              "id": "5_1",
-              "title": "Figma",
-              "href": "https://www.figma.com/",
-              "description": "在线UI设计工具",
-              "icon": "/assets/images/logos/figma.webp",
-              "enabled": true
-            },
-            {
               "id": "site_1775629132619_ygdbbkvoq",
               "title": "太力商城（测试）",
               "href": "http://tlmall-uat.pttl.com/login.html",
               "description": "",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=tlmall-uat.pttl.com",
+              "enabled": true
+            },
+            {
+              "id": "5_1",
+              "title": "Figma",
+              "href": "https://www.figma.com/",
+              "description": "在线UI设计工具",
+              "icon": "/assets/images/logos/figma.webp",
               "enabled": true
             },
             {
