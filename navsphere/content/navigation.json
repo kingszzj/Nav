@@ -1263,6 +1263,14 @@
           "description": "日常操作",
           "items": [
             {
+              "id": "site_1775628372477_3jcwd5kk4",
+              "title": "Tlwms",
+              "href": "https://tlwms.pttl.com:8200/#/login",
+              "description": "访问 tlwms.pttl.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=tlwms.pttl.com",
+              "enabled": true
+            },
+            {
               "id": "3_1",
               "title": "TableConvert",
               "href": "https://tableconvert.com/",
@@ -1316,14 +1324,6 @@
               "href": "https://tloms.pttl.com:8000/#/login",
               "description": "访问 tloms.pttl.com",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=tloms.pttl.com",
-              "enabled": true
-            },
-            {
-              "id": "site_1775628372477_3jcwd5kk4",
-              "title": "Tlwms",
-              "href": "https://tlwms.pttl.com:8200/#/login",
-              "description": "访问 tlwms.pttl.com",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=tlwms.pttl.com",
               "enabled": true
             },
             {
