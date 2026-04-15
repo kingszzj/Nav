@@ -562,6 +562,14 @@
               "description": "访问 miaobi.xinhuaskl.com",
               "icon": "/assets/favicon_1776270133859.png",
               "enabled": true
+            },
+            {
+              "id": "1776270174844",
+              "title": "笔灵AI",
+              "href": "https://ibiling.cn/",
+              "description": "访问 ibiling.cn",
+              "icon": "/assets/favicon_1776270178537.png",
+              "enabled": true
             }
           ]
         },
