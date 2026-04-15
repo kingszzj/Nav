@@ -84,6 +84,14 @@
           "description": "访问 www.amap.com",
           "icon": "/assets/favicon_1776268882921.png",
           "enabled": true
+        },
+        {
+          "id": "site_1776268962060_1khccnlvd",
+          "title": "京东",
+          "href": "https://www.jd.com/",
+          "description": "访问 www.jd.com",
+          "icon": "/assets/favicon_1776268947751.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
