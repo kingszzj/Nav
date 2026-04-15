@@ -94,14 +94,6 @@
           "enabled": true
         },
         {
-          "id": "site_1775664251534_xoch2qke9",
-          "title": "天猫Tmall.com - 买正品上天猫就购了",
-          "href": "https://www.tmall.com",
-          "description": "天猫商城是一个购物平台，更是一种生活方式。天猫凭借丰富的家电、手机、电脑、服装、居家、母婴、美妆、个护、食品等众多商品种类及包含众多品牌官方旗舰店、优质的服务和便捷的购物体验，成为了消费者心中信赖的综合性购物商城。",
-          "icon": "/assets/favicon_1775664240254.png",
-          "enabled": true
-        },
-        {
           "id": "site_1775664303997_kz0sko79a",
           "title": "唯品会",
           "href": "https://www.vip.com/",
@@ -140,6 +132,14 @@
               "href": "https://www.vmall.com/?cid=125903",
               "description": "华为商城是华为公司旗下官方电商平台，提供华为手机、PC、平板、穿戴、音频、智慧屏、IoT等智能终端产品，持续打造便捷、暖心的购物体验，力争将全场景智慧生活带给每一位消费者。",
               "icon": "/assets/favicon_1775630325502.ico",
+              "enabled": true
+            },
+            {
+              "id": "site_1775664251534_xoch2qke9",
+              "title": "天猫",
+              "href": "https://www.tmall.com",
+              "description": "天猫商城是一个购物平台，更是一种生活方式。天猫凭借丰富的家电、手机、电脑、服装、居家、母婴、美妆、个护、食品等众多商品种类及包含众多品牌官方旗舰店、优质的服务和便捷的购物体验，成为了消费者心中信赖的综合性购物商城。",
+              "icon": "/assets/favicon_1775664240254.png",
               "enabled": true
             }
           ]
