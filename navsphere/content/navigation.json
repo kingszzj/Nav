@@ -664,6 +664,14 @@
           "description": "访问 daga.cc",
           "icon": "/assets/favicon_1776267618705.png",
           "enabled": true
+        },
+        {
+          "id": "1776267656886",
+          "title": "视频下载",
+          "href": "https://weibomiaopai.com/",
+          "description": "微博视频下载,秒拍视频下载,视频在线下载工具,批量视频解析下载,视频下载工具",
+          "icon": "/assets/favicon_1776267659147.ico",
+          "enabled": true
         }
       ],
       "subCategories": [
