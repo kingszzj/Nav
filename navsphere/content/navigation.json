@@ -1475,14 +1475,6 @@
           "description": "",
           "items": [
             {
-              "id": "6_3",
-              "title": "flinto",
-              "href": "https://www.flinto.com/",
-              "description": "Flinto is a Mac app used by top designers around the world to create interactive and animated prototypes of their app designs.",
-              "icon": "/assets/images/logos/flinto.webp",
-              "enabled": true
-            },
-            {
               "id": "site_1775630860805_i38m4i8pp",
               "title": "数智人社",
               "href": "https://www.gx12333.net/si/#/modules/home/home",
