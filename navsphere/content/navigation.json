@@ -14,14 +14,6 @@
           "enabled": true
         },
         {
-          "id": "1_2",
-          "title": "京东",
-          "href": "https://www.jd.com/",
-          "description": "访问 www.jd.com",
-          "icon": "/assets/favicon_1775652773975.png",
-          "enabled": true
-        },
-        {
           "id": "1_1",
           "title": "GitHub",
           "href": "https://github.com/",
@@ -132,6 +124,14 @@
               "href": "https://www.taobao.com/",
               "description": "淘宝网是阿里巴巴集团旗下的网络购物平台，上线于2003年 [108]，包含C2C、团购、分销、拍卖等多种电子商务模式在内的综合性零售商圈 [112]。。",
               "icon": "/assets/img_1775578318223.png",
+              "enabled": true
+            },
+            {
+              "id": "1_2",
+              "title": "京东",
+              "href": "https://www.jd.com/",
+              "description": "访问 www.jd.com",
+              "icon": "/assets/favicon_1775652773975.png",
               "enabled": true
             }
           ]
