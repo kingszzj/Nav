@@ -648,14 +648,6 @@
           "description": "访问 daga.cc",
           "icon": "/assets/favicon_1776267618705.png",
           "enabled": true
-        },
-        {
-          "id": "1776267656886",
-          "title": "视频下载",
-          "href": "https://weibomiaopai.com/",
-          "description": "微博视频下载,秒拍视频下载,视频在线下载工具,批量视频解析下载,视频下载工具",
-          "icon": "/assets/favicon_1776267659147.ico",
-          "enabled": true
         }
       ],
       "subCategories": [
@@ -769,6 +761,14 @@
               "href": "https://www.imsdn.cn/",
               "description": "提供 Windows 11/10/ 8/7、Windows Server 2022/2019/2016、Office、SQL SERVER等MSDN原版镜像全系列下载及安装教程。",
               "icon": "/assets/favicon_1775631244429.png",
+              "enabled": true
+            },
+            {
+              "id": "1776267656886",
+              "title": "视频下载",
+              "href": "https://weibomiaopai.com/",
+              "description": "微博视频下载,秒拍视频下载,视频在线下载工具,批量视频解析下载,视频下载工具",
+              "icon": "/assets/favicon_1776267659147.ico",
               "enabled": true
             }
           ]
