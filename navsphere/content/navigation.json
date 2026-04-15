@@ -154,14 +154,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "1761725040240",
-          "title": "Product Hunt",
-          "href": "https://www.producthunt.com/",
-          "description": "Product Hunt is a curation of the best new products, every day. Discover the latest mobile apps, websites, and technology products that everyone&#x27;s talking about.",
-          "icon": "/assets/favicon_1761725042705.webp",
-          "enabled": true
-        },
-        {
           "id": "site_1775631166440_gkb0qpnrz",
           "title": "Gitee（狐狸 Nomad）",
           "href": "https://gitee.com/callmer",
