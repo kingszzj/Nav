@@ -1127,6 +1127,14 @@
           "enabled": true
         },
         {
+          "id": "site_1775651744361_atyt966k7",
+          "title": "教习网",
+          "href": "https://www.51jiaoxi.com/yw/tb_c92831/",
+          "description": "访问 www.51jiaoxi.com",
+          "icon": "/assets/favicon_1775651686948.png",
+          "enabled": true
+        },
+        {
           "id": "site_1775652075521_zqf57nt18",
           "title": "学科网",
           "href": "https://www.zxxk.com/",
@@ -1140,14 +1148,6 @@
           "href": "https://www.yunxiao.com/",
           "description": "访问 www.yunxiao.com",
           "icon": "/assets/favicon_1775650768201.png",
-          "enabled": true
-        },
-        {
-          "id": "site_1775651744361_atyt966k7",
-          "title": "教习网",
-          "href": "https://www.51jiaoxi.com/yw/tb_c92831/",
-          "description": "访问 www.51jiaoxi.com",
-          "icon": "/assets/favicon_1775651686948.png",
           "enabled": true
         },
         {
