@@ -808,6 +808,14 @@
               "enabled": true
             },
             {
+              "id": "site_1775663990478_y4i6kenur",
+              "title": "腾讯视频",
+              "href": "https://v.qq.com/",
+              "description": "腾讯视频官方网站，提供最新热门电视剧、电影、综艺、动漫、纪录片等高清正版视频在线观看。海量独家内容持续更新，涵盖国产剧、美剧、韩剧、院线大片、热门综艺，支持超清流畅播放，尽在腾讯视频，当前热播《冰湖重生》《白日提灯》《奋斗吧人生·演员篇》，支持高清在线观看。",
+              "icon": "/assets/favicon_1775663983507.ico",
+              "enabled": true
+            },
+            {
               "id": "1736913194873",
               "title": "公众号助手",
               "href": "https://mp.weixin.qq.com/",
@@ -837,14 +845,6 @@
               "href": "https://www.douyin.com/jingxuan",
               "description": "访问 www.douyin.com",
               "icon": "/assets/favicon_1775663386382.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1775663990478_y4i6kenur",
-              "title": "腾讯视频",
-              "href": "https://v.qq.com/",
-              "description": "腾讯视频官方网站，提供最新热门电视剧、电影、综艺、动漫、纪录片等高清正版视频在线观看。海量独家内容持续更新，涵盖国产剧、美剧、韩剧、院线大片、热门综艺，支持超清流畅播放，尽在腾讯视频，当前热播《冰湖重生》《白日提灯》《奋斗吧人生·演员篇》，支持高清在线观看。",
-              "icon": "/assets/favicon_1775663983507.ico",
               "enabled": true
             },
             {
