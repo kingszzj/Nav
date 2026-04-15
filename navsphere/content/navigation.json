@@ -490,6 +490,14 @@
               "description": "Codex 是 OpenAI 推出的一系列人工智能编码工具，通过将任务委托给强大的云端和本地编码代理，帮助开发人员提升工作效率。",
               "icon": "/assets/favicon_1760422969029.webp",
               "enabled": true
+            },
+            {
+              "id": "1776269821947",
+              "title": "即梦AI",
+              "href": "https://jimeng.jianying.com/ai-tool/generate",
+              "description": "访问 jimeng.jianying.com",
+              "icon": "/assets/favicon_1776269825487.png",
+              "enabled": true
             }
           ]
         },
