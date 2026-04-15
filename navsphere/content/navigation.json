@@ -1401,6 +1401,14 @@
               "enabled": true
             },
             {
+              "id": "site_1775628759651_4cwugm2a6",
+              "title": "Csc订单中心",
+              "href": "https://csc.pttl.com/login.html",
+              "description": "访问 csc.pttl.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=csc.pttl.com",
+              "enabled": true
+            },
+            {
               "id": "site_1775628504411_u12yiq58v",
               "title": "数据中台",
               "href": "https://report.pttl.com/login",
@@ -1414,14 +1422,6 @@
               "href": "http://zentao.pttl.com/user-login-L215Lmh0bWw=.html",
               "description": "访问 zentao.pttl.com",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=zentao.pttl.com",
-              "enabled": true
-            },
-            {
-              "id": "site_1775628759651_4cwugm2a6",
-              "title": "Csc订单中心",
-              "href": "https://csc.pttl.com/login.html",
-              "description": "访问 csc.pttl.com",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=csc.pttl.com",
               "enabled": true
             },
             {
