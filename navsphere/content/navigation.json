@@ -22,14 +22,6 @@
           "enabled": true
         },
         {
-          "id": "1775622600493",
-          "title": "宽带技术",
-          "href": "https://www.chinadsl.net/",
-          "description": "访问 www.chinadsl.net",
-          "icon": "/assets/favicon_1775622608520.png",
-          "enabled": true
-        },
-        {
           "id": "1775622640172",
           "title": "邮箱",
           "href": "https://www.petalmail.com/#/",
@@ -175,6 +167,14 @@
           "href": "https://weibo.com/newlogin?tabtype=weibo&gid=102803&openLoginLayer=0&url=https://weibo.com/",
           "description": "",
           "icon": "/assets/favicon_1775665342850.png",
+          "enabled": true
+        },
+        {
+          "id": "1775622600493",
+          "title": "宽带技术",
+          "href": "https://www.chinadsl.net/",
+          "description": "访问 www.chinadsl.net",
+          "icon": "/assets/favicon_1775622608520.png",
           "enabled": true
         }
       ],
