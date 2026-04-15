@@ -244,16 +244,7 @@
       "id": "9",
       "title": "新闻 · 资讯",
       "icon": "Brain",
-      "items": [
-        {
-          "id": "site_1775622978137_l5lk8ccud",
-          "title": "知乎",
-          "href": "https://www.zhihu.com/",
-          "description": "访问 www.zhihu.com",
-          "icon": "/assets/favicon_1775622955864.png",
-          "enabled": true
-        }
-      ],
+      "items": [],
       "subCategories": [
         {
           "id": "cbb3e33d-408b-41ba-9e9a-e0444303e3fd",
@@ -390,6 +381,14 @@
               "href": "https://wx.qq.com/",
               "description": "",
               "icon": "/assets/favicon_1775663335951.ico",
+              "enabled": true
+            },
+            {
+              "id": "site_1775622978137_l5lk8ccud",
+              "title": "知乎",
+              "href": "https://www.zhihu.com/",
+              "description": "访问 www.zhihu.com",
+              "icon": "/assets/favicon_1775622955864.png",
               "enabled": true
             }
           ]
