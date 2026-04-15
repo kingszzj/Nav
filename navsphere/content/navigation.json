@@ -506,6 +506,14 @@
               "description": "访问 www.whee.com",
               "icon": "/assets/favicon_1776269868299.png",
               "enabled": true
+            },
+            {
+              "id": "1776269885631",
+              "title": "通义千问",
+              "href": "https://tongyi.aliyun.com/",
+              "description": "访问 tongyi.aliyun.com",
+              "icon": "/assets/favicon_1776269889543.png",
+              "enabled": true
             }
           ]
         },
