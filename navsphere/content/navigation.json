@@ -514,6 +514,14 @@
               "description": "访问 tongyi.aliyun.com",
               "icon": "/assets/favicon_1776269889543.png",
               "enabled": true
+            },
+            {
+              "id": "1776269946271",
+              "title": "DeepSeek",
+              "href": "https://chat.deepseek.com/sign_in",
+              "description": "",
+              "icon": "/assets/favicon_1776269949515.png",
+              "enabled": true
             }
           ]
         },
