@@ -1119,6 +1119,14 @@
       "enabled": true,
       "items": [
         {
+          "id": "site_1775661609422_racz860cw",
+          "title": "蓝天教育",
+          "href": "https://v3.lt-edu.net/login.html#/login",
+          "description": "访问 v3.lt-edu.net",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=v3.lt-edu.net",
+          "enabled": true
+        },
+        {
           "id": "site_1775651882592_t72ugxxd7",
           "title": "网上党校",
           "href": "https://wsdx.ccps.gov.cn/",
@@ -1156,14 +1164,6 @@
           "href": "https://zzzh.gdedu.gov.cn/login",
           "description": "访问 zzzh.gdedu.gov.cn",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=zzzh.gdedu.gov.cn",
-          "enabled": true
-        },
-        {
-          "id": "site_1775661609422_racz860cw",
-          "title": "蓝天教育",
-          "href": "https://v3.lt-edu.net/login.html#/login",
-          "description": "访问 v3.lt-edu.net",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=v3.lt-edu.net",
           "enabled": true
         },
         {
