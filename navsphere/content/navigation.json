@@ -642,14 +642,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "site_1775631081374_7g8y8pk7t",
-          "title": "Xitongku",
-          "href": "https://www.xitongku.com/index.html",
-          "description": "访问 www.xitongku.com",
-          "icon": "/assets/favicon_1775631049175.png",
-          "enabled": true
-        },
-        {
           "id": "site_1775631264337_fnpyvhly5",
           "title": "我的MSDN",
           "href": "https://www.imsdn.cn/",
@@ -769,6 +761,14 @@
               "href": "https://ac.scmor.com/",
               "description": "思谋学术是提升科研效率的常用工具，自动检测和更新可访问的Google学术镜像网址，并提供学术资源导航，包括论文、电子书等文献的免费下载通道。",
               "icon": "/assets/favicon_1775664373279.ico",
+              "enabled": true
+            },
+            {
+              "id": "site_1775631081374_7g8y8pk7t",
+              "title": "Xitongku",
+              "href": "https://www.xitongku.com/index.html",
+              "description": "访问 www.xitongku.com",
+              "icon": "/assets/favicon_1775631049175.png",
               "enabled": true
             }
           ]
