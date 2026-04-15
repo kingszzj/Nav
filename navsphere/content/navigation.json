@@ -510,19 +510,19 @@
               "enabled": true
             },
             {
-              "id": "1760507310883",
-              "title": "Free for Developers",
-              "href": "https://free-for.dev/#/",
-              "description": "Developers and Open Source authors now have a massive amount of services offering free tiers, but it can be hard to find them all to make informed decisions.",
-              "icon": "/assets/favicon_1760507315276.webp",
-              "enabled": true
-            },
-            {
               "id": "site_1775664655285_zhov86q5m",
               "title": "iLovePDF",
               "href": "https://www.ilovepdf.com/zh-cn",
               "description": "iLovePDF网站提供PDF文件在线转换服务。它完全免费，而且使用方便。无论是合并PDF文件、拆分PDF文件、压缩PDF文件、Office文件转换为PDF文件，还是PDF转换为JPG图片等，iLovePDF都能满足您的需求！",
               "icon": "/assets/favicon_1775664633655.png",
+              "enabled": true
+            },
+            {
+              "id": "1760507310883",
+              "title": "Free for Developers",
+              "href": "https://free-for.dev/#/",
+              "description": "Developers and Open Source authors now have a massive amount of services offering free tiers, but it can be hard to find them all to make informed decisions.",
+              "icon": "/assets/favicon_1760507315276.webp",
               "enabled": true
             },
             {
