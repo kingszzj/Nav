@@ -1549,6 +1549,14 @@
               "enabled": true
             },
             {
+              "id": "site_1775716439247_k3jsnarfw",
+              "title": "BPM流程管理系统（测试）",
+              "href": "http://192.168.220.20:8080/coframe/auth/login/login.jsp",
+              "description": "访问 192.168.220.20",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=192.168.220.20",
+              "enabled": true
+            },
+            {
               "id": "5_1",
               "title": "Figma",
               "href": "https://www.figma.com/",
@@ -1570,14 +1578,6 @@
               "href": "https://bmc-uat.pttl.com/pttlmp-frontend/login.html",
               "description": "访问 bmc-uat.pttl.com",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=bmc-uat.pttl.com",
-              "enabled": true
-            },
-            {
-              "id": "site_1775716439247_k3jsnarfw",
-              "title": "BPM流程管理系统（测试）",
-              "href": "http://192.168.220.20:8080/coframe/auth/login/login.jsp",
-              "description": "访问 192.168.220.20",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=192.168.220.20",
               "enabled": true
             },
             {
