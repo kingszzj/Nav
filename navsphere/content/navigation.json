@@ -937,19 +937,19 @@
           "enabled": true,
           "items": [
             {
-              "id": "site_1775650535371_a6rvnk3v4",
-              "title": "HDFans",
-              "href": "https://hdfans.org/index.php",
-              "description": "",
-              "icon": "/assets/favicon_1775650512431.ico",
-              "enabled": true
-            },
-            {
               "id": "site_1775650584407_oy9dgpwzv",
               "title": "BTSCHOOL",
               "href": "https://pt.btschool.club/login.php",
               "description": "BTSCHOOL小乐园",
               "icon": "/assets/favicon_1775650557844.ico",
+              "enabled": true
+            },
+            {
+              "id": "site_1775650535371_a6rvnk3v4",
+              "title": "HDFans",
+              "href": "https://hdfans.org/index.php",
+              "description": "",
+              "icon": "/assets/favicon_1775650512431.ico",
               "enabled": true
             },
             {
