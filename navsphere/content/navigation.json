@@ -1425,6 +1425,14 @@
               "enabled": true
             },
             {
+              "id": "site_1775630220718_sxjgt3qrp",
+              "title": "电科商城",
+              "href": "https://www.cetconline.com/cps/login/index.html",
+              "description": "访问 www.cetconline.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.cetconline.com",
+              "enabled": true
+            },
+            {
               "id": "site_1775628708269_2a20d7pff",
               "title": "禅道",
               "href": "http://zentao.pttl.com/user-login-L215Lmh0bWw=.html",
@@ -1438,14 +1446,6 @@
               "href": "https://i.g7e6.com.cn/uc/login?dst_system_code=e6yun",
               "description": "访问 i.g7e6.com.cn",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=i.g7e6.com.cn",
-              "enabled": true
-            },
-            {
-              "id": "site_1775630220718_sxjgt3qrp",
-              "title": "电科商城",
-              "href": "https://www.cetconline.com/cps/login/index.html",
-              "description": "访问 www.cetconline.com",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.cetconline.com",
               "enabled": true
             },
             {
