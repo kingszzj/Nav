@@ -1159,6 +1159,14 @@
           "enabled": true
         },
         {
+          "id": "site_1775662712896_5zqztgyin",
+          "title": "全国教师管理信息系统",
+          "href": "https://jiaoshi.gdedu.gov.cn/",
+          "description": "访问 jiaoshi.gdedu.gov.cn",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=jiaoshi.gdedu.gov.cn",
+          "enabled": true
+        },
+        {
           "id": "site_1775661511931_xq1iwh6dr",
           "title": "广东省资助管理平台",
           "href": "https://zzzh.gdedu.gov.cn/login",
@@ -1172,14 +1180,6 @@
           "href": "https://ntce.neea.edu.cn/html1/folder/1507/1077-1.htm",
           "description": "访问 ntce.neea.edu.cn",
           "icon": "/assets/favicon_1775661652692.png",
-          "enabled": true
-        },
-        {
-          "id": "site_1775662712896_5zqztgyin",
-          "title": "全国教师管理信息系统",
-          "href": "https://jiaoshi.gdedu.gov.cn/",
-          "description": "访问 jiaoshi.gdedu.gov.cn",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=jiaoshi.gdedu.gov.cn",
           "enabled": true
         },
         {
