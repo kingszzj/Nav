@@ -567,6 +567,14 @@
           "enabled": true,
           "items": [
             {
+              "id": "1765279305478",
+              "title": "在线效率工具箱",
+              "href": "https://www.newkit.site/",
+              "description": "NewKit 提供精选的在线实用工具，JSON格式化、SQL美化、加密解密等，简洁高效，数据本地处理",
+              "icon": "/assets/favicon_1765279307988.svg",
+              "enabled": true
+            },
+            {
               "id": "1761279460902",
               "title": "宝塔",
               "href": "https://www.bt.cn/new/index.html",
@@ -612,14 +620,6 @@
               "href": "https://www.speedtest.cn/",
               "description": "访问 www.speedtest.cn",
               "icon": "/assets/favicon_1776184033221.png",
-              "enabled": true
-            },
-            {
-              "id": "1765279305478",
-              "title": "在线效率工具箱",
-              "href": "https://www.newkit.site/",
-              "description": "NewKit 提供精选的在线实用工具，JSON格式化、SQL美化、加密解密等，简洁高效，数据本地处理",
-              "icon": "/assets/favicon_1765279307988.svg",
               "enabled": true
             }
           ]
