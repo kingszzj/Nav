@@ -142,7 +142,16 @@
           "enabled": true
         }
       ],
-      "subCategories": [],
+      "subCategories": [
+        {
+          "id": "93eb85f3-f1ec-4b10-86e6-54435e7b3d17",
+          "title": "购物",
+          "icon": "BookOpen",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ],
       "description": "",
       "enabled": true
     },
