@@ -92,6 +92,14 @@
           "description": "访问 www.jd.com",
           "icon": "/assets/favicon_1776268947751.png",
           "enabled": true
+        },
+        {
+          "id": "site_1776269031990_2i28fm486",
+          "title": "淘宝",
+          "href": "https://www.taobao.com",
+          "description": "淘宝网 - 亚洲较大的网上交易平台，提供各类服饰、美容、家居、数码、话费/点卡充值… 数亿优质商品，同时提供担保交易(先收货后付款)等安全交易保障服务，并由商家提供退货承诺、破损补寄等消费者保障服务，让你安心享受网上购物乐趣！",
+          "icon": "/assets/favicon_1776269024629.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
