@@ -740,6 +740,14 @@
               "enabled": true
             },
             {
+              "id": "site_1776184230052_qvssee102",
+              "title": "字体天下",
+              "href": "https://www.fonts.net.cn/",
+              "description": "访问 www.fonts.net.cn",
+              "icon": "/assets/favicon_1776184196986.png",
+              "enabled": true
+            },
+            {
               "id": "1760611489487",
               "title": "集思录-实时数据",
               "href": "https://www.jisilu.cn/data/cbnew/#cb",
@@ -761,14 +769,6 @@
               "href": "https://ac.scmor.com/",
               "description": "思谋学术是提升科研效率的常用工具，自动检测和更新可访问的Google学术镜像网址，并提供学术资源导航，包括论文、电子书等文献的免费下载通道。",
               "icon": "/assets/favicon_1775664373279.ico",
-              "enabled": true
-            },
-            {
-              "id": "site_1776184230052_qvssee102",
-              "title": "字体天下",
-              "href": "https://www.fonts.net.cn/",
-              "description": "访问 www.fonts.net.cn",
-              "icon": "/assets/favicon_1776184196986.png",
               "enabled": true
             }
           ]
