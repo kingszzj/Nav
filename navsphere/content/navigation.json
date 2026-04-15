@@ -937,14 +937,6 @@
           "enabled": true,
           "items": [
             {
-              "id": "1_11_5",
-              "title": "Producthunt",
-              "href": "https://www.producthunt.com/",
-              "description": "发现新鲜有趣的产品",
-              "icon": "/assets/images/logos/producthunt.webp",
-              "enabled": true
-            },
-            {
               "id": "site_1775650535371_a6rvnk3v4",
               "title": "HDFans",
               "href": "https://hdfans.org/index.php",
