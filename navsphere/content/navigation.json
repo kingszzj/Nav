@@ -1533,6 +1533,14 @@
               "enabled": true
             },
             {
+              "id": "site_1775630409570_edtgneeaf",
+              "title": "数据中台（测试）",
+              "href": "https://report-uat.pttl.com/login",
+              "description": "访问 report-uat.pttl.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=report-uat.pttl.com",
+              "enabled": true
+            },
+            {
               "id": "site_1775629132619_ygdbbkvoq",
               "title": "太力商城（测试）",
               "href": "http://tlmall-uat.pttl.com/login.html",
@@ -1546,14 +1554,6 @@
               "href": "https://www.figma.com/",
               "description": "在线UI设计工具",
               "icon": "/assets/images/logos/figma.webp",
-              "enabled": true
-            },
-            {
-              "id": "site_1775630409570_edtgneeaf",
-              "title": "数据中台（测试）",
-              "href": "https://report-uat.pttl.com/login",
-              "description": "访问 report-uat.pttl.com",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=report-uat.pttl.com",
               "enabled": true
             },
             {
