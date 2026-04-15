@@ -1449,19 +1449,19 @@
               "enabled": true
             },
             {
-              "id": "site_1775630733111_i7vysgifw",
-              "title": "苏宁预约",
-              "href": "https://mpassport.suning.com/ids/login?service=https%3A%2F%2Fscpc.suning.com%2Fscpc%2Fauth%3FtargetUrl%3Dhttps%253A%252F%252Fscpc.suning.com%252Fscpc%252FpurchaseOrderNew%252FqueryPurchaseOrderPendDelivery.action&loginTheme=sop",
-              "description": "访问 mpassport.suning.com",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=mpassport.suning.com",
-              "enabled": true
-            },
-            {
               "id": "site_1775630784113_oe5kva5j5",
               "title": "PMail",
               "href": "https://uniportal.huawei.com/uniportal1/login-pc.html?v=1.0&redirect=http%3A%2F%2Fpmall.huawei.com%2F%23%2F#/passwordLogin",
               "description": "",
               "icon": "https://uniportal.huawei.com/images/favicon.ico",
+              "enabled": true
+            },
+            {
+              "id": "site_1775630733111_i7vysgifw",
+              "title": "苏宁预约",
+              "href": "https://mpassport.suning.com/ids/login?service=https%3A%2F%2Fscpc.suning.com%2Fscpc%2Fauth%3FtargetUrl%3Dhttps%253A%252F%252Fscpc.suning.com%252Fscpc%252FpurchaseOrderNew%252FqueryPurchaseOrderPendDelivery.action&loginTheme=sop",
+              "description": "访问 mpassport.suning.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=mpassport.suning.com",
               "enabled": true
             }
           ],
