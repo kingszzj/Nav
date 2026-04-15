@@ -526,6 +526,14 @@
               "enabled": true
             },
             {
+              "id": "site_1775664895865_b65uw2sf6",
+              "title": "在线文件压缩器",
+              "href": "https://compress-online.com/cn",
+              "description": "访问 compress-online.com",
+              "icon": "/assets/favicon_1775664855930.png",
+              "enabled": true
+            },
+            {
               "id": "1760507310883",
               "title": "Free for Developers",
               "href": "https://free-for.dev/#/",
@@ -547,14 +555,6 @@
               "href": "https://wormhole.app/",
               "description": "Wormhole 让你能以端到端加密和自动过期链接的方式分享文件。",
               "icon": "/assets/favicon_1775664756426.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1775664895865_b65uw2sf6",
-              "title": "在线文件压缩器",
-              "href": "https://compress-online.com/cn",
-              "description": "访问 compress-online.com",
-              "icon": "/assets/favicon_1775664855930.png",
               "enabled": true
             }
           ]
