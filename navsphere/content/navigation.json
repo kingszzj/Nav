@@ -824,6 +824,14 @@
               "enabled": true
             },
             {
+              "id": "site_1775664184655_187a5d2h5",
+              "title": "咪咕体育",
+              "href": "https://www.miguvideo.com/",
+              "description": "访问 www.miguvideo.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.miguvideo.com",
+              "enabled": true
+            },
+            {
               "id": "site_1775663412646_sqa2s1rav",
               "title": "抖音",
               "href": "https://www.douyin.com/jingxuan",
@@ -869,14 +877,6 @@
               "href": "https://creator.xiaohongshu.com/",
               "description": "小红书创作中心",
               "icon": "/assets/img_1736912766835.webp",
-              "enabled": true
-            },
-            {
-              "id": "site_1775664184655_187a5d2h5",
-              "title": "咪咕体育",
-              "href": "https://www.miguvideo.com/",
-              "description": "访问 www.miguvideo.com",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.miguvideo.com",
               "enabled": true
             },
             {
