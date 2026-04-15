@@ -491,6 +491,14 @@
               "description": "访问 cloud.tencent.com",
               "icon": "/assets/favicon_1775651631839.png",
               "enabled": true
+            },
+            {
+              "id": "1776266688506",
+              "title": "阿里云",
+              "href": "https://www.aliyun.com/?utm_content=se_1023310789",
+              "description": "访问 www.aliyun.com",
+              "icon": "/assets/favicon_1776266692314.png",
+              "enabled": true
             }
           ]
         },
