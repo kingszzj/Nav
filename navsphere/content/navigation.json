@@ -38,14 +38,6 @@
           "enabled": true
         },
         {
-          "id": "1_4",
-          "title": "淘宝",
-          "href": "https://www.taobao.com/",
-          "description": "淘宝网是阿里巴巴集团旗下的网络购物平台，上线于2003年 [108]，包含C2C、团购、分销、拍卖等多种电子商务模式在内的综合性零售商圈 [112]。。",
-          "icon": "/assets/img_1775578318223.png",
-          "enabled": true
-        },
-        {
           "id": "1754229699374",
           "title": "Lucide",
           "href": "https://lucide.dev/",
@@ -132,6 +124,14 @@
               "href": "https://www.vip.com/",
               "description": "访问 www.vip.com",
               "icon": "/assets/favicon_1775664279272.png",
+              "enabled": true
+            },
+            {
+              "id": "1_4",
+              "title": "淘宝",
+              "href": "https://www.taobao.com/",
+              "description": "淘宝网是阿里巴巴集团旗下的网络购物平台，上线于2003年 [108]，包含C2C、团购、分销、拍卖等多种电子商务模式在内的综合性零售商圈 [112]。。",
+              "icon": "/assets/img_1775578318223.png",
               "enabled": true
             }
           ]
