@@ -72,23 +72,6 @@
       ],
       "subCategories": [
         {
-          "id": "18a172fe-d628-4062-8e78-075bc2c2e4b5",
-          "title": "搜索",
-          "icon": "BookOpen",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "site_1775622842333_i866z2boa",
-              "title": "百度",
-              "href": "https://www.baidu.com",
-              "description": "访问 www.baidu.com",
-              "icon": "/assets/favicon_1775622830879.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
           "id": "93eb85f3-f1ec-4b10-86e6-54435e7b3d17",
           "title": "购物",
           "icon": "BookOpen",
