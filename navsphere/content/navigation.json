@@ -76,6 +76,14 @@
           "description": "百度翻译打造的新一代AI大模型翻译平台，为用户提供翻译和阅读外文场景的一站式智能解决方案，支持中文、英文、日语、韩语、德语、法语等203种语言，包括文档翻译、AI翻译、英文润色、双语审校、语法分析等多种能力，是智能时代的翻译新质生产力。",
           "icon": "/assets/favicon_1776268838058.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1776268897635_uc4hujf8u",
+          "title": "高德地图",
+          "href": "https://www.amap.com/",
+          "description": "访问 www.amap.com",
+          "icon": "/assets/favicon_1776268882921.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
