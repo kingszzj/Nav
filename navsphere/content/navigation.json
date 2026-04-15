@@ -840,6 +840,14 @@
               "enabled": true
             },
             {
+              "id": "site_1776183991817_4ctey9qw2",
+              "title": "喜马拉雅",
+              "href": "https://www.ximalaya.com/",
+              "description": "访问 www.ximalaya.com",
+              "icon": "/assets/favicon_1776183949183.png",
+              "enabled": true
+            },
+            {
               "id": "site_1775663957214_2rpy9vaa1",
               "title": "爱奇艺",
               "href": "https://www.iqiyi.com/",
@@ -925,14 +933,6 @@
               "href": "https://www.douyin.com/jingxuan",
               "description": "访问 www.douyin.com",
               "icon": "/assets/favicon_1776183440587.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1776183991817_4ctey9qw2",
-              "title": "喜马拉雅",
-              "href": "https://www.ximalaya.com/",
-              "description": "访问 www.ximalaya.com",
-              "icon": "/assets/favicon_1776183949183.png",
               "enabled": true
             }
           ]
