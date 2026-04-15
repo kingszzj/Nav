@@ -1607,19 +1607,19 @@
               "enabled": true
             },
             {
-              "id": "7_1",
-              "title": "Color Hunt",
-              "href": "https://colorhunt.co/",
-              "description": "色彩搭配",
-              "icon": "/assets/images/logos/colorhunt.webp",
-              "enabled": true
-            },
-            {
               "id": "site_1775628442935_3u93cu8kg",
               "title": "智慧太力人",
               "href": "https://tlihr.pttl.com/psp/ps/?cmd=login&languageCd=ZHS&",
               "description": "访问 tlihr.pttl.com",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=tlihr.pttl.com",
+              "enabled": true
+            },
+            {
+              "id": "7_1",
+              "title": "Color Hunt",
+              "href": "https://colorhunt.co/",
+              "description": "色彩搭配",
+              "icon": "/assets/images/logos/colorhunt.webp",
               "enabled": true
             }
           ],
