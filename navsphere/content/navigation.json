@@ -498,6 +498,14 @@
               "description": "访问 jimeng.jianying.com",
               "icon": "/assets/favicon_1776269825487.png",
               "enabled": true
+            },
+            {
+              "id": "1776269864449",
+              "title": "Whee",
+              "href": "https://www.whee.com/",
+              "description": "访问 www.whee.com",
+              "icon": "/assets/favicon_1776269868299.png",
+              "enabled": true
             }
           ]
         },
