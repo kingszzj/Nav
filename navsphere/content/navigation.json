@@ -1159,6 +1159,14 @@
           "enabled": true
         },
         {
+          "id": "site_1775662578366_wfpfpjh0t",
+          "title": "全国人事考试服务平台",
+          "href": "http://zp.cpta.com.cn/tyzpwb/login/login_qt.htm",
+          "description": "访问 zp.cpta.com.cn",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=zp.cpta.com.cn",
+          "enabled": true
+        },
+        {
           "id": "site_1775662712896_5zqztgyin",
           "title": "全国教师管理信息系统",
           "href": "https://jiaoshi.gdedu.gov.cn/",
@@ -1188,14 +1196,6 @@
           "href": "https://www.acc5.com/",
           "description": "访问 www.acc5.com",
           "icon": "/assets/favicon_1775662274947.png",
-          "enabled": true
-        },
-        {
-          "id": "site_1775662578366_wfpfpjh0t",
-          "title": "全国人事考试服务平台",
-          "href": "http://zp.cpta.com.cn/tyzpwb/login/login_qt.htm",
-          "description": "访问 zp.cpta.com.cn",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=zp.cpta.com.cn",
           "enabled": true
         },
         {
