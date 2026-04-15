@@ -583,6 +583,14 @@
               "enabled": true
             },
             {
+              "id": "site_1776184096210_hjbqdi3gn",
+              "title": "测速网",
+              "href": "https://www.speedtest.cn/",
+              "description": "访问 www.speedtest.cn",
+              "icon": "/assets/favicon_1776184033221.png",
+              "enabled": true
+            },
+            {
               "id": "1761279460902",
               "title": "宝塔",
               "href": "https://www.bt.cn/new/index.html",
@@ -612,14 +620,6 @@
               "href": "https://coolify.io/",
               "description": "Self-hosting platform with superpowers. Deploy apps, databases &#38; 280+ services to your server. Open-source alternative to Heroku.",
               "icon": "/assets/favicon_1761279686786.webp",
-              "enabled": true
-            },
-            {
-              "id": "site_1776184096210_hjbqdi3gn",
-              "title": "测速网",
-              "href": "https://www.speedtest.cn/",
-              "description": "访问 www.speedtest.cn",
-              "icon": "/assets/favicon_1776184033221.png",
               "enabled": true
             }
           ]
