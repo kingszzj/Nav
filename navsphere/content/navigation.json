@@ -640,16 +640,7 @@
       "icon": "Building",
       "description": "",
       "enabled": true,
-      "items": [
-        {
-          "id": "1776267614862",
-          "title": "音乐下载",
-          "href": "https://daga.cc/yue/",
-          "description": "访问 daga.cc",
-          "icon": "/assets/favicon_1776267618705.png",
-          "enabled": true
-        }
-      ],
+      "items": [],
       "subCategories": [
         {
           "id": "1cf1cbfa-1a31-4b39-a6ca-a05f153ccbf5",
@@ -769,6 +760,14 @@
               "href": "https://weibomiaopai.com/",
               "description": "微博视频下载,秒拍视频下载,视频在线下载工具,批量视频解析下载,视频下载工具",
               "icon": "/assets/favicon_1776267659147.ico",
+              "enabled": true
+            },
+            {
+              "id": "1776267614862",
+              "title": "音乐下载",
+              "href": "https://daga.cc/yue/",
+              "description": "访问 daga.cc",
+              "icon": "/assets/favicon_1776267618705.png",
               "enabled": true
             }
           ]
