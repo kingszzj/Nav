@@ -158,6 +158,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "fee0c384-4d9a-4593-82ed-b3febd31dd62",
+          "title": "AI助手",
+          "icon": "BookOpen",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ],
       "description": "",
