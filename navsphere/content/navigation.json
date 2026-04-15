@@ -1385,19 +1385,19 @@
           "description": "",
           "items": [
             {
-              "id": "site_1775628504411_u12yiq58v",
-              "title": "数据中台",
-              "href": "https://report.pttl.com/login",
-              "description": "访问 report.pttl.com",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=report.pttl.com",
-              "enabled": true
-            },
-            {
               "id": "site_1775628675672_hej4j8xxj",
               "title": "数智监管系统",
               "href": "http://dim.pttl.com/login",
               "description": "访问 dim.pttl.com",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=dim.pttl.com",
+              "enabled": true
+            },
+            {
+              "id": "site_1775628504411_u12yiq58v",
+              "title": "数据中台",
+              "href": "https://report.pttl.com/login",
+              "description": "访问 report.pttl.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=report.pttl.com",
               "enabled": true
             },
             {
