@@ -136,23 +136,6 @@
               "enabled": true
             }
           ]
-        },
-        {
-          "id": "fee0c384-4d9a-4593-82ed-b3febd31dd62",
-          "title": "AI助手",
-          "icon": "BookOpen",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "site_1775664346409_vnymr6sa6",
-              "title": "DeepSeek",
-              "href": "https://chat.deepseek.com/sign_in",
-              "description": "",
-              "icon": "/assets/favicon_1775664320872.png",
-              "enabled": true
-            }
-          ]
         }
       ],
       "description": "",
