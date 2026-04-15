@@ -1483,19 +1483,19 @@
               "enabled": true
             },
             {
-              "id": "site_1775631699443_eyyfillt3",
-              "title": "中安云教育安全生产网络培训平台",
-              "href": "http://zayxyhn.zayxy.com/user/security/login?su=%2FlearnCenter%2Findex",
-              "description": "访问 zayxyhn.zayxy.com",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=zayxyhn.zayxy.com",
-              "enabled": true
-            },
-            {
               "id": "site_1775663294603_ysxba11en",
               "title": "腾讯企业邮",
               "href": "https://exmail.qq.com/login",
               "description": "不只是邮箱，\n更是一种高效办公新体验\n企业微信扫码登录",
               "icon": "/assets/favicon_1775663188147.ico",
+              "enabled": true
+            },
+            {
+              "id": "site_1775631699443_eyyfillt3",
+              "title": "中安云教育安全生产网络培训平台",
+              "href": "http://zayxyhn.zayxy.com/user/security/login?su=%2FlearnCenter%2Findex",
+              "description": "访问 zayxyhn.zayxy.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=zayxyhn.zayxy.com",
               "enabled": true
             }
           ],
