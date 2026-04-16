@@ -353,14 +353,6 @@
           "enabled": true
         },
         {
-          "id": "site_1775622805423_hemht70lq",
-          "title": "高德地图",
-          "href": "https://www.amap.com/",
-          "description": "访问 www.amap.com",
-          "icon": "/assets/favicon_1775622784797.png",
-          "enabled": true
-        },
-        {
           "id": "site_1775622910479_qrkp9rpb1",
           "title": "广西人才网",
           "href": "https://www.gxrc.com",
