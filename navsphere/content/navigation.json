@@ -249,16 +249,7 @@
           "icon": "BookOpen",
           "description": "",
           "enabled": true,
-          "items": [
-            {
-              "id": "1760605598288",
-              "title": "veo-3",
-              "href": "https://aistudio.google.com/models/veo-3",
-              "description": "The fastest path from prompt to production with Gemini",
-              "icon": "/assets/favicon_1760605601454.webp",
-              "enabled": true
-            }
-          ]
+          "items": []
         },
         {
           "id": "cbb3e33d-408b-41ba-9e9a-e0444303e3ff",
@@ -561,6 +552,14 @@
               "href": "https://gamma.app/",
               "description": "AI生成PPT工具",
               "icon": "/assets/img_1736911490095.webp",
+              "enabled": true
+            },
+            {
+              "id": "1760605598288",
+              "title": "veo-3",
+              "href": "https://aistudio.google.com/models/veo-3",
+              "description": "The fastest path from prompt to production with Gemini",
+              "icon": "/assets/favicon_1760605601454.webp",
               "enabled": true
             }
           ]
