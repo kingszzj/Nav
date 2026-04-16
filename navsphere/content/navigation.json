@@ -699,7 +699,7 @@
               "title": "Tailscale",
               "href": "https://login.tailscale.com/login?next_url=%2Fadmin%2Fmachines",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=login.tailscale.com",
+              "icon": "/assets/img_1776353364352.png",
               "enabled": true
             },
             {
