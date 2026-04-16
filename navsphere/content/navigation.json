@@ -1409,7 +1409,7 @@
               "title": "Vpn",
               "href": "https://vpn1.cetctaili.com/portal/#!/login",
               "description": "访问 vpn1.cetctaili.com",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=vpn1.cetctaili.com",
+              "icon": "/assets/img_1776354165075.png",
               "enabled": true
             },
             {
