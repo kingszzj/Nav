@@ -92,6 +92,14 @@
           "description": "访问 blog.csdn.net",
           "icon": "/assets/favicon_1776181062756.png",
           "enabled": true
+        },
+        {
+          "id": "1776267023426",
+          "title": "MikuTools",
+          "href": "https://tools.miku.ac/",
+          "description": "一站式在线工具合集，内置多种强大 AI 工具。支持图片生成、文件格式转换和视频下载，无广告，无需登录，打开即用。",
+          "icon": "/assets/favicon_1776267032778.ico",
+          "enabled": true
         }
       ],
       "subCategories": [],
@@ -613,14 +621,6 @@
           "description": "",
           "enabled": true,
           "items": [
-            {
-              "id": "1776267023426",
-              "title": "MikuTools",
-              "href": "https://tools.miku.ac/",
-              "description": "一站式在线工具合集，内置多种强大 AI 工具。支持图片生成、文件格式转换和视频下载，无广告，无需登录，打开即用。",
-              "icon": "/assets/favicon_1776267032778.ico",
-              "enabled": true
-            },
             {
               "id": "site_1775664655285_zhov86q5m",
               "title": "iLovePDF",
