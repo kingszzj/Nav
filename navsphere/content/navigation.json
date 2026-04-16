@@ -184,6 +184,14 @@
           "description": "访问 www.chinadsl.net",
           "icon": "/assets/favicon_1775622608520.png",
           "enabled": true
+        },
+        {
+          "id": "site_1775663353522_vuh5wpak3",
+          "title": "微信网页版",
+          "href": "https://wx.qq.com/",
+          "description": "",
+          "icon": "/assets/favicon_1775663335951.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
@@ -258,14 +266,6 @@
           "description": "",
           "enabled": true,
           "items": [
-            {
-              "id": "site_1775663353522_vuh5wpak3",
-              "title": "微信网页版",
-              "href": "https://wx.qq.com/",
-              "description": "",
-              "icon": "/assets/favicon_1775663335951.ico",
-              "enabled": true
-            },
             {
               "id": "site_1775622978137_l5lk8ccud",
               "title": "知乎",
