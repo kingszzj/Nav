@@ -248,6 +248,14 @@
               "description": "访问 www.thepaper.cn",
               "icon": "/assets/favicon_1776183704750.png",
               "enabled": true
+            },
+            {
+              "id": "site_1775622978137_l5lk8ccud",
+              "title": "知乎",
+              "href": "https://www.zhihu.com/",
+              "description": "访问 www.zhihu.com",
+              "icon": "/assets/favicon_1775622955864.png",
+              "enabled": true
             }
           ]
         },
@@ -265,16 +273,7 @@
           "icon": "Book",
           "description": "",
           "enabled": true,
-          "items": [
-            {
-              "id": "site_1775622978137_l5lk8ccud",
-              "title": "知乎",
-              "href": "https://www.zhihu.com/",
-              "description": "访问 www.zhihu.com",
-              "icon": "/assets/favicon_1775622955864.png",
-              "enabled": true
-            }
-          ]
+          "items": []
         }
       ],
       "description": "",
