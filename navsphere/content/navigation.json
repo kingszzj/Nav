@@ -38,14 +38,6 @@
           "enabled": true
         },
         {
-          "id": "site_1776268897635_uc4hujf8u",
-          "title": "高德地图",
-          "href": "https://www.amap.com/",
-          "description": "高德地图是阿里巴巴集团旗下位置服务类应用，2009年7月，高德地图手机版上线， [125]2015年4月7日，高德地图车机版上线， [61]2025年1月22日，高德推出面向海外用户的英文版地图。 [123]2025年8月4日，高德地图2025版本上线。",
-          "icon": "/assets/favicon_1776268882921.png",
-          "enabled": true
-        },
-        {
           "id": "site_1776268962060_1khccnlvd",
           "title": "京东",
           "href": "https://www.jd.com/",
@@ -83,6 +75,14 @@
           "href": "https://www.423down.com/",
           "description": "知名软件达人|423DOWN.COM,更新快、专注去广告类软件输出10年、个人IP品牌软件分享站",
           "icon": "/assets/favicon_1775630928810.ico",
+          "enabled": true
+        },
+        {
+          "id": "site_1776268897635_uc4hujf8u",
+          "title": "高德地图",
+          "href": "https://www.amap.com/",
+          "description": "高德地图是阿里巴巴集团旗下位置服务类应用，2009年7月，高德地图手机版上线， [125]2015年4月7日，高德地图车机版上线， [61]2025年1月22日，高德推出面向海外用户的英文版地图。 [123]2025年8月4日，高德地图2025版本上线。",
+          "icon": "/assets/favicon_1776268882921.png",
           "enabled": true
         },
         {
