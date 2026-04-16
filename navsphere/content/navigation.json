@@ -224,6 +224,14 @@
           "description": "访问 www.people.com.cn",
           "icon": "/assets/favicon_1776183060943.png",
           "enabled": true
+        },
+        {
+          "id": "site_1776181299279_jc6zpp914",
+          "title": "网易",
+          "href": "https://www.163.com/",
+          "description": "网易是中国领先的互联网技术公司，为用户提供免费邮箱、游戏、搜索引擎服务，开设新闻、娱乐、体育等30多个内容频道，及博客、视频、论坛等互动交流，网聚人的力量。",
+          "icon": "/assets/favicon_1776181277498.png",
+          "enabled": true
         }
       ],
       "subCategories": [
@@ -248,14 +256,6 @@
               "href": "https://www.qq.com/",
               "description": "腾讯网从2003年创立至今，已经成为集新闻信息，区域垂直生活服务、社会化媒体资讯和产品为一体的互联网媒体平台。腾讯网下设新闻、科技、财经、娱乐、体育、汽车、时尚等多个频道，充分满足用户对不同类型资讯的需求。同时专注不同领域内容，打造精品栏目，并顺应技术发展趋势，推出网络直播等创新形式，改变了用户获取资讯的方式和习惯。",
               "icon": "/assets/favicon_1775579082578.ico",
-              "enabled": true
-            },
-            {
-              "id": "site_1776181299279_jc6zpp914",
-              "title": "网易",
-              "href": "https://www.163.com/",
-              "description": "网易是中国领先的互联网技术公司，为用户提供免费邮箱、游戏、搜索引擎服务，开设新闻、娱乐、体育等30多个内容频道，及博客、视频、论坛等互动交流，网聚人的力量。",
-              "icon": "/assets/favicon_1776181277498.png",
               "enabled": true
             }
           ]
