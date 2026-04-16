@@ -22,6 +22,14 @@
           "enabled": true
         },
         {
+          "id": "1_1",
+          "title": "GitHub",
+          "href": "https://github.com/",
+          "description": "Join the world&#39;s most widely adopted, AI-powered developer platform where millions of developers, businesses, and the largest open source community build software that advances humanity.",
+          "icon": "/assets/favicon_1775578519951.png",
+          "enabled": true
+        },
+        {
           "id": "1775622640172",
           "title": "花瓣邮箱",
           "href": "https://www.petalmail.com/#/",
@@ -83,14 +91,6 @@
           "href": "https://www.423down.com/",
           "description": "知名软件达人|423DOWN.COM,更新快、专注去广告类软件输出10年、个人IP品牌软件分享站",
           "icon": "/assets/favicon_1775630928810.ico",
-          "enabled": true
-        },
-        {
-          "id": "1_1",
-          "title": "GitHub",
-          "href": "https://github.com/",
-          "description": "Join the world&#39;s most widely adopted, AI-powered developer platform where millions of developers, businesses, and the largest open source community build software that advances humanity.",
-          "icon": "/assets/favicon_1775578519951.png",
           "enabled": true
         },
         {
