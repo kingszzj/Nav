@@ -1689,14 +1689,6 @@
               "description": "",
               "icon": "/assets/favicon_1775725339558.png",
               "enabled": true
-            },
-            {
-              "id": "5_1",
-              "title": "Figma",
-              "href": "https://www.figma.com/",
-              "description": "在线UI设计工具",
-              "icon": "/assets/images/logos/figma.webp",
-              "enabled": true
             }
           ],
           "enabled": true
