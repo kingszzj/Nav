@@ -216,6 +216,14 @@
           "description": "访问 www.thepaper.cn",
           "icon": "/assets/favicon_1776183704750.png",
           "enabled": true
+        },
+        {
+          "id": "site_1776183076581_jhhr36l7d",
+          "title": "人民网",
+          "href": "http://www.people.com.cn/",
+          "description": "访问 www.people.com.cn",
+          "icon": "/assets/favicon_1776183060943.png",
+          "enabled": true
         }
       ],
       "subCategories": [
@@ -248,14 +256,6 @@
               "href": "https://www.163.com/",
               "description": "网易是中国领先的互联网技术公司，为用户提供免费邮箱、游戏、搜索引擎服务，开设新闻、娱乐、体育等30多个内容频道，及博客、视频、论坛等互动交流，网聚人的力量。",
               "icon": "/assets/favicon_1776181277498.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1776183076581_jhhr36l7d",
-              "title": "人民网",
-              "href": "http://www.people.com.cn/",
-              "description": "访问 www.people.com.cn",
-              "icon": "/assets/favicon_1776183060943.png",
               "enabled": true
             }
           ]
