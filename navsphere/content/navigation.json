@@ -22,14 +22,6 @@
           "enabled": true
         },
         {
-          "id": "site_1775663562828_i5bzoi94g",
-          "title": "便民工具",
-          "href": "https://ljscq.bmcx.com/",
-          "description": "访问 ljscq.bmcx.com",
-          "icon": "/assets/favicon_1775663501531.png",
-          "enabled": true
-        },
-        {
           "id": "site_1776268852491_0axqfldgn",
           "title": "百度翻译",
           "href": "https://fanyi.baidu.com/mtpe-individual/transText#/",
@@ -683,6 +675,14 @@
               "href": "https://free-for.dev/#/",
               "description": "Developers and Open Source authors now have a massive amount of services offering free tiers, but it can be hard to find them all to make informed decisions.",
               "icon": "/assets/favicon_1760507315276.webp",
+              "enabled": true
+            },
+            {
+              "id": "site_1775663562828_i5bzoi94g",
+              "title": "便民工具",
+              "href": "https://ljscq.bmcx.com/",
+              "description": "访问 ljscq.bmcx.com",
+              "icon": "/assets/favicon_1775663501531.png",
               "enabled": true
             }
           ]
