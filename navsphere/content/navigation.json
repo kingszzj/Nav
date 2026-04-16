@@ -92,6 +92,14 @@
           "description": "Join the world&#39;s most widely adopted, AI-powered developer platform where millions of developers, businesses, and the largest open source community build software that advances humanity.",
           "icon": "/assets/favicon_1775578519951.png",
           "enabled": true
+        },
+        {
+          "id": "site_1775651589124_ec6dkl9lh",
+          "title": "CSDN博客",
+          "href": "https://blog.csdn.net/",
+          "description": "访问 blog.csdn.net",
+          "icon": "/assets/favicon_1776181062756.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
@@ -127,14 +135,6 @@
           "href": "https://wp.gxnas.com/",
           "description": "访问 wp.gxnas.com",
           "icon": "/assets/favicon_1775650264078.png",
-          "enabled": true
-        },
-        {
-          "id": "site_1775651589124_ec6dkl9lh",
-          "title": "CSDN博客",
-          "href": "https://blog.csdn.net/",
-          "description": "访问 blog.csdn.net",
-          "icon": "/assets/favicon_1776181062756.png",
           "enabled": true
         },
         {
