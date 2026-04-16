@@ -38,14 +38,6 @@
           "enabled": true
         },
         {
-          "id": "site_1776268852491_0axqfldgn",
-          "title": "百度翻译",
-          "href": "https://fanyi.baidu.com/mtpe-individual/transText#/",
-          "description": "百度翻译打造的新一代AI大模型翻译平台，为用户提供翻译和阅读外文场景的一站式智能解决方案，支持中文、英文、日语、韩语、德语、法语等203种语言，包括文档翻译、AI翻译、英文润色、双语审校、语法分析等多种能力，是智能时代的翻译新质生产力。",
-          "icon": "/assets/favicon_1776268838058.ico",
-          "enabled": true
-        },
-        {
           "id": "site_1776268897635_uc4hujf8u",
           "title": "高德地图",
           "href": "https://www.amap.com/",
@@ -91,6 +83,14 @@
           "href": "https://www.423down.com/",
           "description": "知名软件达人|423DOWN.COM,更新快、专注去广告类软件输出10年、个人IP品牌软件分享站",
           "icon": "/assets/favicon_1775630928810.ico",
+          "enabled": true
+        },
+        {
+          "id": "site_1776268852491_0axqfldgn",
+          "title": "百度翻译",
+          "href": "https://fanyi.baidu.com/mtpe-individual/transText#/",
+          "description": "百度翻译打造的新一代AI大模型翻译平台，为用户提供翻译和阅读外文场景的一站式智能解决方案，支持中文、英文、日语、韩语、德语、法语等203种语言，包括文档翻译、AI翻译、英文润色、双语审校、语法分析等多种能力，是智能时代的翻译新质生产力。",
+          "icon": "/assets/favicon_1776268838058.ico",
           "enabled": true
         },
         {
