@@ -747,6 +747,14 @@
               "description": "访问 cloud.189.cn",
               "icon": "/assets/favicon_1776400627568.png",
               "enabled": true
+            },
+            {
+              "id": "site_1776400858530_ib3bubei7",
+              "title": "蓝奏云",
+              "href": "https://www.lanzou.com/",
+              "description": "",
+              "icon": "/assets/favicon_1776400814935.ico",
+              "enabled": true
             }
           ]
         }
