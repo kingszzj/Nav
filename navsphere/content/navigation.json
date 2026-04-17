@@ -724,6 +724,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "2425af69-d15f-48d6-91d4-98b94ac5e7d4",
+          "title": "网盘",
+          "icon": "Building",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
