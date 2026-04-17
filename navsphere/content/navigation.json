@@ -576,14 +576,6 @@
               "description": "访问 www.aliyun.com",
               "icon": "/assets/favicon_1776266692314.png",
               "enabled": true
-            },
-            {
-              "id": "1764304637626",
-              "title": "Google 云端硬盘",
-              "href": "https://drive.google.com/",
-              "description": "使用 Google 账号（个人用途）或 Google Workspace 账号（企业用途）访问 Google 云端硬盘。",
-              "icon": "/assets/favicon_1764304640963.webp",
-              "enabled": true
             }
           ]
         },
@@ -731,7 +723,16 @@
           "icon": "Building",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1764304637626",
+              "title": "Google 云端硬盘",
+              "href": "https://drive.google.com/",
+              "description": "使用 Google 账号（个人用途）或 Google Workspace 账号（企业用途）访问 Google 云端硬盘。",
+              "icon": "/assets/favicon_1764304640963.webp",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
