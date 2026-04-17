@@ -200,6 +200,14 @@
           "description": "",
           "icon": "/assets/favicon_1775663335951.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1776401779827_t9swgd9sx",
+          "title": "飞牛论坛",
+          "href": "https://club.fnnas.com/",
+          "description": "访问 club.fnnas.com",
+          "icon": "/assets/favicon_1776401734595.png",
+          "enabled": true
         }
       ],
       "subCategories": []
