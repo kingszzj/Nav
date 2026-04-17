@@ -755,6 +755,14 @@
               "description": "",
               "icon": "/assets/favicon_1776400814935.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1776400932259_fzvznnd2y",
+              "title": "百度网盘",
+              "href": "https://pan.baidu.com/",
+              "description": "",
+              "icon": "/assets/favicon_1776400922331.png",
+              "enabled": true
             }
           ]
         }
