@@ -739,6 +739,14 @@
               "description": "123云盘，安全高速的云存储与分享服务，支持多端同步与大文件传输。",
               "icon": "/assets/favicon_1776400586452.png",
               "enabled": true
+            },
+            {
+              "id": "site_1776400649908_8ct22hgfc",
+              "title": "天翼云盘",
+              "href": "https://cloud.189.cn/web/login.html",
+              "description": "访问 cloud.189.cn",
+              "icon": "/assets/favicon_1776400627568.png",
+              "enabled": true
             }
           ]
         }
