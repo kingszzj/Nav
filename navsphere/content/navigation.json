@@ -1671,6 +1671,14 @@
               "description": "访问 pan.quark.cn",
               "icon": "/assets/favicon_1776611755418.png",
               "enabled": true
+            },
+            {
+              "id": "1776611785694",
+              "title": "115网盘",
+              "href": "https://115.com/",
+              "description": "访问 115.com",
+              "icon": "/assets/favicon_1776611789930.png",
+              "enabled": true
             }
           ]
         },
