@@ -1767,6 +1767,14 @@
               "description": "访问 data.cstcloud.cn",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=data.cstcloud.cn",
               "enabled": true
+            },
+            {
+              "id": "1776615003737",
+              "title": "海搜",
+              "href": "https://haisou.cc/",
+              "description": "访问 haisou.cc",
+              "icon": "/assets/favicon_1776615008266.png",
+              "enabled": true
             }
           ]
         },
