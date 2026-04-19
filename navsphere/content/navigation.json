@@ -1916,6 +1916,14 @@
               "description": "小众软件是一个分享、体验、评测电脑软件、手机应用、互联网产品的网站",
               "icon": "/assets/favicon_1776614288932.jpg",
               "enabled": true
+            },
+            {
+              "id": "site_1776614329633_zubqkf2n2",
+              "title": "大眼仔旭",
+              "href": "https://www.dayanzai.me/",
+              "description": "访问 www.dayanzai.me",
+              "icon": "/assets/favicon_1776614313343.png",
+              "enabled": true
             }
           ]
         }
