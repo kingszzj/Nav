@@ -1525,6 +1525,14 @@
               "description": "Convertio - 在线转换文件的简单工具。支持超过309种不同的文档、图像、电子表格、电子书、文档、演示文稿、音频和视频格式。",
               "icon": "/assets/favicon_1776614108302.png",
               "enabled": true
+            },
+            {
+              "id": "site_1776614403156_wqybpso2b",
+              "title": "奇迹工具",
+              "href": "https://www.qijishow.com/down/tools.html",
+              "description": "奇迹秀工具箱分享设计师必备设计工具及各类设计辅助神器，提供了丰富的设计辅助功能,还整合了各种主流的设计资源,让设计师在创作过程中更加高效、顺手。",
+              "icon": "/assets/favicon_1776614366429.ico",
+              "enabled": true
             }
           ]
         },
