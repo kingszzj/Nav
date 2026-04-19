@@ -1420,6 +1420,14 @@
               "description": "访问 www.aliyun.com",
               "icon": "/assets/favicon_1776266692314.png",
               "enabled": true
+            },
+            {
+              "id": "site_1776611089471_1zwa6e166",
+              "title": "华为云",
+              "href": "https://www.huaweicloud.com/",
+              "description": "华为云提供稳定可靠、安全可信、可持续发展的云服务，致力于让云无处不在，让智能无所不及，共建智能世界云底座。助力企业降本增效，全球300万客户的共同选择。7x24小时专业服务支持，5天内无理由退订，免费快速备案。",
+              "icon": "/assets/favicon_1776611072911.ico",
+              "enabled": true
             }
           ]
         },
