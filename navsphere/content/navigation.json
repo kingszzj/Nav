@@ -762,6 +762,14 @@
               "description": "在线美化SQL语句的工具，格式化方便阅读",
               "icon": "/assets/images/logos/sqlformat.webp",
               "enabled": true
+            },
+            {
+              "id": "3_1",
+              "title": "TableConvert",
+              "href": "https://tableconvert.com/",
+              "description": "Excel转sql在线工具。将你的Excel数据转换成一个网络友好格式,包括HTML、JSON和XML,还可以把Excel 转换成Sql,excel 表格转成 Markdown",
+              "icon": "/assets/images/logos/tableconvert.webp",
+              "enabled": true
             }
           ]
         },
@@ -1512,14 +1520,6 @@
               "href": "https://buac.sf-express.com/login?redirect_uri=https%3A%2F%2Fsd.sf-express.com&redirect_type=",
               "description": "访问 buac.sf-express.com",
               "icon": "/assets/favicon_1775631810443.png",
-              "enabled": true
-            },
-            {
-              "id": "3_1",
-              "title": "TableConvert",
-              "href": "https://tableconvert.com/",
-              "description": "Excel转sql在线工具。将你的Excel数据转换成一个网络友好格式,包括HTML、JSON和XML,还可以把Excel 转换成Sql,excel 表格转成 Markdown",
-              "icon": "/assets/images/logos/tableconvert.webp",
               "enabled": true
             }
           ],
