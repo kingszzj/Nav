@@ -1509,6 +1509,14 @@
               "description": "",
               "icon": "/assets/favicon_1776610854944.png",
               "enabled": true
+            },
+            {
+              "id": "site_1776614096824_en5tkgqnm",
+              "title": " 文件压缩器",
+              "href": "https://compress-online.com/cn",
+              "description": "访问 compress-online.com",
+              "icon": "/assets/favicon_1776614021745.png",
+              "enabled": true
             }
           ]
         },
