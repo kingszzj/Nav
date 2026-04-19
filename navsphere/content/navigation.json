@@ -1641,19 +1641,19 @@
               "enabled": true
             },
             {
-              "id": "1764304637626",
-              "title": "Google 云端硬盘",
-              "href": "https://drive.google.com/",
-              "description": "使用 Google 账号（个人用途）或 Google Workspace 账号（企业用途）访问 Google 云端硬盘。",
-              "icon": "/assets/favicon_1764304640963.webp",
-              "enabled": true
-            },
-            {
               "id": "site_1776400649908_8ct22hgfc",
               "title": "天翼云盘",
               "href": "https://cloud.189.cn/web/login.html",
               "description": "访问 cloud.189.cn",
               "icon": "/assets/favicon_1776400627568.png",
+              "enabled": true
+            },
+            {
+              "id": "1764304637626",
+              "title": "Google 云端硬盘",
+              "href": "https://drive.google.com/",
+              "description": "使用 Google 账号（个人用途）或 Google Workspace 账号（企业用途）访问 Google 云端硬盘。",
+              "icon": "/assets/favicon_1764304640963.webp",
               "enabled": true
             },
             {
