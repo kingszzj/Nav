@@ -720,6 +720,14 @@
           "description": "广东省疾病预防控制中心网站由广东省疾病预防控制中心主办。",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=cdcp.gd.gov.cn",
           "enabled": true
+        },
+        {
+          "id": "1776614936706",
+          "title": "学霸盘",
+          "href": "https://www.xuebapan.com/",
+          "description": "学霸盘是百度网盘资源搜索引擎，提供抖音,短视频,课程,考研,PPT模板,电子书,会计,计算机等热门资源，实时检查无效资源，帮您更快捷的获取网盘资源下载信息。",
+          "icon": "/assets/favicon_1776614941508.png",
+          "enabled": true
         }
       ],
       "subCategories": []
