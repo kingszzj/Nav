@@ -1785,6 +1785,14 @@
               "description": "访问 translate.alibaba.com",
               "icon": "/assets/favicon_1776614599885.png",
               "enabled": true
+            },
+            {
+              "id": "1776614630484",
+              "title": "DeepL 翻译",
+              "href": "https://www.deepl.com/zh",
+              "description": "探索人工智能套件，效能提升事半功倍：翻译语音、文本和媒体内容，或集成 DeepL API。",
+              "icon": "/assets/favicon_1776614633305.png",
+              "enabled": true
             }
           ]
         }
