@@ -1900,6 +1900,14 @@
               "description": "访问 www.52pojie.cn",
               "icon": "/assets/favicon_1776401188651.png",
               "enabled": true
+            },
+            {
+              "id": "site_1776614254516_edz7p1qm8",
+              "title": "佛系软件",
+              "href": "https://foxirj.com/",
+              "description": "访问 foxirj.com",
+              "icon": "/assets/favicon_1776614226668.png",
+              "enabled": true
             }
           ]
         }
