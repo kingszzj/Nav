@@ -1617,6 +1617,14 @@
           "enabled": true,
           "items": [
             {
+              "id": "site_1776611215360_sl7usl1re",
+              "title": "腾讯微云",
+              "href": "https://www.weiyun.com/",
+              "description": "访问 www.weiyun.com",
+              "icon": "/assets/favicon_1776611194134.png",
+              "enabled": true
+            },
+            {
               "id": "site_1776400932259_fzvznnd2y",
               "title": "百度网盘",
               "href": "https://pan.baidu.com/",
@@ -1654,14 +1662,6 @@
               "href": "https://www.lanzou.com/",
               "description": "",
               "icon": "/assets/favicon_1776400814935.ico",
-              "enabled": true
-            },
-            {
-              "id": "site_1776611215360_sl7usl1re",
-              "title": "腾讯微云",
-              "href": "https://www.weiyun.com/",
-              "description": "访问 www.weiyun.com",
-              "icon": "/assets/favicon_1776611194134.png",
               "enabled": true
             }
           ]
