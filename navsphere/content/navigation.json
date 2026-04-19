@@ -1468,8 +1468,8 @@
           "items": [
             {
               "id": "site_1775628372477_3jcwd5kk4",
-              "title": "Tlwms",
-              "href": "https://TLWMS.pttl.com:8200/#/login",
+              "title": "TLWMS",
+              "href": "https://tlwms.pttl.com:8200/#/",
               "description": "访问 tlwms.pttl.com",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=tlwms.pttl.com",
               "enabled": true
