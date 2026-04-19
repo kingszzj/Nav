@@ -1783,6 +1783,14 @@
               "description": "",
               "icon": "/assets/favicon_1776615038345.png",
               "enabled": true
+            },
+            {
+              "id": "1776615058079",
+              "title": "云盘搜索",
+              "href": "https://www.sosoyunpan.com/",
+              "description": "网盘搜索导航,网盘资源搜索,网盘链接提取码或密码查询",
+              "icon": "/assets/favicon_1776615062126.png",
+              "enabled": true
             }
           ]
         },
