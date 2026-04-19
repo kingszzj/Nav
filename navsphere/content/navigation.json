@@ -722,6 +722,14 @@
               "description": "Developers and Open Source authors now have a massive amount of services offering free tiers, but it can be hard to find them all to make informed decisions.",
               "icon": "/assets/favicon_1760507315276.webp",
               "enabled": true
+            },
+            {
+              "id": "3_2",
+              "title": "JSON Editor Online",
+              "href": "https://jsoneditoronline.org/",
+              "description": "在线的JSON编辑器，包括格式化，可视化，对比，显示行号功能。",
+              "icon": "/assets/images/logos/json.webp",
+              "enabled": true
             }
           ]
         },
@@ -1472,14 +1480,6 @@
               "href": "https://buac.sf-express.com/login?redirect_uri=https%3A%2F%2Fsd.sf-express.com&redirect_type=",
               "description": "访问 buac.sf-express.com",
               "icon": "/assets/favicon_1775631810443.png",
-              "enabled": true
-            },
-            {
-              "id": "3_2",
-              "title": "JSON Editor Online",
-              "href": "https://jsoneditoronline.org/",
-              "description": "在线的JSON编辑器，包括格式化，可视化，对比，显示行号功能。",
-              "icon": "/assets/images/logos/json.webp",
               "enabled": true
             },
             {
