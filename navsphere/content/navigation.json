@@ -1679,6 +1679,14 @@
               "description": "访问 115.com",
               "icon": "/assets/favicon_1776611789930.png",
               "enabled": true
+            },
+            {
+              "id": "1776611972552",
+              "title": "数据胶囊",
+              "href": "https://data.cstcloud.cn/",
+              "description": "访问 data.cstcloud.cn",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=data.cstcloud.cn",
+              "enabled": true
             }
           ]
         },
