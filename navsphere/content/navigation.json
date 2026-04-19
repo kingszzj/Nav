@@ -1775,6 +1775,14 @@
               "description": "访问 haisou.cc",
               "icon": "/assets/favicon_1776615008266.png",
               "enabled": true
+            },
+            {
+              "id": "1776615034103",
+              "title": "猫狸盘搜",
+              "href": "https://www.alipansou.com/",
+              "description": "",
+              "icon": "/assets/favicon_1776615038345.png",
+              "enabled": true
             }
           ]
         },
