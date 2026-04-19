@@ -1908,6 +1908,14 @@
               "description": "访问 foxirj.com",
               "icon": "/assets/favicon_1776614226668.png",
               "enabled": true
+            },
+            {
+              "id": "site_1776614300195_4xn2njgeq",
+              "title": "小众软件",
+              "href": "https://www.appinn.com/",
+              "description": "小众软件是一个分享、体验、评测电脑软件、手机应用、互联网产品的网站",
+              "icon": "/assets/favicon_1776614288932.jpg",
+              "enabled": true
             }
           ]
         }
