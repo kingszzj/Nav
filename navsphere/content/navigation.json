@@ -1226,6 +1226,14 @@
               "description": "草料二维码是国内专业的二维码服务提供商，提供二维码生成，美化，印制，管理，统计等服务，帮助企业通过二维码展示信息并采集线下数据，提升营销和管理效率",
               "icon": "/assets/favicon_1775631301614.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1776613982067_q2cllintk",
+              "title": "All to All转换",
+              "href": "https://www.alltoall.net/",
+              "description": "访问 www.alltoall.net",
+              "icon": "/assets/favicon_1776613958081.png",
+              "enabled": true
             }
           ]
         },
