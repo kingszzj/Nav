@@ -1469,6 +1469,14 @@
               "description": "访问 ljscq.bmcx.com",
               "icon": "/assets/favicon_1775663501531.png",
               "enabled": true
+            },
+            {
+              "id": "site_1776610880086_8gyejf5g0",
+              "title": "文字识别",
+              "href": "https://pearocr.com/#/",
+              "description": "",
+              "icon": "/assets/favicon_1776610854944.png",
+              "enabled": true
             }
           ]
         },
