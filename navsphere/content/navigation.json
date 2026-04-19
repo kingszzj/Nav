@@ -398,6 +398,14 @@
               "description": "在线图片压缩工具",
               "icon": "/assets/images/logos/tinypng.webp",
               "enabled": true
+            },
+            {
+              "id": "site_1775631364744_kiwpj2kad",
+              "title": "二维码",
+              "href": "https://cli.im/text",
+              "description": "草料二维码是国内专业的二维码服务提供商，提供二维码生成，美化，印制，管理，统计等服务，帮助企业通过二维码展示信息并采集线下数据，提升营销和管理效率",
+              "icon": "/assets/favicon_1775631301614.ico",
+              "enabled": true
             }
           ]
         },
@@ -1504,14 +1512,6 @@
               "href": "https://buac.sf-express.com/login?redirect_uri=https%3A%2F%2Fwine.sf-laas.com%2F#/bLogin",
               "description": "访问 buac.sf-express.com",
               "icon": "/assets/favicon_1775630961282.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1775631364744_kiwpj2kad",
-              "title": "二维码",
-              "href": "https://cli.im/text",
-              "description": "草料二维码是国内专业的二维码服务提供商，提供二维码生成，美化，印制，管理，统计等服务，帮助企业通过二维码展示信息并采集线下数据，提升营销和管理效率",
-              "icon": "/assets/favicon_1775631301614.ico",
               "enabled": true
             },
             {
