@@ -717,6 +717,364 @@
       "subCategories": []
     },
     {
+      "id": "1775623284009",
+      "title": "周易之家",
+      "icon": "Home",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": [
+        {
+          "id": "5ec75623-7028-4d62-8126-22dbaef491d3",
+          "title": "Cloudflare",
+          "icon": "Folder",
+          "description": "Cloudflare 隧道",
+          "enabled": true,
+          "items": [
+            {
+              "id": "site_1775749451125_dtsisdpqb",
+              "title": "Userc-NAS",
+              "href": "https://fnos.userc.org",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=fnos.userc.org",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "31e98026-4b2e-4ad2-93a1-36b1a5fc50fc",
+          "title": "Tailscale",
+          "icon": "Folder",
+          "description": "Tailscale平台",
+          "enabled": true,
+          "items": [
+            {
+              "id": "site_1775650944458_ukkanwswh",
+              "title": "USERC-NAS",
+              "href": "http://100.75.12.42:2112/login",
+              "description": "访问 100.75.12.42",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=100.75.12.42",
+              "enabled": true
+            },
+            {
+              "id": "site_1776093520932_fyq6c731e",
+              "title": " MoviePilot",
+              "href": "http://100.75.12.42:55055/#/login",
+              "description": "访问 100.75.12.42",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=100.75.12.42",
+              "enabled": true
+            },
+            {
+              "id": "site_1776093603200_jifkljpvf",
+              "title": "Emby",
+              "href": "http://100.75.12.42:8096/web/index.html#!/startup/manuallogin.html?serverId=f9e90db553e943d9a9b57aaf6e6cbb59",
+              "description": "访问 100.75.12.42",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=100.75.12.42",
+              "enabled": true
+            },
+            {
+              "id": "site_1776094149175_bl62441nb",
+              "title": "Jellyfin",
+              "href": "http://100.75.12.42:8097/web/#/login.html?serverid=598c856f815d49399c23cb8f6e0ac100&url=%2Fhome.html",
+              "description": "访问 100.75.12.42",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=100.75.12.42",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "8926b39e-015c-4da6-99b4-dee66ec376d6",
+          "title": "飞牛",
+          "icon": "Folder",
+          "description": "飞牛 FN",
+          "enabled": true,
+          "items": [
+            {
+              "id": "site_1775749621836_ez2qn6yzz",
+              "title": "Userc-NAS",
+              "href": "https://usercn.fnos.net/",
+              "description": "访问 usercn.fnos.net",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=usercn.fnos.net",
+              "enabled": true
+            },
+            {
+              "id": "site_1775749762615_sdmgbod8b",
+              "title": "Lucky",
+              "href": "https://lucky.usercn.fnos.net/#/login",
+              "description": "访问 lucky.usercn.fnos.net",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=lucky.usercn.fnos.net",
+              "enabled": true
+            },
+            {
+              "id": "site_1775749909750_oignfwv3r",
+              "title": "Gitea",
+              "href": "https://gitea.usercn.fnos.net/",
+              "description": "访问 gitea.usercn.fnos.net",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=gitea.usercn.fnos.net",
+              "enabled": true
+            },
+            {
+              "id": "site_1775749961418_ttze3qc0l",
+              "title": "Transmission",
+              "href": "https://transmission-app.usercn.fnos.net",
+              "description": "访问 transmission-app.usercn.fnos.net",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=transmission-app.usercn.fnos.net",
+              "enabled": true
+            },
+            {
+              "id": "site_1775750013642_hq1io3iuj",
+              "title": "相册",
+              "href": "https://usercn.fnos.net/p",
+              "description": "访问 usercn.fnos.net",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=usercn.fnos.net",
+              "enabled": true
+            },
+            {
+              "id": "site_1775750055048_igye8031u",
+              "title": "飞牛影视",
+              "href": "https://usercn.fnos.net/v",
+              "description": "访问 usercn.fnos.net",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=usercn.fnos.net",
+              "enabled": true
+            },
+            {
+              "id": "site_1775750260117_whwtaga9h",
+              "title": "Minipaint",
+              "href": "https://minipaint.usercn.fnos.net/",
+              "description": "访问 minipaint.usercn.fnos.net",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=minipaint.usercn.fnos.net",
+              "enabled": true
+            },
+            {
+              "id": "site_1775750283397_g40pkr6lb",
+              "title": "Omni-tools",
+              "href": "https://omni-tools.usercn.fnos.net/",
+              "description": "访问 omni-tools.usercn.fnos.net",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=omni-tools.usercn.fnos.net",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "8a89bf0c-a8a9-401d-8e9a-3022d9bf7e7e",
+          "title": "内网",
+          "icon": "Link",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "site_1775816745972_8p0kg3rej",
+              "title": "SmartStrm",
+              "href": "http://10.1.1.251:8024/login",
+              "description": "访问 10.1.1.251",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.1.1.251",
+              "enabled": true
+            },
+            {
+              "id": "site_1775816781583_76kzxzwd3",
+              "title": "Lucky",
+              "href": "http://10.1.1.251:6601/#/login",
+              "description": "访问 10.1.1.251",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.1.1.251",
+              "enabled": true
+            },
+            {
+              "id": "site_1775816860065_gwmpkp6oi",
+              "title": "相册",
+              "href": "http://10.1.1.251:2112/p",
+              "description": "访问 10.1.1.251",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.1.1.251",
+              "enabled": true
+            },
+            {
+              "id": "site_1775816894371_g253jpzo1",
+              "title": "影视",
+              "href": "http://10.1.1.251:2112/v/login?redirect_uri=http%3A%2F%2F10.1.1.2%3A2112%2Fv",
+              "description": "访问 10.1.1.251",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.1.1.251",
+              "enabled": true
+            },
+            {
+              "id": "site_1775817020705_hnbl7z0bn",
+              "title": "miniPaint",
+              "href": "http://10.1.1.251:5151/",
+              "description": "访问 10.1.1.251",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.1.1.251",
+              "enabled": true
+            },
+            {
+              "id": "site_1775817157829_qnpmtuzkq",
+              "title": "DNSHealth 健康检测解析",
+              "href": "http://10.1.1.251:2011/register",
+              "description": "访问 10.1.1.251",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.1.1.251",
+              "enabled": true
+            },
+            {
+              "id": "site_1775817188256_gsvz5bmmb",
+              "title": "Transmission",
+              "href": "http://10.1.1.251:9091/transmission/web/",
+              "description": "访问 10.1.1.251",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.1.1.251",
+              "enabled": true
+            },
+            {
+              "id": "site_1775955012506_ewa13026j",
+              "title": "qBittorrent ",
+              "href": "http://10.1.1.251:8085/",
+              "description": "访问 10.1.1.251",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.1.1.251",
+              "enabled": true
+            },
+            {
+              "id": "site_1775955112813_fz3x1puuf",
+              "title": "IPTV",
+              "href": "http://10.1.1.251:15760/",
+              "description": "访问 10.1.1.251",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.1.1.251",
+              "enabled": true
+            },
+            {
+              "id": "site_1775955238612_204onh3fe",
+              "title": "Gitea",
+              "href": "http://10.1.1.251:8418/",
+              "description": "访问 10.1.1.251",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.1.1.251",
+              "enabled": true
+            },
+            {
+              "id": "site_1775955280680_3cl5y54fh",
+              "title": "OpenList",
+              "href": "http://10.1.1.251:4080/",
+              "description": "访问 10.1.1.251",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.1.1.251",
+              "enabled": true
+            },
+            {
+              "id": "site_1775955336041_o09uvgb1t",
+              "title": "UPSnap",
+              "href": "http://10.1.1.251:8090/login/",
+              "description": "访问 10.1.1.251",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.1.1.251",
+              "enabled": true
+            },
+            {
+              "id": "site_1775955426784_sfx16kibp",
+              "title": "IPTV-Spider",
+              "href": "http://10.1.1.251:50089/login",
+              "description": "访问 10.1.1.251",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.1.1.251",
+              "enabled": true
+            },
+            {
+              "id": "site_1775955528294_sa5slvctt",
+              "title": "Emby",
+              "href": "http://10.1.1.251:8096/",
+              "description": "访问 10.1.1.251",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.1.1.251",
+              "enabled": true
+            },
+            {
+              "id": "site_1775955658770_ipp6o5a88",
+              "title": "music-tag-web",
+              "href": "http://10.1.1.251:8002/",
+              "description": "访问 10.1.1.251",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.1.1.251",
+              "enabled": true
+            },
+            {
+              "id": "site_1775955708632_i6mh8risb",
+              "title": "iptv-checker",
+              "href": "http://10.1.1.251:7791/",
+              "description": "访问 10.1.1.251",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.1.1.251",
+              "enabled": true
+            },
+            {
+              "id": "site_1775955809882_je4xliaqk",
+              "title": "Tugtainer",
+              "href": "http://10.1.1.251:2080/auth",
+              "description": "访问 10.1.1.251",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.1.1.251",
+              "enabled": true
+            },
+            {
+              "id": "site_1775955849894_lni3c1lro",
+              "title": "vocechat",
+              "href": "http://10.1.1.251:3456/#/login",
+              "description": "访问 10.1.1.251",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.1.1.251",
+              "enabled": true
+            },
+            {
+              "id": "site_1775955931216_v4th3coki",
+              "title": "IYUUPlus",
+              "href": "http://10.1.1.251:8780/app/admin",
+              "description": "访问 10.1.1.251",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.1.1.251",
+              "enabled": true
+            },
+            {
+              "id": "site_1775956087895_3owly2fql",
+              "title": "Navidrome",
+              "href": "http://10.1.1.251:4533/app/#/login",
+              "description": "访问 10.1.1.251",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.1.1.251",
+              "enabled": true
+            },
+            {
+              "id": "site_1775956141976_a80mgbsl0",
+              "title": "IPTV-Spider（Docker）",
+              "href": "http://10.1.1.251:50085/authorize",
+              "description": "访问 10.1.1.251",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.1.1.251",
+              "enabled": true
+            },
+            {
+              "id": "site_1775956187394_1ojactw0e",
+              "title": "Jellyfin",
+              "href": "http://10.1.1.251:8097/web/#/login.html?serverid=598c856f815d49399c23cb8f6e0ac100&url=%2Fhome.html",
+              "description": "访问 10.1.1.251",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.1.1.251",
+              "enabled": true
+            },
+            {
+              "id": "site_1775956264803_p8auh6r64",
+              "title": "v2raya",
+              "href": "http://10.1.1.251:2017/",
+              "description": "访问 10.1.1.251",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.1.1.251",
+              "enabled": true
+            },
+            {
+              "id": "site_1775956324625_zmhpb4n1p",
+              "title": "Mitv",
+              "href": "http://10.1.1.251:13007/",
+              "description": "访问 10.1.1.251",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.1.1.251",
+              "enabled": true
+            },
+            {
+              "id": "site_1775956362539_lmn0xf3rx",
+              "title": "jmalcloud",
+              "href": "http://10.1.1.251:1072/login?redirect=%2F",
+              "description": "访问 10.1.1.251",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.1.1.251",
+              "enabled": true
+            },
+            {
+              "id": "site_1775956388391_q14mlm7vk",
+              "title": "Solara",
+              "href": "http://10.1.1.251:10086/",
+              "description": "访问 10.1.1.251",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.1.1.251",
+              "enabled": true
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "1735265493940",
       "title": "在线 · 工具",
       "icon": "Box",
@@ -1755,364 +2113,6 @@
               "href": "https://xiaobot.net/",
               "description": "付费专栏，体面而用心地创作",
               "icon": "/assets/favicon_1759043454631.webp",
-              "enabled": true
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "1775623284009",
-      "title": "周易之家",
-      "icon": "Home",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": [
-        {
-          "id": "5ec75623-7028-4d62-8126-22dbaef491d3",
-          "title": "Cloudflare",
-          "icon": "Folder",
-          "description": "Cloudflare 隧道",
-          "enabled": true,
-          "items": [
-            {
-              "id": "site_1775749451125_dtsisdpqb",
-              "title": "Userc-NAS",
-              "href": "https://fnos.userc.org",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=fnos.userc.org",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "31e98026-4b2e-4ad2-93a1-36b1a5fc50fc",
-          "title": "Tailscale",
-          "icon": "Folder",
-          "description": "Tailscale平台",
-          "enabled": true,
-          "items": [
-            {
-              "id": "site_1775650944458_ukkanwswh",
-              "title": "USERC-NAS",
-              "href": "http://100.75.12.42:2112/login",
-              "description": "访问 100.75.12.42",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=100.75.12.42",
-              "enabled": true
-            },
-            {
-              "id": "site_1776093520932_fyq6c731e",
-              "title": " MoviePilot",
-              "href": "http://100.75.12.42:55055/#/login",
-              "description": "访问 100.75.12.42",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=100.75.12.42",
-              "enabled": true
-            },
-            {
-              "id": "site_1776093603200_jifkljpvf",
-              "title": "Emby",
-              "href": "http://100.75.12.42:8096/web/index.html#!/startup/manuallogin.html?serverId=f9e90db553e943d9a9b57aaf6e6cbb59",
-              "description": "访问 100.75.12.42",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=100.75.12.42",
-              "enabled": true
-            },
-            {
-              "id": "site_1776094149175_bl62441nb",
-              "title": "Jellyfin",
-              "href": "http://100.75.12.42:8097/web/#/login.html?serverid=598c856f815d49399c23cb8f6e0ac100&url=%2Fhome.html",
-              "description": "访问 100.75.12.42",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=100.75.12.42",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "8926b39e-015c-4da6-99b4-dee66ec376d6",
-          "title": "飞牛",
-          "icon": "Folder",
-          "description": "飞牛 FN",
-          "enabled": true,
-          "items": [
-            {
-              "id": "site_1775749621836_ez2qn6yzz",
-              "title": "Userc-NAS",
-              "href": "https://usercn.fnos.net/",
-              "description": "访问 usercn.fnos.net",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=usercn.fnos.net",
-              "enabled": true
-            },
-            {
-              "id": "site_1775749762615_sdmgbod8b",
-              "title": "Lucky",
-              "href": "https://lucky.usercn.fnos.net/#/login",
-              "description": "访问 lucky.usercn.fnos.net",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=lucky.usercn.fnos.net",
-              "enabled": true
-            },
-            {
-              "id": "site_1775749909750_oignfwv3r",
-              "title": "Gitea",
-              "href": "https://gitea.usercn.fnos.net/",
-              "description": "访问 gitea.usercn.fnos.net",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=gitea.usercn.fnos.net",
-              "enabled": true
-            },
-            {
-              "id": "site_1775749961418_ttze3qc0l",
-              "title": "Transmission",
-              "href": "https://transmission-app.usercn.fnos.net",
-              "description": "访问 transmission-app.usercn.fnos.net",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=transmission-app.usercn.fnos.net",
-              "enabled": true
-            },
-            {
-              "id": "site_1775750013642_hq1io3iuj",
-              "title": "相册",
-              "href": "https://usercn.fnos.net/p",
-              "description": "访问 usercn.fnos.net",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=usercn.fnos.net",
-              "enabled": true
-            },
-            {
-              "id": "site_1775750055048_igye8031u",
-              "title": "飞牛影视",
-              "href": "https://usercn.fnos.net/v",
-              "description": "访问 usercn.fnos.net",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=usercn.fnos.net",
-              "enabled": true
-            },
-            {
-              "id": "site_1775750260117_whwtaga9h",
-              "title": "Minipaint",
-              "href": "https://minipaint.usercn.fnos.net/",
-              "description": "访问 minipaint.usercn.fnos.net",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=minipaint.usercn.fnos.net",
-              "enabled": true
-            },
-            {
-              "id": "site_1775750283397_g40pkr6lb",
-              "title": "Omni-tools",
-              "href": "https://omni-tools.usercn.fnos.net/",
-              "description": "访问 omni-tools.usercn.fnos.net",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=omni-tools.usercn.fnos.net",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "8a89bf0c-a8a9-401d-8e9a-3022d9bf7e7e",
-          "title": "内网",
-          "icon": "Link",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "site_1775816745972_8p0kg3rej",
-              "title": "SmartStrm",
-              "href": "http://10.1.1.251:8024/login",
-              "description": "访问 10.1.1.251",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.1.1.251",
-              "enabled": true
-            },
-            {
-              "id": "site_1775816781583_76kzxzwd3",
-              "title": "Lucky",
-              "href": "http://10.1.1.251:6601/#/login",
-              "description": "访问 10.1.1.251",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.1.1.251",
-              "enabled": true
-            },
-            {
-              "id": "site_1775816860065_gwmpkp6oi",
-              "title": "相册",
-              "href": "http://10.1.1.251:2112/p",
-              "description": "访问 10.1.1.251",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.1.1.251",
-              "enabled": true
-            },
-            {
-              "id": "site_1775816894371_g253jpzo1",
-              "title": "影视",
-              "href": "http://10.1.1.251:2112/v/login?redirect_uri=http%3A%2F%2F10.1.1.2%3A2112%2Fv",
-              "description": "访问 10.1.1.251",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.1.1.251",
-              "enabled": true
-            },
-            {
-              "id": "site_1775817020705_hnbl7z0bn",
-              "title": "miniPaint",
-              "href": "http://10.1.1.251:5151/",
-              "description": "访问 10.1.1.251",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.1.1.251",
-              "enabled": true
-            },
-            {
-              "id": "site_1775817157829_qnpmtuzkq",
-              "title": "DNSHealth 健康检测解析",
-              "href": "http://10.1.1.251:2011/register",
-              "description": "访问 10.1.1.251",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.1.1.251",
-              "enabled": true
-            },
-            {
-              "id": "site_1775817188256_gsvz5bmmb",
-              "title": "Transmission",
-              "href": "http://10.1.1.251:9091/transmission/web/",
-              "description": "访问 10.1.1.251",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.1.1.251",
-              "enabled": true
-            },
-            {
-              "id": "site_1775955012506_ewa13026j",
-              "title": "qBittorrent ",
-              "href": "http://10.1.1.251:8085/",
-              "description": "访问 10.1.1.251",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.1.1.251",
-              "enabled": true
-            },
-            {
-              "id": "site_1775955112813_fz3x1puuf",
-              "title": "IPTV",
-              "href": "http://10.1.1.251:15760/",
-              "description": "访问 10.1.1.251",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.1.1.251",
-              "enabled": true
-            },
-            {
-              "id": "site_1775955238612_204onh3fe",
-              "title": "Gitea",
-              "href": "http://10.1.1.251:8418/",
-              "description": "访问 10.1.1.251",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.1.1.251",
-              "enabled": true
-            },
-            {
-              "id": "site_1775955280680_3cl5y54fh",
-              "title": "OpenList",
-              "href": "http://10.1.1.251:4080/",
-              "description": "访问 10.1.1.251",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.1.1.251",
-              "enabled": true
-            },
-            {
-              "id": "site_1775955336041_o09uvgb1t",
-              "title": "UPSnap",
-              "href": "http://10.1.1.251:8090/login/",
-              "description": "访问 10.1.1.251",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.1.1.251",
-              "enabled": true
-            },
-            {
-              "id": "site_1775955426784_sfx16kibp",
-              "title": "IPTV-Spider",
-              "href": "http://10.1.1.251:50089/login",
-              "description": "访问 10.1.1.251",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.1.1.251",
-              "enabled": true
-            },
-            {
-              "id": "site_1775955528294_sa5slvctt",
-              "title": "Emby",
-              "href": "http://10.1.1.251:8096/",
-              "description": "访问 10.1.1.251",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.1.1.251",
-              "enabled": true
-            },
-            {
-              "id": "site_1775955658770_ipp6o5a88",
-              "title": "music-tag-web",
-              "href": "http://10.1.1.251:8002/",
-              "description": "访问 10.1.1.251",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.1.1.251",
-              "enabled": true
-            },
-            {
-              "id": "site_1775955708632_i6mh8risb",
-              "title": "iptv-checker",
-              "href": "http://10.1.1.251:7791/",
-              "description": "访问 10.1.1.251",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.1.1.251",
-              "enabled": true
-            },
-            {
-              "id": "site_1775955809882_je4xliaqk",
-              "title": "Tugtainer",
-              "href": "http://10.1.1.251:2080/auth",
-              "description": "访问 10.1.1.251",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.1.1.251",
-              "enabled": true
-            },
-            {
-              "id": "site_1775955849894_lni3c1lro",
-              "title": "vocechat",
-              "href": "http://10.1.1.251:3456/#/login",
-              "description": "访问 10.1.1.251",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.1.1.251",
-              "enabled": true
-            },
-            {
-              "id": "site_1775955931216_v4th3coki",
-              "title": "IYUUPlus",
-              "href": "http://10.1.1.251:8780/app/admin",
-              "description": "访问 10.1.1.251",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.1.1.251",
-              "enabled": true
-            },
-            {
-              "id": "site_1775956087895_3owly2fql",
-              "title": "Navidrome",
-              "href": "http://10.1.1.251:4533/app/#/login",
-              "description": "访问 10.1.1.251",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.1.1.251",
-              "enabled": true
-            },
-            {
-              "id": "site_1775956141976_a80mgbsl0",
-              "title": "IPTV-Spider（Docker）",
-              "href": "http://10.1.1.251:50085/authorize",
-              "description": "访问 10.1.1.251",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.1.1.251",
-              "enabled": true
-            },
-            {
-              "id": "site_1775956187394_1ojactw0e",
-              "title": "Jellyfin",
-              "href": "http://10.1.1.251:8097/web/#/login.html?serverid=598c856f815d49399c23cb8f6e0ac100&url=%2Fhome.html",
-              "description": "访问 10.1.1.251",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.1.1.251",
-              "enabled": true
-            },
-            {
-              "id": "site_1775956264803_p8auh6r64",
-              "title": "v2raya",
-              "href": "http://10.1.1.251:2017/",
-              "description": "访问 10.1.1.251",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.1.1.251",
-              "enabled": true
-            },
-            {
-              "id": "site_1775956324625_zmhpb4n1p",
-              "title": "Mitv",
-              "href": "http://10.1.1.251:13007/",
-              "description": "访问 10.1.1.251",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.1.1.251",
-              "enabled": true
-            },
-            {
-              "id": "site_1775956362539_lmn0xf3rx",
-              "title": "jmalcloud",
-              "href": "http://10.1.1.251:1072/login?redirect=%2F",
-              "description": "访问 10.1.1.251",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.1.1.251",
-              "enabled": true
-            },
-            {
-              "id": "site_1775956388391_q14mlm7vk",
-              "title": "Solara",
-              "href": "http://10.1.1.251:10086/",
-              "description": "访问 10.1.1.251",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.1.1.251",
               "enabled": true
             }
           ]
