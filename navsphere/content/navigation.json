@@ -390,6 +390,14 @@
               "description": "App Screenshot Generator for App Store&Google Play,Create panoramic screenshots for iOS and Android apps. No account needed.",
               "icon": "/assets/img_1735258064656.webp",
               "enabled": true
+            },
+            {
+              "id": "3_5",
+              "title": "TinyPNG",
+              "href": "https://tinypng.com/",
+              "description": "在线图片压缩工具",
+              "icon": "/assets/images/logos/tinypng.webp",
+              "enabled": true
             }
           ]
         },
@@ -1512,14 +1520,6 @@
               "href": "https://tableconvert.com/",
               "description": "Excel转sql在线工具。将你的Excel数据转换成一个网络友好格式,包括HTML、JSON和XML,还可以把Excel 转换成Sql,excel 表格转成 Markdown",
               "icon": "/assets/images/logos/tableconvert.webp",
-              "enabled": true
-            },
-            {
-              "id": "3_5",
-              "title": "TinyPNG",
-              "href": "https://tinypng.com/",
-              "description": "在线图片压缩工具",
-              "icon": "/assets/images/logos/tinypng.webp",
               "enabled": true
             }
           ],
