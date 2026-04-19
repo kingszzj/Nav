@@ -1770,6 +1770,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "e93ffab6-2190-4410-bd2a-11eafb6c5be2",
+          "title": "翻译工具",
+          "icon": "BookOpen",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
