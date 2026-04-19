@@ -2374,6 +2374,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1776611472131",
+      "title": "邮箱",
+      "icon": "FolderOpen",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
