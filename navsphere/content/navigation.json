@@ -1777,7 +1777,16 @@
           "icon": "BookOpen",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1776614595652",
+              "title": "阿里翻译",
+              "href": "https://translate.alibaba.com/#core-translation",
+              "description": "访问 translate.alibaba.com",
+              "icon": "/assets/favicon_1776614599885.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
