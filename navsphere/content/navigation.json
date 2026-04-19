@@ -1665,6 +1665,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "eaa51ff8-e9c2-4a26-a563-0bb7c8d0be3b",
+          "title": "邮箱",
+          "icon": "Mail",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
