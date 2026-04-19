@@ -1663,6 +1663,14 @@
               "description": "使用 Google 账号（个人用途）或 Google Workspace 账号（企业用途）访问 Google 云端硬盘。",
               "icon": "/assets/favicon_1764304640963.webp",
               "enabled": true
+            },
+            {
+              "id": "1776611751270",
+              "title": "夸克网盘",
+              "href": "https://pan.quark.cn/",
+              "description": "访问 pan.quark.cn",
+              "icon": "/assets/favicon_1776611755418.png",
+              "enabled": true
             }
           ]
         },
