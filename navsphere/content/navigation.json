@@ -1557,6 +1557,14 @@
               "description": "合并、压缩、创建、编辑和转换PDF文件的免费在线PDF工具。 ✓ 无任何限制且无水印。 ✓ 无需安装或注册。",
               "icon": "/assets/favicon_1776614725489.png",
               "enabled": true
+            },
+            {
+              "id": "1776614837244",
+              "title": "霹雳设计PPT",
+              "href": "https://pilidz.cn/?from=jigdh.com",
+              "description": "访问 pilidz.cn",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=pilidz.cn",
+              "enabled": true
             }
           ]
         },
