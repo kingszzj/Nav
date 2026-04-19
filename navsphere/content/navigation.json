@@ -579,6 +579,144 @@
       "enabled": true
     },
     {
+      "id": "1775654552316",
+      "title": "教育 · 咨询",
+      "icon": "FolderOpen",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "site_1775661609422_racz860cw",
+          "title": "蓝天教育",
+          "href": "https://v3.lt-edu.net/login.html#/login",
+          "description": "访问 v3.lt-edu.net",
+          "icon": "/assets/img_1776353880518.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1775651882592_t72ugxxd7",
+          "title": "网上党校",
+          "href": "https://wsdx.ccps.gov.cn/",
+          "description": "访问 wsdx.ccps.gov.cn",
+          "icon": "/assets/img_1776353949747.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1775651744361_atyt966k7",
+          "title": "教习网",
+          "href": "https://www.51jiaoxi.com/yw/tb_c92831/",
+          "description": "访问 www.51jiaoxi.com",
+          "icon": "/assets/favicon_1775651686948.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1775652075521_zqf57nt18",
+          "title": "学科网",
+          "href": "https://www.zxxk.com/",
+          "description": "访问 www.zxxk.com",
+          "icon": "/assets/favicon_1775652057703.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1775650814168_38waiaemj",
+          "title": "云校",
+          "href": "https://www.yunxiao.com/",
+          "description": "访问 www.yunxiao.com",
+          "icon": "/assets/favicon_1775650768201.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1775662578366_wfpfpjh0t",
+          "title": "全国人事考试服务平台",
+          "href": "http://zp.cpta.com.cn/tyzpwb/login/login_qt.htm",
+          "description": "访问 zp.cpta.com.cn",
+          "icon": "/assets/img_1776353840158.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1775662712896_5zqztgyin",
+          "title": "全国教师管理信息系统",
+          "href": "https://jiaoshi.gds.edu.cn/",
+          "description": "访问 jiaoshi.gds.edu.cn",
+          "icon": "/assets/img_1776353760815.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1775661511931_xq1iwh6dr",
+          "title": "广东省资助管理平台",
+          "href": "https://zzzh.gdedu.gov.cn/login",
+          "description": "访问 zzzh.gdedu.gov.cn",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=zzzh.gdedu.gov.cn",
+          "enabled": true
+        },
+        {
+          "id": "site_1775661690021_bsntmcj5m",
+          "title": "中国教育考试网",
+          "href": "https://ntce.neea.edu.cn/html1/folder/1507/1077-1.htm",
+          "description": "访问 ntce.neea.edu.cn",
+          "icon": "/assets/favicon_1775661652692.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1775662778748_jsh6zc5g1",
+          "title": "中小学网络党校",
+          "href": "http://www.zxxdx.com.cn/",
+          "description": "访问 www.zxxdx.com.cn",
+          "icon": "/assets/favicon_1775662765595.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1775662964794_p0n0hytgs",
+          "title": "雪竹文学网",
+          "href": "https://www.xuezhu.net/html/fanwen/322022.html",
+          "description": "访问 www.xuezhu.net",
+          "icon": "/assets/favicon_1775662922914.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1775662641848_qgf6efgek",
+          "title": "编辑校对网",
+          "href": "http://www.chinabianjiao.com/info-100190.html",
+          "description": "访问 www.chinabianjiao.com",
+          "icon": "/assets/img_1776354003264.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1775662297436_ejh4l4cio",
+          "title": "会计学堂",
+          "href": "https://www.acc5.com/",
+          "description": "访问 www.acc5.com",
+          "icon": "/assets/favicon_1775662274947.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1775662900397_53j8tlqfz",
+          "title": "好期刊",
+          "href": "https://www.haoqikan.com/fanwen/22582.html",
+          "description": "访问 www.haoqikan.com",
+          "icon": "/assets/favicon_1775662846643.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1775663786796_ztrxbqnu1",
+          "title": "263展示互动",
+          "href": "https://bjpep.gensee.com/webcast/site/vod/play-8c2c70eb37234d86a6293052d8640ac4?nickName=%E6%98%93%E7%90%BC%E7%91%B6&uid=1025443982",
+          "description": "访问 bjpep.gensee.com",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=bjpep.gensee.com",
+          "enabled": true
+        },
+        {
+          "id": "site_1775663028800_grsydkgr0",
+          "title": "广东省疾病预防控制中心网",
+          "href": "https://cdcp.gd.gov.cn/jkjy/jkzt/crbyfykz/crbkpyd/content/post_4751183.html",
+          "description": "广东省疾病预防控制中心网站由广东省疾病预防控制中心主办。",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=cdcp.gd.gov.cn",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
       "id": "1735265493940",
       "title": "在线 · 工具",
       "icon": "Box",
@@ -1622,144 +1760,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1775654552316",
-      "title": "教育 · 咨询",
-      "icon": "FolderOpen",
-      "description": "",
-      "enabled": true,
-      "items": [
-        {
-          "id": "site_1775661609422_racz860cw",
-          "title": "蓝天教育",
-          "href": "https://v3.lt-edu.net/login.html#/login",
-          "description": "访问 v3.lt-edu.net",
-          "icon": "/assets/img_1776353880518.png",
-          "enabled": true
-        },
-        {
-          "id": "site_1775651882592_t72ugxxd7",
-          "title": "网上党校",
-          "href": "https://wsdx.ccps.gov.cn/",
-          "description": "访问 wsdx.ccps.gov.cn",
-          "icon": "/assets/img_1776353949747.png",
-          "enabled": true
-        },
-        {
-          "id": "site_1775651744361_atyt966k7",
-          "title": "教习网",
-          "href": "https://www.51jiaoxi.com/yw/tb_c92831/",
-          "description": "访问 www.51jiaoxi.com",
-          "icon": "/assets/favicon_1775651686948.png",
-          "enabled": true
-        },
-        {
-          "id": "site_1775652075521_zqf57nt18",
-          "title": "学科网",
-          "href": "https://www.zxxk.com/",
-          "description": "访问 www.zxxk.com",
-          "icon": "/assets/favicon_1775652057703.png",
-          "enabled": true
-        },
-        {
-          "id": "site_1775650814168_38waiaemj",
-          "title": "云校",
-          "href": "https://www.yunxiao.com/",
-          "description": "访问 www.yunxiao.com",
-          "icon": "/assets/favicon_1775650768201.png",
-          "enabled": true
-        },
-        {
-          "id": "site_1775662578366_wfpfpjh0t",
-          "title": "全国人事考试服务平台",
-          "href": "http://zp.cpta.com.cn/tyzpwb/login/login_qt.htm",
-          "description": "访问 zp.cpta.com.cn",
-          "icon": "/assets/img_1776353840158.png",
-          "enabled": true
-        },
-        {
-          "id": "site_1775662712896_5zqztgyin",
-          "title": "全国教师管理信息系统",
-          "href": "https://jiaoshi.gds.edu.cn/",
-          "description": "访问 jiaoshi.gds.edu.cn",
-          "icon": "/assets/img_1776353760815.png",
-          "enabled": true
-        },
-        {
-          "id": "site_1775661511931_xq1iwh6dr",
-          "title": "广东省资助管理平台",
-          "href": "https://zzzh.gdedu.gov.cn/login",
-          "description": "访问 zzzh.gdedu.gov.cn",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=zzzh.gdedu.gov.cn",
-          "enabled": true
-        },
-        {
-          "id": "site_1775661690021_bsntmcj5m",
-          "title": "中国教育考试网",
-          "href": "https://ntce.neea.edu.cn/html1/folder/1507/1077-1.htm",
-          "description": "访问 ntce.neea.edu.cn",
-          "icon": "/assets/favicon_1775661652692.png",
-          "enabled": true
-        },
-        {
-          "id": "site_1775662778748_jsh6zc5g1",
-          "title": "中小学网络党校",
-          "href": "http://www.zxxdx.com.cn/",
-          "description": "访问 www.zxxdx.com.cn",
-          "icon": "/assets/favicon_1775662765595.png",
-          "enabled": true
-        },
-        {
-          "id": "site_1775662964794_p0n0hytgs",
-          "title": "雪竹文学网",
-          "href": "https://www.xuezhu.net/html/fanwen/322022.html",
-          "description": "访问 www.xuezhu.net",
-          "icon": "/assets/favicon_1775662922914.png",
-          "enabled": true
-        },
-        {
-          "id": "site_1775662641848_qgf6efgek",
-          "title": "编辑校对网",
-          "href": "http://www.chinabianjiao.com/info-100190.html",
-          "description": "访问 www.chinabianjiao.com",
-          "icon": "/assets/img_1776354003264.png",
-          "enabled": true
-        },
-        {
-          "id": "site_1775662297436_ejh4l4cio",
-          "title": "会计学堂",
-          "href": "https://www.acc5.com/",
-          "description": "访问 www.acc5.com",
-          "icon": "/assets/favicon_1775662274947.png",
-          "enabled": true
-        },
-        {
-          "id": "site_1775662900397_53j8tlqfz",
-          "title": "好期刊",
-          "href": "https://www.haoqikan.com/fanwen/22582.html",
-          "description": "访问 www.haoqikan.com",
-          "icon": "/assets/favicon_1775662846643.png",
-          "enabled": true
-        },
-        {
-          "id": "site_1775663786796_ztrxbqnu1",
-          "title": "263展示互动",
-          "href": "https://bjpep.gensee.com/webcast/site/vod/play-8c2c70eb37234d86a6293052d8640ac4?nickName=%E6%98%93%E7%90%BC%E7%91%B6&uid=1025443982",
-          "description": "访问 bjpep.gensee.com",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=bjpep.gensee.com",
-          "enabled": true
-        },
-        {
-          "id": "site_1775663028800_grsydkgr0",
-          "title": "广东省疾病预防控制中心网",
-          "href": "https://cdcp.gd.gov.cn/jkjy/jkzt/crbyfykz/crbkpyd/content/post_4751183.html",
-          "description": "广东省疾病预防控制中心网站由广东省疾病预防控制中心主办。",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=cdcp.gd.gov.cn",
-          "enabled": true
-        }
-      ],
-      "subCategories": []
     },
     {
       "id": "1775623284009",
