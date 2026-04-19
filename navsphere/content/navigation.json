@@ -1153,6 +1153,14 @@
               "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。",
               "icon": "/assets/images/logos/vercel.webp",
               "enabled": true
+            },
+            {
+              "id": "site_1776613830635_itg23w2xd",
+              "title": "Gitee",
+              "href": "https://gitee.com/",
+              "description": "访问 gitee.com",
+              "icon": "/assets/favicon_1776613813315.png",
+              "enabled": true
             }
           ]
         },
