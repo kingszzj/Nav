@@ -746,6 +746,14 @@
               "description": "Beautify JavaScript, JSON, React.js, HTML, CSS, SCSS, and SASS",
               "icon": "/assets/images/logos/beautifier.webp",
               "enabled": true
+            },
+            {
+              "id": "3_4",
+              "title": "SQL格式化",
+              "href": "https://www.dpriver.com/pp/sqlformat.htm",
+              "description": "在线美化SQL语句的工具，格式化方便阅读",
+              "icon": "/assets/images/logos/sqlformat.webp",
+              "enabled": true
             }
           ]
         },
@@ -1504,14 +1512,6 @@
               "href": "https://tableconvert.com/",
               "description": "Excel转sql在线工具。将你的Excel数据转换成一个网络友好格式,包括HTML、JSON和XML,还可以把Excel 转换成Sql,excel 表格转成 Markdown",
               "icon": "/assets/images/logos/tableconvert.webp",
-              "enabled": true
-            },
-            {
-              "id": "3_4",
-              "title": "SQL格式化",
-              "href": "https://www.dpriver.com/pp/sqlformat.htm",
-              "description": "在线美化SQL语句的工具，格式化方便阅读",
-              "icon": "/assets/images/logos/sqlformat.webp",
               "enabled": true
             },
             {
