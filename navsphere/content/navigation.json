@@ -842,6 +842,14 @@
               "description": "qBittorrent WebUI",
               "icon": "/assets/favicon_1776673148935.png",
               "enabled": true
+            },
+            {
+              "id": "1776673204616",
+              "title": "FlatNas",
+              "href": "https://flatnas.userc.org/",
+              "description": "",
+              "icon": "/assets/favicon_1776673207870.ico",
+              "enabled": true
             }
           ]
         },
