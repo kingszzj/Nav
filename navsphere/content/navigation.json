@@ -898,6 +898,14 @@
               "description": "访问 vm.userc.org",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=vm.userc.org",
               "enabled": true
+            },
+            {
+              "id": "1776675509569",
+              "title": "Lucky",
+              "href": "https://lucky.userc.org/#/login",
+              "description": "",
+              "icon": "/assets/favicon_1776675513477.svg",
+              "enabled": true
             }
           ]
         },
