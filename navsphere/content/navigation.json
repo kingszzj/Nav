@@ -810,6 +810,14 @@
               "description": "",
               "icon": "/assets/favicon_1776672784356.png",
               "enabled": true
+            },
+            {
+              "id": "1776672926501",
+              "title": "SmartStrm",
+              "href": "https://sst.userc.org/login",
+              "description": "",
+              "icon": "/assets/favicon_1776672930296.ico",
+              "enabled": true
             }
           ]
         },
