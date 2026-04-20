@@ -770,6 +770,14 @@
               "description": "访问 sol.userc.org",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=sol.userc.org",
               "enabled": true
+            },
+            {
+              "id": "1776672287190",
+              "title": "FntermX",
+              "href": "https://fnx.userc.org/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=fnx.userc.org",
+              "enabled": true
             }
           ]
         },
