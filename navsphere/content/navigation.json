@@ -826,6 +826,14 @@
               "description": "Media Server",
               "icon": "/assets/favicon_1776672977069.ico",
               "enabled": true
+            },
+            {
+              "id": "1776673122968",
+              "title": "Jellyfin",
+              "href": "https://jelly.userc.org/web/#/login.html?serverid=598c856f815d49399c23cb8f6e0ac100&url=%2Fhome.html",
+              "description": "",
+              "icon": "https://jelly.userc.org/bc8d51405ec040305a87.ico",
+              "enabled": true
             }
           ]
         },
