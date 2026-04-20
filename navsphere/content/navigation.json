@@ -802,6 +802,14 @@
               "description": "",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=icloud.userc.org",
               "enabled": true
+            },
+            {
+              "id": "1776672774266",
+              "title": "OmniTools",
+              "href": "https://itools.userc.org/",
+              "description": "",
+              "icon": "/assets/favicon_1776672784356.png",
+              "enabled": true
             }
           ]
         },
