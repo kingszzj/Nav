@@ -882,6 +882,14 @@
               "description": "Gitea (Git with a cup of tea) is a painless self-hosted Git service written in Go",
               "icon": "/assets/favicon_1776673374004.svg",
               "enabled": true
+            },
+            {
+              "id": "1776673425221",
+              "title": "Transmission",
+              "href": "https://tr.userc.org/transmission/web/",
+              "description": "访问 tr.userc.org",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=tr.userc.org",
+              "enabled": true
             }
           ]
         },
