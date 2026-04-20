@@ -762,6 +762,14 @@
               "description": "MoviePilot - 智能影视媒体库管理工具",
               "icon": "/assets/favicon_1776672136794.ico",
               "enabled": true
+            },
+            {
+              "id": "1776672233412",
+              "title": "Solara",
+              "href": "https://sol.userc.org/",
+              "description": "访问 sol.userc.org",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=sol.userc.org",
+              "enabled": true
             }
           ]
         },
