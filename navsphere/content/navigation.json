@@ -822,7 +822,7 @@
             {
               "id": "1776672973316",
               "title": "Media Server",
-              "href": "https://emby.userc.org/web/index.html",
+              "href": "https://emby.userc.org/web/index.html#!/startup/manuallogin.html?serverId=f9e90db553e943d9a9b57aaf6e6cbb59",
               "description": "Media Server",
               "icon": "/assets/favicon_1776672977069.ico",
               "enabled": true
