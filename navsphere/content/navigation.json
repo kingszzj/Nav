@@ -754,6 +754,14 @@
               "description": "",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=fnos.userc.org",
               "enabled": true
+            },
+            {
+              "id": "1776672132468",
+              "title": "MoviePilot",
+              "href": "https://mp.userc.org/#/login",
+              "description": "MoviePilot - 智能影视媒体库管理工具",
+              "icon": "/assets/favicon_1776672136794.ico",
+              "enabled": true
             }
           ]
         },
