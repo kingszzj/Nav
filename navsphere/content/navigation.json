@@ -890,6 +890,14 @@
               "description": "访问 tr.userc.org",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=tr.userc.org",
               "enabled": true
+            },
+            {
+              "id": "1776673679817",
+              "title": "Vaultwarden",
+              "href": "https://vm.userc.org/#/login",
+              "description": "访问 vm.userc.org",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=vm.userc.org",
+              "enabled": true
             }
           ]
         },
