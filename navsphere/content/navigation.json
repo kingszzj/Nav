@@ -834,6 +834,14 @@
               "description": "",
               "icon": "https://jelly.userc.org/bc8d51405ec040305a87.ico",
               "enabled": true
+            },
+            {
+              "id": "1776673146060",
+              "title": "qBittorrent WebUI",
+              "href": "https://qt.userc.org/",
+              "description": "qBittorrent WebUI",
+              "icon": "/assets/favicon_1776673148935.png",
+              "enabled": true
             }
           ]
         },
