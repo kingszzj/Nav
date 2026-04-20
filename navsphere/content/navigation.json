@@ -778,6 +778,14 @@
               "description": "",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=fnx.userc.org",
               "enabled": true
+            },
+            {
+              "id": "1776672341801",
+              "title": "OpenList",
+              "href": "https://olist.userc.org/@login?redirect=%2F",
+              "description": "",
+              "icon": "/assets/favicon_1776672362034.svg",
+              "enabled": true
             }
           ]
         },
