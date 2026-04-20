@@ -818,6 +818,14 @@
               "description": "",
               "icon": "/assets/favicon_1776672930296.ico",
               "enabled": true
+            },
+            {
+              "id": "1776672973316",
+              "title": "Media Server",
+              "href": "https://emby.userc.org/web/index.html",
+              "description": "Media Server",
+              "icon": "/assets/favicon_1776672977069.ico",
+              "enabled": true
             }
           ]
         },
