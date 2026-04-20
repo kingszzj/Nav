@@ -874,6 +874,14 @@
               "description": "",
               "icon": "/assets/favicon_1776673342195.ico",
               "enabled": true
+            },
+            {
+              "id": "1776673371216",
+              "title": "Gitea",
+              "href": "https://git.userc.org/",
+              "description": "Gitea (Git with a cup of tea) is a painless self-hosted Git service written in Go",
+              "icon": "/assets/favicon_1776673374004.svg",
+              "enabled": true
             }
           ]
         },
