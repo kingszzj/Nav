@@ -850,6 +850,14 @@
               "description": "",
               "icon": "/assets/favicon_1776673207870.ico",
               "enabled": true
+            },
+            {
+              "id": "1776673249461",
+              "title": "Navidrome",
+              "href": "https://navi.userc.org/app/#/login",
+              "description": "Navidrome Music Server - v0.61.1 (e7c7cba8)",
+              "icon": "/assets/favicon_1776673252463.png",
+              "enabled": true
             }
           ]
         },
