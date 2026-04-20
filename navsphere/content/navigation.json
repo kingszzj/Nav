@@ -794,6 +794,14 @@
               "description": "miniPaint is free online image editor using HTML5. Edit, adjust your images, add effects online in your browser, without installing anything...",
               "icon": "/assets/favicon_1776672417695.png",
               "enabled": true
+            },
+            {
+              "id": "1776672683993",
+              "title": "影视云盘",
+              "href": "https://icloud.userc.org/login",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=icloud.userc.org",
+              "enabled": true
             }
           ]
         },
