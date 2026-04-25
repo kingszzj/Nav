@@ -1240,6 +1240,14 @@
           "description": "访问 www.gxrc.com",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.gxrc.com",
           "enabled": true
+        },
+        {
+          "id": "site_1777086275603_276dbqgc0",
+          "title": "智慧政务",
+          "href": "https://zwfw.gxzf.gov.cn/eportal/ui?regionCode=3&pageId=3cd3d403fb4443d5becb61375b2b093a",
+          "description": "访问 zwfw.gxzf.gov.cn",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=zwfw.gxzf.gov.cn",
+          "enabled": true
         }
       ],
       "subCategories": [
