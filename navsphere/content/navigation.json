@@ -1055,14 +1055,6 @@
               "enabled": true
             },
             {
-              "id": "site_1775817157829_qnpmtuzkq",
-              "title": "DNSHealth 健康检测解析",
-              "href": "http://10.1.1.251:2011/register",
-              "description": "访问 10.1.1.251",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.1.1.251",
-              "enabled": true
-            },
-            {
               "id": "site_1775817188256_gsvz5bmmb",
               "title": "Transmission",
               "href": "http://10.1.1.251:9091/transmission/web/",
