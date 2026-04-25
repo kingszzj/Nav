@@ -844,14 +844,6 @@
               "enabled": true
             },
             {
-              "id": "1776673204616",
-              "title": "FlatNas",
-              "href": "https://flatnas.userc.org/",
-              "description": "",
-              "icon": "/assets/favicon_1776673207870.ico",
-              "enabled": true
-            },
-            {
               "id": "1776673249461",
               "title": "Navidrome",
               "href": "https://navi.userc.org/app/#/login",
