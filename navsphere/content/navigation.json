@@ -108,6 +108,14 @@
           "description": "一站式在线工具合集，内置多种强大 AI 工具。支持图片生成、文件格式转换和视频下载，无广告，无需登录，打开即用。",
           "icon": "/assets/favicon_1776267032778.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1777085371899_kxr55mqzc",
+          "title": "搜狗搜索",
+          "href": "https://www.sogou.com/",
+          "description": "搜狗搜索是全球第三代互动式搜索引擎，支持微信公众号和文章搜索、知乎搜索、英文搜索及翻译等，通过自主研发的人工智能算法为用户提供专业、精准、便捷的搜索服务。",
+          "icon": "/assets/favicon_1777085360423.ico",
+          "enabled": true
         }
       ],
       "subCategories": [],
