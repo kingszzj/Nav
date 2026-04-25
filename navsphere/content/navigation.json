@@ -860,14 +860,6 @@
               "enabled": true
             },
             {
-              "id": "1776673293728",
-              "title": "Sonarr",
-              "href": "https://sonarr.userc.org/login?returnUrl=%2F",
-              "description": "Sonarr",
-              "icon": "/assets/favicon_1776673296743.png",
-              "enabled": true
-            },
-            {
               "id": "1776673339355",
               "title": "清和电视",
               "href": "https://iptv.userc.org/",
