@@ -116,6 +116,14 @@
           "description": "搜狗搜索是全球第三代互动式搜索引擎，支持微信公众号和文章搜索、知乎搜索、英文搜索及翻译等，通过自主研发的人工智能算法为用户提供专业、精准、便捷的搜索服务。",
           "icon": "/assets/favicon_1777085360423.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1777085488515_in1zakayn",
+          "title": "360搜索",
+          "href": "https://www.so.com/",
+          "description": "访问 www.so.com",
+          "icon": "/assets/favicon_1777085464171.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
