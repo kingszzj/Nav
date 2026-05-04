@@ -124,6 +124,14 @@
           "description": "访问 www.so.com",
           "icon": "/assets/favicon_1777085464171.png",
           "enabled": true
+        },
+        {
+          "id": "site_1777881522342_2zh2abpe2",
+          "title": "中国铁路12306",
+          "href": "https://www.12306.cn/",
+          "description": "",
+          "icon": "/assets/favicon_1777881494553.ico",
+          "enabled": true
         }
       ],
       "subCategories": [],
