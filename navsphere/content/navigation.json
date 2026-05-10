@@ -2173,6 +2173,14 @@
               "description": "",
               "icon": "/assets/favicon_1778412579595.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1778413117565_wms7sk6ae",
+              "title": "CarPT",
+              "href": "https://carpt.net/index.php",
+              "description": "",
+              "icon": "/assets/favicon_1778413100090.ico",
+              "enabled": true
             }
           ]
         }
