@@ -2165,6 +2165,14 @@
               "description": "访问 www.dayanzai.me",
               "icon": "/assets/favicon_1776614313343.png",
               "enabled": true
+            },
+            {
+              "id": "site_1778412595236_ococpl7w5",
+              "title": "HDVideo",
+              "href": "https://hdvideo.top/index.php",
+              "description": "",
+              "icon": "/assets/favicon_1778412579595.ico",
+              "enabled": true
             }
           ]
         }
