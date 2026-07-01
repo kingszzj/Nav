@@ -406,14 +406,6 @@
               "enabled": true
             },
             {
-              "id": "site_1775628708269_2a20d7pff",
-              "title": "禅道",
-              "href": "http://zentao.pttl.com/user-login-L215Lmh0bWw=.html",
-              "description": "访问 zentao.pttl.com",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=zentao.pttl.com",
-              "enabled": true
-            },
-            {
               "id": "site_1775629186891_x49ds5zjm",
               "title": "易流",
               "href": "https://i.g7e6.com.cn/uc/login?dst_system_code=e6yun",
@@ -593,6 +585,14 @@
               "href": "http://csc-uat.pttl.com/login.html",
               "description": "",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=csc-uat.pttl.com",
+              "enabled": true
+            },
+            {
+              "id": "site_1775628708269_2a20d7pff",
+              "title": "禅道",
+              "href": "http://zentao.pttl.com/user-login-L215Lmh0bWw=.html",
+              "description": "访问 zentao.pttl.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=zentao.pttl.com",
               "enabled": true
             }
           ],
