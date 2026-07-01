@@ -486,6 +486,14 @@
               "description": "访问 el.yidianzhishi.com",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=el.yidianzhishi.com",
               "enabled": true
+            },
+            {
+              "id": "site_1782904850093_1qzowi8he",
+              "title": "知识管理平台",
+              "href": "http://kb.pttl.com/IPKBv2/pageV3/login.jsp",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=kb.pttl.com",
+              "enabled": true
             }
           ],
           "enabled": true
