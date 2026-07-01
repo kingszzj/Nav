@@ -828,14 +828,6 @@
               "enabled": true
             },
             {
-              "id": "1776672774266",
-              "title": "OmniTools",
-              "href": "https://itools.userc.org/",
-              "description": "",
-              "icon": "/assets/favicon_1776672784356.png",
-              "enabled": true
-            },
-            {
               "id": "1776672926501",
               "title": "SmartStrm",
               "href": "https://sst.userc.org/login",
