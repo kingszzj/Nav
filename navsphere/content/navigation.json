@@ -309,40 +309,6 @@
       "items": [],
       "subCategories": [
         {
-          "id": "7",
-          "title": "人力.报销",
-          "href": "#在线配色",
-          "icon": "Book",
-          "description": "",
-          "items": [
-            {
-              "id": "site_1775631509460_7eu6f0w75",
-              "title": "太力业财一体化穿透式管理平台",
-              "href": "https://bfm.f.pttl.com/oauth/login",
-              "description": "访问 bfm.f.pttl.com",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=bfm.f.pttl.com",
-              "enabled": true
-            },
-            {
-              "id": "site_1775628442935_3u93cu8kg",
-              "title": "智慧太力人",
-              "href": "https://tlihr.pttl.com/psp/ps/?cmd=login&languageCd=ZHS&",
-              "description": "访问 tlihr.pttl.com",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=tlihr.pttl.com",
-              "enabled": true
-            },
-            {
-              "id": "site_1775628675672_hej4j8xxj",
-              "title": "数智监管系统",
-              "href": "http://dim.pttl.com/login",
-              "description": "访问 dim.pttl.com",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=dim.pttl.com",
-              "enabled": true
-            }
-          ],
-          "enabled": true
-        },
-        {
           "id": "3",
           "title": "生产工具",
           "href": "#在线工具",
@@ -453,6 +419,40 @@
               "href": "https://mpassport.suning.com/ids/login?service=https%3A%2F%2Fscpc.suning.com%2Fscpc%2Fauth%3FtargetUrl%3Dhttps%253A%252F%252Fscpc.suning.com%252Fscpc%252FpurchaseOrderNew%252FqueryPurchaseOrderPendDelivery.action&loginTheme=sop",
               "description": "访问 mpassport.suning.com",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=mpassport.suning.com",
+              "enabled": true
+            }
+          ],
+          "enabled": true
+        },
+        {
+          "id": "7",
+          "title": "人力.报销",
+          "href": "#在线配色",
+          "icon": "Book",
+          "description": "",
+          "items": [
+            {
+              "id": "site_1775631509460_7eu6f0w75",
+              "title": "太力业财一体化穿透式管理平台",
+              "href": "https://bfm.f.pttl.com/oauth/login",
+              "description": "访问 bfm.f.pttl.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=bfm.f.pttl.com",
+              "enabled": true
+            },
+            {
+              "id": "site_1775628442935_3u93cu8kg",
+              "title": "智慧太力人",
+              "href": "https://tlihr.pttl.com/psp/ps/?cmd=login&languageCd=ZHS&",
+              "description": "访问 tlihr.pttl.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=tlihr.pttl.com",
+              "enabled": true
+            },
+            {
+              "id": "site_1775628675672_hej4j8xxj",
+              "title": "数智监管系统",
+              "href": "http://dim.pttl.com/login",
+              "description": "访问 dim.pttl.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=dim.pttl.com",
               "enabled": true
             }
           ],
