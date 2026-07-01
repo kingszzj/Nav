@@ -459,56 +459,6 @@
           "enabled": true
         },
         {
-          "id": "6",
-          "title": "学习.互动",
-          "href": "#交互动效",
-          "icon": "Book",
-          "description": "",
-          "items": [
-            {
-              "id": "site_1775663294603_ysxba11en",
-              "title": "腾讯企业邮",
-              "href": "https://exmail.qq.com/login",
-              "description": "不只是邮箱，\n更是一种高效办公新体验\n企业微信扫码登录",
-              "icon": "/assets/favicon_1775663188147.ico",
-              "enabled": true
-            },
-            {
-              "id": "site_1775631699443_eyyfillt3",
-              "title": "中安云教育安全生产网络培训平台",
-              "href": "http://zayxyhn.zayxy.com/user/security/login?su=%2FlearnCenter%2Findex",
-              "description": "访问 zayxyhn.zayxy.com",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=zayxyhn.zayxy.com",
-              "enabled": true
-            },
-            {
-              "id": "site_1775628593780_gzqx8bmxp",
-              "title": "太力学习平台",
-              "href": "https://el.yidianzhishi.com/personal.html#!/",
-              "description": "访问 el.yidianzhishi.com",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=el.yidianzhishi.com",
-              "enabled": true
-            },
-            {
-              "id": "site_1782904850093_1qzowi8he",
-              "title": "知识管理平台",
-              "href": "http://kb.pttl.com/IPKBv2/pageV3/login.jsp",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=kb.pttl.com",
-              "enabled": true
-            },
-            {
-              "id": "site_1775630860805_i38m4i8pp",
-              "title": "数智人社",
-              "href": "https://www.gx12333.net/si/#/modules/home/home",
-              "description": "访问 www.gx12333.net",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.gx12333.net",
-              "enabled": true
-            }
-          ],
-          "enabled": true
-        },
-        {
           "id": "5",
           "title": "测试系统",
           "href": "#界面设计",
@@ -585,6 +535,56 @@
               "href": "http://csc-uat.pttl.com/login.html",
               "description": "",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=csc-uat.pttl.com",
+              "enabled": true
+            }
+          ],
+          "enabled": true
+        },
+        {
+          "id": "6",
+          "title": "学习.互动",
+          "href": "#交互动效",
+          "icon": "Book",
+          "description": "",
+          "items": [
+            {
+              "id": "site_1775663294603_ysxba11en",
+              "title": "腾讯企业邮",
+              "href": "https://exmail.qq.com/login",
+              "description": "不只是邮箱，\n更是一种高效办公新体验\n企业微信扫码登录",
+              "icon": "/assets/favicon_1775663188147.ico",
+              "enabled": true
+            },
+            {
+              "id": "site_1775631699443_eyyfillt3",
+              "title": "中安云教育安全生产网络培训平台",
+              "href": "http://zayxyhn.zayxy.com/user/security/login?su=%2FlearnCenter%2Findex",
+              "description": "访问 zayxyhn.zayxy.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=zayxyhn.zayxy.com",
+              "enabled": true
+            },
+            {
+              "id": "site_1775628593780_gzqx8bmxp",
+              "title": "太力学习平台",
+              "href": "https://el.yidianzhishi.com/personal.html#!/",
+              "description": "访问 el.yidianzhishi.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=el.yidianzhishi.com",
+              "enabled": true
+            },
+            {
+              "id": "site_1782904850093_1qzowi8he",
+              "title": "知识管理平台",
+              "href": "http://kb.pttl.com/IPKBv2/pageV3/login.jsp",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=kb.pttl.com",
+              "enabled": true
+            },
+            {
+              "id": "site_1775630860805_i38m4i8pp",
+              "title": "数智人社",
+              "href": "https://www.gx12333.net/si/#/modules/home/home",
+              "description": "访问 www.gx12333.net",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.gx12333.net",
               "enabled": true
             }
           ],
