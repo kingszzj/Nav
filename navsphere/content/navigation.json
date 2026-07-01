@@ -613,6 +613,14 @@
             }
           ],
           "enabled": true
+        },
+        {
+          "id": "7330b184-c253-408d-9b1b-099c7ad390e2",
+          "title": "物流·快递",
+          "icon": "Box",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ],
       "description": "",
