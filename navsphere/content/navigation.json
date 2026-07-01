@@ -374,14 +374,6 @@
               "enabled": true
             },
             {
-              "id": "site_1775628675672_hej4j8xxj",
-              "title": "数智监管系统",
-              "href": "http://dim.pttl.com/login",
-              "description": "访问 dim.pttl.com",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=dim.pttl.com",
-              "enabled": true
-            },
-            {
               "id": "site_1775628759651_4cwugm2a6",
               "title": "CSC订单中心",
               "href": "https://csc.pttl.com/login.html",
@@ -503,6 +495,14 @@
               "href": "https://tlihr.pttl.com/psp/ps/?cmd=login&languageCd=ZHS&",
               "description": "访问 tlihr.pttl.com",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=tlihr.pttl.com",
+              "enabled": true
+            },
+            {
+              "id": "site_1775628675672_hej4j8xxj",
+              "title": "数智监管系统",
+              "href": "http://dim.pttl.com/login",
+              "description": "访问 dim.pttl.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=dim.pttl.com",
               "enabled": true
             }
           ],
