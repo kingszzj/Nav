@@ -1322,6 +1322,14 @@
               "description": "访问 gitee.com",
               "icon": "/assets/favicon_1776613813315.png",
               "enabled": true
+            },
+            {
+              "id": "site_1786859927577_9mdd1iian",
+              "title": "奈云 · 正在选择最优节点",
+              "href": "https://naiun.one/",
+              "description": "正在为您选择最快的奈云接入节点",
+              "icon": "/assets/favicon_1786859911333.svg",
+              "enabled": true
             }
           ]
         },
