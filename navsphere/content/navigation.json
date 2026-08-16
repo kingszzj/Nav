@@ -454,6 +454,14 @@
               "description": "访问 dim.pttl.com",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=dim.pttl.com",
               "enabled": true
+            },
+            {
+              "id": "site_1786859763684_ojsbk2wov",
+              "title": "电科商城",
+              "href": "https://www.cetconline.com",
+              "description": "访问 www.cetconline.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.cetconline.com",
+              "enabled": true
             }
           ],
           "enabled": true
